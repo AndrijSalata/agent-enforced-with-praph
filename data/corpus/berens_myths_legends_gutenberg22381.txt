@@ -1,0 +1,1964 @@
+https://www.gutenberg.org/cache/epub/22381/pg22381.txt
+→ https://www.gutenberg.org/cache/epub/22381/pg22381.txt
+Content-Type: text/plain; charset=utf-8
+
+The Project Gutenberg eBook of Myths and Legends of Ancient Greece and Rome
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Myths and Legends of Ancient Greece and Rome
+
+Author: E. M. Berens
+
+
+        
+Release date: August 23, 2007 [eBook #22381]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/22381
+
+Credits: Produced by Alicia Williams, Keith Edkins and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK MYTHS AND LEGENDS OF ANCIENT GREECE AND ROME ***
+
+
+
+
+Produced by Alicia Williams, Keith Edkins and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+_A HAND-BOOK OF MYTHOLOGY._
+
+       *       *       *       *       *
+
+THE
+
+MYTHS AND LEGENDS
+
+OF
+
+ANCIENT GREECE AND ROME.
+
+BY
+
+E. M. BERENS.
+
+_ILLUSTRATED FROM ANTIQUE SCULPTURES._
+
+[Illustration]
+
+NEW YORK:
+
+MAYNARD, MERRILL, & CO.,
+
+43, 45 AND 47 EAST TENTH STREET.
+
+       *       *       *       *       *
+
+
+{i}
+
+PREFACE.
+
+       *       *       *       *       *
+
+The want of an interesting work on Greek and Roman mythology, suitable for
+the requirements of both boys and girls, has long been recognized by the
+principals of our advanced schools. The study of the classics themselves,
+even where the attainments of the pupil have rendered this feasible, has
+not been found altogether successful in giving to the student a clear and
+succinct idea of the religious beliefs of the ancients, and it has been
+suggested that a work which would so deal with the subject as to render it
+at once interesting and instructive would be hailed as a valuable
+introduction to the study of classic authors, and would be found to assist
+materially the labours of both master and pupil.
+
+In endeavouring to supply this want I have sought to place before the
+reader a lifelike picture of the deities of classical times as they were
+conceived and worshipped by the ancients themselves, and thereby to awaken
+in the minds of young students a desire to become more intimately
+acquainted with the noble productions of classical antiquity.
+
+It has been my aim to render the Legends, which form the second portion of
+the work, a picture, as it were, of old Greek life; its customs, its
+superstitions, and its princely hospitalities, for which reason they are
+given at somewhat greater length than is usual in works of the kind.
+
+In a chapter devoted to the purpose some interesting particulars have been
+collected respecting the public worship of the ancient Greeks and Romans
+(more especially of the former), to which is subjoined an account of their
+principal festivals.
+
+I may add that no pains have been spared in order that, without passing
+over details the omission of which would have {ii} marred the completeness
+of the work, not a single passage should be found which could possibly
+offend the most scrupulous delicacy; and also that I have purposely treated
+the subject with that reverence which I consider due to every religious
+system, however erroneous.
+
+It is hardly necessary to dwell upon the importance of the study of
+Mythology: our poems, our novels, and even our daily journals teem with
+classical allusions; nor can a visit to our art galleries and museums be
+fully enjoyed without something more than a mere superficial knowledge of a
+subject which has in all ages inspired painters, sculptors, and poets. It
+therefore only remains for me to express a hope that my little work may
+prove useful, not only to teachers and scholars, but also to a large class
+of general readers, who, in whiling away a leisure hour, may derive some
+pleasure and profit from its perusal.
+
+E. M. BERENS.
+
+       *       *       *       *       *
+
+
+{iii}
+
+CONTENTS.
+
+  PART I.--MYTHS.
+                                                    Page
+  Introduction,                                       7
+
+  FIRST DYNASTY.
+  ORIGIN OF THE WORLD--
+      URANUS AND GAEA (Coelus and Terra),  11
+
+  SECOND DYNASTY.
+      CRONUS (Saturn),                      14
+      RHEA (Ops),                           18
+      DIVISION OF THE WORLD,                19
+      THEORIES AS TO THE ORIGIN OF MAN,     21
+
+  THIRD DYNASTY.
+  OLYMPIAN DIVINITIES--
+      ZEUS (Jupiter),                       26
+      HERA (Juno),                          38
+      PALLAS-ATHENE (Minerva),              43
+      THEMIS,                               48
+      HESTIA (Vesta),                       48
+      DEMETER (Ceres),                      50
+      APHRODITE (Venus),                    58
+      HELIOS (Sol),                         61
+      EOS (Aurora),                         67
+      PHOEBUS-APOLLO,                     68
+      HECATE,                               85
+      SELENE (Luna),                        86
+      ARTEMIS (Diana),                      87
+      HEPHAESTUS (Vulcan),                   97
+      POSEIDON (Neptune),                  101
+
+  {iv}
+  SEA DIVINITIES--
+      OCEANUS,                             107
+      NEREUS,                              108
+      PROTEUS,                             108
+      TRITON AND THE TRITONS,              109
+      GLAUCUS,                             109
+      THETIS,                              110
+      THAUMAS, PHORCYS, AND CETO,          111
+      LEUCOTHEA,                           111
+      THE SIRENS,                          112
+      ARES (Mars),                         112
+      NIKE (Victoria),                     117
+      HERMES (Mercury),                    117
+      DIONYSUS (Bacchus or Liber),         124
+      AIDES (Pluto),                       130
+      PLUTUS,                              137
+
+  MINOR DIVINITIES--
+      THE HARPIES,                         137
+      ERINYES, EUMENIDES (Furiae, Dirae),    138
+      MOIRAE OR FATES (Parcae),              139
+      NEMESIS,                             141
+
+  NIGHT AND HER CHILDREN--
+      NYX (Nox),                           142
+      THANATOS (Mors), HYPNUS (Somnus),    142
+      MORPHEUS,                            143
+      THE GORGONS,                         144
+      GRAEAE,                                145
+      SPHINX,                              146
+      TYCHE (Fortuna) and ANANKE (Necessitas),     147
+      KER,                                 149
+      ATE,                                 149
+      MOMUS,                               149
+      EROS (Cupid, Amor) and PSYCHE,       150
+      HYMEN,                               154
+      IRIS,                                155
+      HEBE (Juventas),                     156
+      GANYMEDES,                           157
+  {v}
+      THE MUSES,                           157
+      PEGASUS,                             162
+      THE HESPERIDES,                      162
+      CHARITES OR GRACES,                  163
+      HORAE (Seasons),                      164
+      THE NYMPHS,                          165
+      THE WINDS,                           170
+      PAN (Faunus),                        171
+      THE SATYRS,                          174
+      PRIAPUS,                             175
+      ASCLEPIAS (AEsculapius),              176
+
+  ROMAN DIVINITIES--
+      JANUS,                               178
+      FLORA,                               180
+      ROBIGUS,                             180
+      POMONA,                              180
+      VERTUMNUS,                           181
+      PALES,                               181
+      PICUS,                               182
+      PICUMNUS AND PILUMNUS,               182
+      SILVANUS,                            182
+      TERMINUS,                            182
+      CONSUS,                              183
+      LIBITINA,                            183
+      LAVERNA,                             184
+      COMUS,                               184
+      CAMENAE,                              184
+      GENII,                               185
+      MANES,                               185
+      PENATES,                             187
+
+  PUBLIC WORSHIP OF THE ANCIENT GREEKS AND ROMANS--
+      TEMPLES,                             188
+      STATUES,                             190
+      ALTARS,                              191
+      PRIESTS,                             191
+      SACRIFICES,                          192
+      ORACLES,                             194
+      SOOTHSAYERS,                         195
+  {vi}
+      AUGURS,                              196
+      FESTIVALS,                           196
+
+  GREEK FESTIVALS--
+      ELEUSINIAN MYSTERIES,                196
+      THESMOPHORIA,                        197
+      DIONYSIA,                            197
+      PANATHENAEA,                          199
+      DAPHNEPHORIA,                        200
+
+  ROMAN FESTIVALS--
+      SATURNALIA,                          200
+      CEREALIA,                            201
+      VESTALIA,                            201
+
+  PART II.--LEGENDS.
+      CADMUS,                              203
+      PERSEUS,                             205
+      ION,                                 210
+      DAEDALUS AND ICARUS,                  211
+      THE ARGONAUTS,                       213
+      PELOPS,                              232
+      HERACLES,                            234
+      BELLEROPHON,                         256
+      THESEUS,                             259
+      OEDIPUS,                           269
+      THE SEVEN AGAINST THEBES,            272
+      THE EPIGONI,                         276
+      ALCMAEON AND THE NECKLACE,            277
+      THE HERACLIDAE,                       280
+      THE SIEGE OF TROY,                   283
+      RETURN OF THE GREEKS FROM TROY,      304
+
+       *       *       *       *       *
+
+
+{7}
+
+MYTHS AND LEGENDS OF ANCIENT GREECE AND ROME.
+
+       *       *       *       *       *
+
+PART I.--MYTHS.
+
+       *       *       *       *       *
+
+INTRODUCTION.
+
+Before entering upon the many strange beliefs of the ancient Greeks, and
+the extraordinary number of gods they worshipped, we must first consider
+what kind of beings these divinities were.
+
+In appearance, the gods were supposed to resemble mortals, whom, however,
+they far surpassed in beauty, grandeur, and strength; they were also more
+commanding in stature, height being considered by the Greeks an attribute
+of beauty in man or woman. They resembled human beings in their feelings
+and habits, intermarrying and having children, and requiring daily
+nourishment to recruit their strength, and refreshing sleep to restore
+their energies. Their blood, a bright ethereal fluid called Ichor, never
+engendered disease, and, when shed, had the power of producing new life.
+
+The Greeks believed that the mental qualifications of their gods were of a
+much higher order than those of men, but nevertheless, as we shall see,
+they were not considered to be exempt from human passions, and we
+frequently behold them actuated by revenge, deceit, and jealousy. They,
+however, always punish the evil-doer, and visit with dire calamities any
+impious mortal who dares to neglect their worship or despise their rites.
+We often hear of them visiting mankind and partaking of their hospitality,
+and not unfrequently both gods and goddesses {8} become attached to
+mortals, with whom they unite themselves, the offspring of these unions
+being called heroes or demi-gods, who were usually renowned for their great
+strength and courage. But although there were so many points of resemblance
+between gods and men, there remained the one great characteristic
+distinction, viz., that the gods enjoyed immortality. Still, they were not
+invulnerable, and we often hear of them being wounded, and suffering in
+consequence such exquisite torture that they have earnestly prayed to be
+deprived of their privilege of immortality.
+
+The gods knew no limitation of time or space, being able to transport
+themselves to incredible distances with the speed of thought. They
+possessed the power of rendering themselves invisible at will, and could
+assume the forms of men or animals as it suited their convenience. They
+could also transform human beings into trees, stones, animals, &c., either
+as a punishment for their misdeeds, or as a means of protecting the
+individual, thus transformed, from impending danger. Their robes were like
+those worn by mortals, but were perfect in form and much finer in texture.
+Their weapons also resembled those used by mankind; we hear of spears,
+shields, helmets, bows and arrows, &c., being employed by the gods. Each
+deity possessed a beautiful chariot, which, drawn by horses or other
+animals of celestial breed, conveyed them rapidly over land and sea
+according to their pleasure. Most of these divinities lived on the summit
+of Mount Olympus, each possessing his or her individual habitation, and all
+meeting together on festive occasions in the council-chamber of the gods,
+where their banquets were enlivened by the sweet strains of Apollo's lyre,
+whilst the beautiful voices of the Muses poured forth their rich melodies
+to his harmonious accompaniment. Magnificent temples were erected to their
+honour, where they were worshipped with the greatest solemnity; rich gifts
+were presented to them, and animals, and indeed sometimes human beings,
+were sacrificed on their altars.
+
+In the study of Grecian mythology we meet with some {9} curious, and what
+may at first sight appear unaccountable notions. Thus we hear of terrible
+giants hurling rocks, upheaving mountains, and raising earthquakes which
+engulf whole armies; these ideas, however, may be accounted for by the
+awful convulsions of nature, which were in operation in pre-historic times.
+Again, the daily recurring phenomena, which to us, who know them to be the
+result of certain well-ascertained laws of nature, are so familiar as to
+excite no remark, were, to the early Greeks, matter of grave speculation,
+and not unfrequently of alarm. For instance, when they heard the awful roar
+of thunder, and saw vivid flashes of lightning, accompanied by black clouds
+and torrents of rain, they believed that the great god of heaven was angry,
+and they trembled at his wrath. If the calm and tranquil sea became
+suddenly agitated, and the crested billows rose mountains high, dashing
+furiously against the rocks, and threatening destruction to all within
+their reach, the sea-god was supposed to be in a furious rage. When they
+beheld the sky glowing with the hues of coming day they thought that the
+goddess of the dawn, with rosy fingers, was drawing aside the dark veil of
+night, to allow her brother, the sun-god, to enter upon his brilliant
+career. Thus personifying all the powers of nature, this very imaginative
+and highly poetical nation beheld a divinity in every tree that grew, in
+every stream that flowed, in the bright beams of the glorious sun, and the
+clear, cold rays of the silvery moon; for them the whole universe lived and
+breathed, peopled by a thousand forms of grace and beauty.
+
+The most important of these divinities may have been something more than
+the mere creations of an active and poetical imagination. They were
+possibly human beings who had so distinguished themselves in life by their
+preeminence over their fellow-mortals that after death they were deified by
+the people among whom they lived, and the poets touched with their magic
+wand the details of lives, which, in more prosaic times, would simply have
+been recorded as illustrious. {10}
+
+It is highly probable that the reputed actions of these deified beings were
+commemorated by bards, who, travelling from one state to another,
+celebrated their praise in song; it therefore becomes exceedingly
+difficult, nay almost impossible, to separate bare facts from the
+exaggerations which never fail to accompany oral traditions.
+
+In order to exemplify this, let us suppose that Orpheus, the son of Apollo,
+so renowned for his extraordinary musical powers, had existed at the
+present day. We should no doubt have ranked him among the greatest of our
+musicians, and honoured him as such; but the Greeks, with their vivid
+imagination and poetic license, exaggerated his remarkable gifts, and
+attributed to his music supernatural influence over animate and inanimate
+nature. Thus we hear of wild beasts tamed, of mighty rivers arrested in
+their course, and of mountains being moved by the sweet tones of his voice.
+The theory here advanced may possibly prove useful in the future, in
+suggesting to the reader the probable basis of many of the extraordinary
+accounts we meet with in the study of classical mythology.
+
+And now a few words will be necessary concerning the religious beliefs of
+the Romans. When the Greeks first settled in Italy they found in the
+country they colonized a mythology belonging to the Celtic inhabitants,
+which, according to the Greek custom of paying reverence to all gods, known
+or unknown, they readily adopted, selecting and appropriating those
+divinities which had the greatest affinity to their own, and thus they
+formed a religious belief which naturally bore the impress of its ancient
+Greek source. As the primitive Celts, however, were a less civilized people
+than the Greeks, their mythology was of a more barbarous character, and
+this circumstance, combined with the fact that the Romans were not gifted
+with the vivid imagination of their Greek neighbours, leaves its mark on
+the Roman mythology, which is far less fertile in fanciful conceits, and
+deficient in all those fairy-like stories and wonderfully poetic ideas
+which so strongly characterize that of the Greeks.
+
+       *       *       *       *       *
+
+{11}
+
+ORIGIN OF THE WORLD.--FIRST DYNASTY.
+
+URANUS AND GAEA. (COELUS AND TERRA.)
+
+The ancient Greeks had several different theories with regard to the origin
+of the world, but the generally accepted notion was that before this world
+came into existence, there was in its place a confused mass of shapeless
+elements called Chaos. These elements becoming at length consolidated (by
+what means does not appear), resolved themselves into two widely different
+substances, the lighter portion of which, soaring on high, formed the sky
+or firmament, and constituted itself into a vast, overarching vault, which
+protected the firm and solid mass beneath.
+
+Thus came into being the two first great primeval deities of the Greeks,
+Uranus and Ge or Gaea.
+
+Uranus, the more refined deity, represented the light and air of heaven,
+possessing the distinguishing qualities of light, heat, purity, and
+omnipresence, whilst Gaea, the firm, flat,[1] life-sustaining earth, was
+worshipped as the great all-nourishing mother. Her many titles refer to her
+more or less in this character, and she appears to have been universally
+revered among the Greeks, there being scarcely a city in Greece which did
+not contain a temple erected in her honour; indeed Gaea was held in such
+veneration that her name was always invoked whenever the gods took a solemn
+oath, made an emphatic declaration, or implored assistance.
+
+Uranus, the heaven, was believed to have united himself in marriage with
+Gaea, the earth; and a moment's reflection will show what a truly poetical,
+and also what a logical idea this was; for, taken in a figurative sense,
+{12} this union actually does exist. The smiles of heaven produce the
+flowers of earth, whereas his long-continued frowns exercise so depressing
+an influence upon his loving partner, that she no longer decks herself in
+bright and festive robes, but responds with ready sympathy to his
+melancholy mood.
+
+The first-born child of Uranus and Gaea was Oceanus,[2] the ocean stream,
+that vast expanse of ever-flowing water which encircled the earth. Here we
+meet with another logical though fanciful conclusion, which a very slight
+knowledge of the workings of nature proves to have been just and true. The
+ocean is formed from the rains which descend from heaven and the streams
+which flow from earth. By making Oceanus therefore the offspring of Uranus
+and Gaea, the ancients, if we take this notion in its literal sense, merely
+assert that the ocean is produced by the combined influence of heaven and
+earth, whilst at the same time their fervid and poetical imagination led
+them to see in this, as in all manifestations of the powers of nature, an
+actual, tangible divinity.
+
+But Uranus, the heaven, the embodiment of light, heat, and the breath of
+life, produced offspring who were of a much less material nature than his
+son Oceanus. These other children of his were supposed to occupy the
+intermediate space which divided him from Gaea. Nearest to Uranus, and just
+beneath him, came Aether (Ether), a bright creation representing that
+highly rarified atmosphere which immortals alone could breathe. Then
+followed Aer (Air), which was in close proximity to Gaea, and represented,
+as its name implies, the grosser atmosphere surrounding the earth which
+mortals could freely breathe, and without which they would perish. Aether
+and Aer were separated from each other by divinities called Nephelae. These
+were their restless and wandering sisters, who existed in the form of
+clouds, ever {13} floating between Aether and Aer. Gaea also produced the
+mountains, and Pontus (the sea). She united herself with the latter, and
+their offspring were the sea-deities Nereus, Thaumas, Phorcys, Ceto, and
+Eurybia.
+
+Co-existent with Uranus and Gaea were two mighty powers who were also the
+offspring of Chaos. These were Erebus (Darkness) and Nyx (Night), who
+formed a striking contrast to the cheerful light of heaven and the bright
+smiles of earth. Erebus reigned in that mysterious world below where no ray
+of sunshine, no gleam of daylight, nor vestige of health-giving terrestrial
+life ever appeared. Nyx, the sister of Erebus, represented Night, and was
+worshipped by the ancients with the greatest solemnity.
+
+Uranus was also supposed to have been united to Nyx, but only in his
+capacity as god of light, he being considered the source and fountain of
+all light, and their children were Eos (Aurora), the Dawn, and Hemera, the
+Daylight. Nyx again, on her side was also doubly united, having been
+married at some indefinite period to Erebus.
+
+In addition to those children of heaven and earth already enumerated,
+Uranus and Gaea produced two distinctly different races of beings called
+Giants and Titans. The Giants personified brute strength alone, but the
+Titans united to their great physical power intellectual qualifications
+variously developed. There were three Giants, Briareus, Cottus, and Gyges,
+who each possessed a hundred hands and fifty heads, and were known
+collectively by the name of the Hecatoncheires, which signified
+hundred-handed. These mighty Giants could shake the universe and produce
+earthquakes; it is therefore evident that they represented those active
+subterranean forces to which allusion has been made in the opening chapter.
+The Titans were twelve in number; their names were: Oceanus, Ceos, Crios,
+Hyperion, Iapetus, Cronus, Theia, Rhea, Themis, Mnemosyne, Phoebe, and
+Tethys.
+
+Now Uranus, the chaste light of heaven, the essence of all that is bright
+and pleasing, held in abhorrence his {14} crude, rough, and turbulent
+offspring, the Giants, and moreover feared that their great power might
+eventually prove hurtful to himself. He therefore hurled them into
+Tartarus, that portion of the lower world which served as the subterranean
+dungeon of the gods. In order to avenge the oppression of her children, the
+Giants, Gaea instigated a conspiracy on the part of the Titans against
+Uranus, which was carried to a successful issue by her son Cronus. He
+wounded his father, and from the blood of the wound which fell upon the
+earth sprang a race of monstrous beings also called Giants. Assisted by his
+brother-Titans, Cronus succeeded in dethroning his father, who, enraged at
+his defeat, cursed his rebellious son, and foretold to him a similar fate.
+Cronus now became invested with supreme power, and assigned to his brothers
+offices of distinction, subordinate only to himself. Subsequently, however,
+when, secure of his position, he no longer needed their assistance, he
+basely repaid their former services with treachery, made war upon his
+brothers and faithful allies, and, assisted by the Giants, completely
+defeated them, sending such as resisted his all-conquering arm down into
+the lowest depths of Tartarus.
+
+       *       *       *       *       *
+
+SECOND DYNASTY.
+
+CRONUS (SATURN).
+
+Cronus was the god of time in its sense of eternal duration. He married
+Rhea, daughter of Uranus and Gaea, a very important divinity, to whom a
+special chapter will be devoted hereafter. Their children were, three sons:
+Aides (Pluto), Poseidon (Neptune), Zeus (Jupiter), and three daughters:
+Hestia (Vesta), Demeter (Ceres), and Hera (Juno). Cronus, having an uneasy
+conscience, was afraid that his children might one day rise up against his
+authority, and thus verify the prediction of his father {15} Uranus. In
+order, therefore, to render the prophecy impossible of fulfilment, Cronus
+swallowed each child as soon as it was born,[3] greatly to the sorrow and
+indignation of his wife Rhea. When it came to Zeus, the sixth and last,
+Rhea resolved to try and save this one child at least, to love and cherish,
+and appealed to her parents, Uranus and Gaea, for counsel and assistance. By
+their advice she wrapped a stone in baby-clothes, and Cronus, in eager
+haste, swallowed it, without noticing the deception. The child thus saved,
+eventually, as we shall see, dethroned his father Cronus, became supreme
+god in his stead, and was universally venerated as the great national god
+of the Greeks.
+
+[Illustration]
+
+Anxious to preserve the secret of his existence from Cronus, Rhea sent the
+infant Zeus secretly to Crete, where he was nourished, protected, and
+educated. A sacred goat, called Amalthea, supplied the place of his mother,
+by providing him with milk; nymphs, called Melissae, fed him with honey,
+and eagles and doves brought him nectar and ambrosia.[4] He was kept
+concealed in a cave in the heart of Mount Ida, and the Curetes, or priests
+of Rhea, by beating their shields together, kept up a constant noise at the
+entrance, which drowned the cries of the child and frightened away all
+intruders. Under the watchful care of the Nymphs the infant Zeus throve
+rapidly, developing great physical powers, combined with {16} extraordinary
+wisdom and intelligence. Grown to manhood, he determined to compel his
+father to restore his brothers and sisters to the light of day, and is said
+to have been assisted in this difficult task by the goddess Metis, who
+artfully persuaded Cronus to drink a potion, which caused him to give back
+the children he had swallowed. The stone which had counterfeited Zeus was
+placed at Delphi, where it was long exhibited as a sacred relic.
+
+Cronus was so enraged at being circumvented that war between the father and
+son became inevitable. The rival forces ranged themselves on two separate
+high mountains in Thessaly; Zeus, with his brothers and sisters, took his
+stand on Mount Olympus, where he was joined by Oceanus, and others of the
+Titans, who had forsaken Cronus on account of his oppressions. Cronus and
+his brother-Titans took possession of Mount Othrys, and prepared for
+battle. The struggle was long and fierce, and at length Zeus, finding that
+he was no nearer victory than before, bethought himself of the existence of
+the imprisoned Giants, and knowing that they would be able to render him
+most powerful assistance, he hastened to liberate them. He also called to
+his aid the Cyclops (sons of Poseidon and Amphitrite),[5] who had only one
+eye each in the middle of their foreheads, and were called Brontes
+(Thunder), Steropes (Lightning), and Pyracmon (Fire-anvil). They promptly
+responded to his summons for help, and brought with them tremendous
+thunderbolts which the Hecatoncheires, with their hundred hands, hurled
+down upon the enemy, at the same time raising mighty earthquakes, which
+swallowed up and destroyed all who opposed them. Aided by these new and
+powerful allies, Zeus now made a furious onslaught on his enemies, and so
+tremendous was the encounter that all nature is said to have throbbed in
+accord with this mighty effort of the celestial deities. The sea rose
+mountains high, and its angry billows {17} hissed and foamed; the earth
+shook to its foundations, the heavens sent forth rolling thunder, and flash
+after flash of death-bringing lightning, whilst a blinding mist enveloped
+Cronus and his allies.
+
+And now the fortunes of war began to turn, and victory smiled on Zeus.
+Cronus and his army were completely overthrown, his brothers despatched to
+the gloomy depths of the lower world, and Cronus himself was banished from
+his kingdom and deprived for ever of the supreme power, which now became
+vested in his son Zeus. This war was called the Titanomachia, and is most
+graphically described by the old classic poets.
+
+[Illustration]
+
+With the defeat of Cronus and his banishment from his dominions, his career
+as a ruling Greek divinity entirely ceases. But being, like all the gods,
+immortal, he was supposed to be still in existence, though possessing no
+longer either influence or authority, his place being filled to a certain
+extent by his descendant and successor, Zeus.
+
+Cronus is often represented as an old man leaning on a scythe, with an
+hour-glass in his hand. The hour-glass symbolizes the fast-fleeting moments
+as they succeed each other unceasingly; the scythe is emblematical of time,
+which mows down all before it.
+
+SATURN.
+
+The Romans, according to their custom of identifying their deities with
+those of the Greek gods whose attributes were similar to their own,
+declared Cronus to be identical with their old agricultural divinity
+Saturn. They believed that after his defeat in the {18} Titanomachia and
+his banishment from his dominions by Zeus, he took refuge with Janus, king
+of Italy, who received the exiled deity with great kindness, and even
+shared his throne with him. Their united reign became so thoroughly
+peaceful and happy, and was distinguished by such uninterrupted prosperity,
+that it was called the Golden Age.
+
+Saturn is usually represented bearing a sickle in the one hand and a
+wheat-sheaf in the other.
+
+A temple was erected to him at the foot of the Capitoline Hill, in which
+were deposited the public treasury and the laws of the state.
+
+RHEA (OPS).
+
+Rhea, the wife of Cronus, and mother of Zeus and the other great gods of
+Olympus, personified the earth, and was regarded as the Great Mother and
+unceasing producer of all plant-life. She was also believed to exercise
+unbounded sway over the animal creation, more especially over the lion, the
+noble king of beasts. Rhea is generally represented wearing a crown of
+turrets or towers and seated on a throne, with lions crouching at her feet.
+She is sometimes depicted sitting in a chariot, drawn by lions.
+
+The principal seat of her worship, which was always of a very riotous
+character, was at Crete. At her festivals, which took place at night, the
+wildest music of flutes, cymbals, and drums resounded, whilst joyful shouts
+and cries, accompanied by dancing and loud stamping of feet, filled the
+air.
+
+This divinity was introduced into Crete by its first colonists from
+Phrygia, in Asia Minor, in which country she was worshipped under the name
+of Cybele. The people of Crete adored her as the Great Mother, more
+especially in her signification as the sustainer of the vegetable world.
+Seeing, however, that year by year, as winter appears, all her glory
+vanishes, her flowers fade, and her trees become leafless, they poetically
+expressed this process of nature under the figure of a lost love. She {19}
+was said to have been tenderly attached to a youth of remarkable beauty,
+named Atys, who, to her grief and indignation, proved faithless to her. He
+was about to unite himself to a nymph called Sagaris, when, in the midst of
+the wedding feast, the rage of the incensed goddess suddenly burst forth
+upon all present. A panic seized the assembled guests, and Atys, becoming
+afflicted with temporary madness, fled to the mountains and destroyed
+himself. Cybele, moved with sorrow and regret, instituted a yearly mourning
+for his loss, when her priests, the Corybantes, with their usual noisy
+accompaniments, marched into the mountains to seek the lost youth. Having
+discovered him[6] they gave full vent to their ecstatic delight by
+indulging in the most violent gesticulations, dancing, shouting, and, at
+the same time, wounding and gashing themselves in a frightful manner.
+
+OPS.
+
+In Rome the Greek Rhea was identified with Ops, the goddess of plenty, the
+wife of Saturn, who had a variety of appellations. She was called
+Magna-Mater, Mater-Deorum, Berecynthia-Idea, and also Dindymene. This
+latter title she acquired from three high mountains in Phrygia, whence she
+was brought to Rome as Cybele during the second Punic war, B.C. 205, in
+obedience to an injunction contained in the Sybilline books. She was
+represented as a matron crowned with towers, seated in a chariot drawn by
+lions.
+
+       *       *       *       *       *
+
+DIVISION OF THE WORLD.
+
+We will now return to Zeus and his brothers, who, having gained a complete
+victory over their enemies, began to consider how the world, which they had
+{20} conquered, should be divided between them. At last it was settled by
+lot that Zeus should reign supreme in Heaven, whilst Aides governed the
+Lower World, and Poseidon had full command over the Sea, but the supremacy
+of Zeus was recognized in all three kingdoms, in heaven, on earth (in which
+of course the sea was included), and under the earth. Zeus held his court
+on the top of Mount Olympus, whose summit was beyond the clouds; the
+dominions of Aides were the gloomy unknown regions below the earth; and
+Poseidon reigned over the sea. It will be seen that the realm of each of
+these gods was enveloped in mystery. Olympus was shrouded in mists, Hades
+was wrapt in gloomy darkness, and the sea was, and indeed still is, a
+source of wonder and deep interest. Hence we see that what to other nations
+were merely strange phenomena, served this poetical and imaginative people
+as a foundation upon which to build the wonderful stories of their
+mythology.
+
+The division of the world being now satisfactorily arranged, it would seem
+that all things ought to have gone on smoothly, but such was not the case.
+Trouble arose in an unlooked-for quarter. The Giants, those hideous
+monsters (some with legs formed of serpents) who had sprung from the earth
+and the blood of Uranus, declared war against the triumphant deities of
+Olympus, and a struggle ensued, which, in consequence of Gaea having made
+these children of hers invincible as long as they kept their feet on the
+ground, was wearisome and protracted. Their mother's precaution, however,
+was rendered unavailing by pieces of rock being hurled upon them, which
+threw them down, and their feet being no longer placed firmly on their
+mother-earth, they were overcome, and this tedious war (which was called
+the Gigantomachia) at last came to an end. Among the most daring of these
+earth-born giants were Enceladus, Rhoetus, and the valiant Mimas, who, with
+youthful fire and energy, hurled against heaven great masses of rock and
+burning oak-trees, and defied the lightnings of Zeus. One of the most
+powerful monsters who opposed Zeus in this {21} war was called Typhon or
+Typhoeus. He was the youngest son of Tartarus and Gaea, and had a hundred
+heads, with eyes which struck terror to the beholders, and awe-inspiring
+voices frightful to hear. This dreadful monster resolved to conquer both
+gods and men, but his plans were at length defeated by Zeus, who, after a
+violent encounter, succeeded in destroying him with a thunderbolt, but not
+before he had so terrified the gods that they had fled for refuge to Egypt,
+where they metamorphosed themselves into different animals and thus
+escaped.
+
+       *       *       *       *       *
+
+THEORIES AS TO THE ORIGIN OF MAN.
+
+Just as there were several theories concerning the origin of the world, so
+there were various accounts of the creation of man.
+
+The first natural belief of the Greek people was that man had sprung from
+the earth. They saw the tender plants and flowers force their way through
+the ground in the early spring of the year after the frost of winter had
+disappeared, and so they naturally concluded that man must also have issued
+from the earth in a similar manner. Like the wild plants and flowers, he
+was supposed to have had no cultivation, and resembled in his habits the
+untamed beasts of the field, having no habitation except that which nature
+had provided in the holes of the rocks, and in the dense forests whose
+overarching boughs protected him from the inclemency of the weather.
+
+In the course of time these primitive human beings became tamed and
+civilized by the gods and heroes, who taught them to work in metals, to
+build houses, and other useful arts of civilization. But the human race
+became in the course of time so degenerate that the gods resolved to
+destroy all mankind by means of a flood; Deucalion {22} (son of Prometheus)
+and his wife Pyrrha, being, on account of their piety, the only mortals
+saved.
+
+By the command of his father, Deucalion built a ship, in which he and his
+wife took refuge during the deluge, which lasted for nine days. When the
+waters abated the ship rested on Mount Othrys in Thessaly, or according to
+some on Mount Parnassus. Deucalion and his wife now consulted the oracle of
+Themis as to how the human race might be restored. The answer was, that
+they were to cover their heads, and throw the bones of their mother behind
+them. For some time they were perplexed as to the meaning of the oracular
+command, but at length both agreed that by the bones of their mother were
+meant the stones of the earth. They accordingly took up stones from the
+mountain side and cast them over their shoulders. From those thrown by
+Deucalion there sprang up men, and from those thrown by Pyrrha, women.
+
+After the lapse of time the theory of Autochthony (from _autos_, self, and
+_chthon_, earth) was laid aside. When this belief existed there were no
+religious teachers whatever; but in course of time temples were raised in
+honour of the different gods, and priests appointed to offer sacrifices to
+them and conduct their worship. These priests were looked upon as
+authorities in all religious matters, and the doctrine they taught was,
+that man had been created by the gods, and that there had been several
+successive ages of men, which were called the Golden, Silver, Brazen, and
+Iron Ages.
+
+Life in the Golden Age was one unceasing round of ever-recurring pleasures
+unmarred by sorrow or care. The favoured mortals living at this happy time
+led pure and joyous lives, thinking no evil, and doing no wrong. The earth
+brought forth fruits and flowers without toil or labour in plentiful
+luxuriance, and war was unknown. This delightful and god-like existence
+lasted for hundreds of years, and when at length life on earth was ended,
+death laid his hand so gently upon them that they passed painlessly away in
+a happy dream, and continued their existence as ministering spirits in
+Hades, watching over and {23} protecting those they had loved and left
+behind on earth. The men of the Silver Age[7] were a long time growing up,
+and during their childhood, which lasted a hundred years, they suffered
+from ill-health and extreme debility. When they at last became men they
+lived but a short time, for they would not abstain from mutual injury, nor
+pay the service due to the gods, and were therefore banished to Hades.
+There, unlike the beings of the Golden Age, they exercised no beneficent
+supervision over the dear ones left behind, but wandered about as restless
+spirits, always sighing for the lost pleasures they had enjoyed in life.
+
+The men of the Brazen Age were quite a different race of beings, being as
+strong and powerful as those of the Silver Age were weak and enervated.
+Everything which surrounded them was of brass; their arms, their tools,
+their dwellings, and all that they made. Their characters seem to have
+resembled the metal in which they delighted; their minds and hearts were
+hard, obdurate, and cruel. They led a life of strife and contention,
+introduced into the world, which had hitherto known nothing but peace and
+tranquillity, the scourge of war, and were in fact only happy when fighting
+and quarrelling with each other. Hitherto Themis, the goddess of Justice,
+had been living among mankind, but becoming disheartened at their evil
+doings, she abandoned the earth, and winged her flight back to heaven. At
+last the gods became so tired of their evil deeds and continual
+dissensions, that they removed them from the face of the earth, and sent
+them down to Hades to share the fate of their predecessors.
+
+We now come to the men of the Iron Age. The earth, no longer teeming with
+fruitfulness, only yielded her increase after much toil and labour. The
+goddess of Justice having abandoned mankind, no influence remained
+sufficiently powerful to preserve them from every kind of wickedness and
+sin. This condition grew worse as time went on, until at last Zeus in his
+anger let loose the water-courses from above, and drowned every {24}
+individual of this evil race, except Deucalion and Pyrrha.
+
+The theory of Hesiod,[8] the oldest of all the Greek poets, was that the
+Titan Prometheus, the son of Iapetus, had formed man out of clay, and that
+Athene had breathed a soul into him. Full of love for the beings he had
+called into existence, Prometheus determined to elevate their minds and
+improve their condition in every way; he therefore taught them astronomy,
+mathematics, the alphabet, how to cure diseases, and the art of divination.
+He created this race in such great numbers that the gods began to see the
+necessity of instituting certain fixed laws with regard to the sacrifices
+due to them, and the worship to which they considered themselves entitled
+from mankind in return for the protection which they accorded them. An
+assembly was therefore convened at Mecone in order to settle these points.
+It was decided that Prometheus, as the advocate of man, should slay an ox,
+which should be divided into two equal parts, and that the gods should
+select one portion which should henceforth, in all future sacrifices, be
+set apart for them. Prometheus so divided the ox that one part consisted of
+the bones (which formed of course the least valuable portion of the
+animal), artfully concealed by the white fat; whilst the other contained
+all the edible parts, which he covered with the skin, and on the top of all
+he laid the stomach.
+
+Zeus, pretending to be deceived, chose the heap of bones, but he saw
+through the stratagem, and was so angry at the deception practised on him
+by Prometheus that he avenged himself by refusing to mortals the gift of
+fire. {25} Prometheus, however, resolved to brave the anger of the great
+ruler of Olympus, and to obtain from heaven the vital spark so necessary
+for the further progress and comfort of the human race. He accordingly
+contrived to steal some sparks from the chariot of the sun, which he
+conveyed to earth hidden in a hollow tube. Furious at being again
+outwitted, Zeus determined to be revenged first on mankind, and then on
+Prometheus. To punish the former he commanded Hephaestus (Vulcan) to mould a
+beautiful woman out of clay, and determined that through her
+instrumentality trouble and misery should be brought into the world.
+
+The gods were so charmed with the graceful and artistic creation of
+Hephaestus, that they all determined to endow her with some special gift.
+Hermes (Mercury) bestowed on her a smooth persuasive tongue, Aphrodite gave
+her beauty and the art of pleasing; the Graces made her fascinating, and
+Athene (Minerva) gifted her with the possession of feminine
+accomplishments. She was called Pandora, which means all-gifted, having
+received every attribute necessary to make her charming and irresistible.
+Thus beautifully formed and endowed, this exquisite creature, attired by
+the Graces, and crowned with flowers by the Seasons, was conducted to the
+house of Epimetheus[9] by Hermes the messenger of the gods. Now Epimetheus
+had been warned by his brother not to accept any gift whatever from the
+gods; but he was so fascinated by the beautiful being who suddenly appeared
+before him, that he welcomed her to his home, and made her his wife. It was
+not long, however, before he had cause to regret his weakness.
+
+He had in his possession a jar of rare workmanship, containing all the
+blessings reserved by the gods for mankind, which he had been expressly
+forbidden to open. But woman's proverbial curiosity could not withstand so
+great a temptation, and Pandora determined to solve the mystery at any
+cost. Watching her opportunity she raised the lid, and immediately all the
+blessings which {26} the gods had thus reserved for mankind took wing and
+flew away. But all was not lost. Just as Hope (which lay at the bottom) was
+about to escape, Pandora hastily closed the lid of the jar, and thus
+preserved to man that never-failing solace which helps him to bear with
+courage the many ills which assail him.[10]
+
+Having punished mankind, Zeus determined to execute vengeance on
+Prometheus. He accordingly chained him to a rock in Mount Caucasus, and
+sent an eagle every day to gnaw away his liver, which grew again every
+night ready for fresh torments. For thirty years Prometheus endured this
+fearful punishment; but at length Zeus relented, and permitted his son
+Heracles (Hercules) to kill the eagle, and the sufferer was released.
+
+       *       *       *       *       *
+
+THIRD DYNASTY--OLYMPIAN DIVINITIES.
+
+ZEUS[11] (JUPITER).
+
+Zeus, the great presiding deity of the universe, the ruler of heaven and
+earth, was regarded by the Greeks, first, as the god of all aerial
+phenomena; secondly, as the personification of the laws of nature; thirdly,
+as lord of state-life; and fourthly, as the father of gods and men.
+
+As the god of aerial phenomena he could, by shaking his aegis,[12] produce
+storms, tempests, and intense darkness. At his command the mighty thunder
+rolls, the lightning flashes, and the clouds open and pour forth their
+refreshing streams to fructify the earth.
+
+As the personification of the operations of nature, he represents those
+grand laws of unchanging and harmonious order, by which not only the
+physical but also {27} the moral world is governed. Hence he is the god of
+regulated time as marked by the changing seasons, and by the regular
+succession of day and night, in contradistinction to his father Cronus, who
+represents time absolutely, _i.e._ eternity.
+
+As the lord of state-life, he is the founder of kingly power, the upholder
+of all institutions connected with the state, and the special friend and
+patron of princes, whom he guards and assists with his advice and counsel.
+He protects the assembly of the people, and, in fact, watches over the
+welfare of the whole community.
+
+As the father of the gods, Zeus sees that each deity performs his or her
+individual duty, punishes their misdeeds, settles their disputes, and acts
+towards them on all occasions as their all-knowing counsellor and mighty
+friend.
+
+As the father of men, he takes a paternal interest in the actions and
+well-being of mortals. He watches over them with tender solicitude,
+rewarding truth, charity, and uprightness, but severely punishing perjury,
+cruelty, and want of hospitality. Even the poorest and most forlorn
+wanderer finds in him a powerful advocate, for he, by a wise and merciful
+dispensation, ordains that the mighty ones of the earth should succour
+their distressed and needy brethren.
+
+The Greeks believed that the home of this their mighty and all-powerful
+deity was on the top of Mount Olympus, that high and lofty mountain between
+Thessaly and Macedon, whose summit, wrapt in clouds and mist, was hidden
+from mortal view. It was supposed that this mysterious region, which even a
+bird could not reach, extended beyond the clouds right into Aether, the
+realm of the immortal gods. The poets describe this ethereal atmosphere as
+bright, glistening, and refreshing, exercising a peculiar, gladdening
+influence over the minds and hearts of those privileged beings permitted to
+share its delights. Here youth never ages, and the passing years leave no
+traces on its favoured inhabitants. On the cloud-capped summit of Olympus
+was the palace of {28} Zeus and Hera, of burnished gold, chased silver, and
+gleaming ivory. Lower down were the homes of the other gods, which, though
+less commanding in position and size, were yet similar to that of Zeus in
+design and workmanship, all being the work of the divine artist Hephaestus.
+Below these were other palaces of silver, ebony, ivory, or burnished brass,
+where the Heroes, or Demi-gods, resided.
+
+As the worship of Zeus formed so important a feature in the religion of the
+Greeks, his statues were necessarily both numerous and magnificent. He is
+usually represented as a man of noble and imposing mien, his countenance
+expressing all the lofty majesty of the omnipotent ruler of the universe,
+combined with the gracious, yet serious, benignity of the father and friend
+of mankind. He may be recognized by his rich flowing beard, and the thick
+masses of hair, which rise straight from the high and intellectual forehead
+and fall to his shoulders in clustering locks. The nose is large and finely
+formed, and the slightly-opened lips impart an air of sympathetic
+kindliness which invites confidence. He is always accompanied by an eagle,
+which either surmounts his sceptre, or sits at his feet; he generally bears
+in his uplifted hand a sheaf of thunder-bolts, just ready to be hurled,
+whilst in the other he holds the lightning. The head is frequently
+encircled with a wreath of oak-leaves.
+
+[Illustration]
+
+The most celebrated statue of the Olympian Zeus was that by the famous
+Athenian sculptor Phidias, which was forty feet high, and stood in the
+temple of Zeus at Olympia. It was formed of ivory and gold, and was {29}
+such a masterpiece of art, that it was reckoned among the seven wonders of
+the world. It represented the god, seated on a throne, holding in his right
+hand a life-sized image of Nike (the goddess of Victory), and in his left a
+royal sceptre, surmounted by an eagle. It is said that the great sculptor
+had concentrated all the marvellous powers of his genius on this sublime
+conception, and earnestly entreated Zeus to give him a decided proof that
+his labours were approved. An answer to his prayer came through the open
+roof of the temple in the shape of a flash of lightning, which Phidias
+interpreted as a sign that the god of heaven was pleased with his work.
+
+Zeus was first worshipped at Dodona in Epirus, where, at the foot of Mount
+Tomarus, on the woody shore of Lake Joanina, was his famous oracle, the
+most ancient in Greece. Here the voice of the eternal and invisible god was
+supposed to be heard in the rustling leaves of a giant oak, announcing to
+mankind the will of heaven and the destiny of mortals; these revelations
+being interpreted to the people by the priests of Zeus, who were called
+Selli. Recent excavations which have been made at this spot have brought to
+light the ruins of the ancient temple of Zeus, and also, among other
+interesting relics, some plates of lead, on which are engraved inquiries
+which were evidently made by certain individuals who consulted the oracle.
+These little leaden plates speak to us, as it were, in a curiously homely
+manner of a by-gone time in the buried past. One person inquires what god
+he should apply to for health and fortune; another asks for advice
+concerning his child; and a third, evidently a shepherd, promises a gift to
+the oracle should a speculation in sheep turn out successfully. Had these
+little memorials been of gold instead of lead, they would doubtless have
+shared the fate of the numerous treasures which adorned this and other
+temples, in the universal pillage which took place when Greece fell into
+the hands of barbarians.
+
+Though Dodona was the most ancient of his shrines, the great national seat
+of the worship of Zeus was at Olympia in Elis, where there was a
+magnificent temple {30} dedicated to him, containing the famous colossal
+statue by Phidias above described. Crowds of devout worshippers flocked to
+this world-renowned fane from all parts of Greece, not only to pay homage
+to their supreme deity, but also to join in the celebrated games which were
+held there at intervals of four years. The Olympic games were such a
+thoroughly national institution, that even Greeks who had left their native
+country made a point of returning on these occasions, if possible, in order
+to contend with their fellow-countrymen in the various athletic sports
+which took place at these festivals.
+
+It will be seen on reflection that in a country like Greece, which
+contained so many petty states, often at variance with each other, these
+national gatherings must have been most valuable as a means of uniting the
+Greeks in one great bond of brotherhood. On these festive occasions the
+whole nation met together, forgetting for the moment all past differences,
+and uniting in the enjoyment of the same festivities.
+
+It will doubtless have been remarked that in the representations of Zeus he
+is always accompanied by an eagle. This royal bird was sacred to him,
+probably from the fact of its being the only creature capable of gazing at
+the sun without being dazzled, which may have suggested the idea that it
+was able to contemplate the splendour of divine majesty unshrinkingly.
+
+The oak-tree, and also the summits of mountains, were sacred to Zeus. His
+sacrifices consisted of white bulls, cows, and goats.
+
+Zeus had seven immortal wives, whose names were Metis, Themis, Eurynome,
+Demeter, Mnemosyne, Leto, and Hera.
+
+METIS, his first wife, was one of the Oceanides or sea-nymphs. She was the
+personification of prudence and wisdom, a convincing proof of which she
+displayed in her successful administration of the potion which caused
+Cronus to yield up his children. She was endowed with the gift of prophecy,
+and foretold to Zeus that one of their children would gain ascendency over
+{31} him. In order, therefore, to avert the possibility of the prediction
+being fulfilled he swallowed her before any children were born to them.
+Feeling afterwards violent pains in his head, he sent for Hephaestus, and
+ordered him to open it with an axe. His command was obeyed, and out sprang,
+with a loud and martial shout, a beautiful being, clad in armour from head
+to foot. This was Athene (Minerva), goddess of Armed Resistance and Wisdom.
+
+THEMIS was the goddess of Justice, Law, and Order.
+
+EURYNOME was one of the Oceanides, and the mother of the Charites or
+Graces.
+
+DEMETER,[13] the daughter of Cronus and Rhea, was the goddess of
+Agriculture.
+
+MNEMOSYNE, the daughter of Uranus and Gaea, was the goddess of Memory and
+the mother of the nine Muses.
+
+LETO (Latona) was the daughter of Coeus and Phoebe. She was gifted with
+wonderful beauty, and was tenderly loved by Zeus, but her lot was far from
+being a happy one, for Hera, being extremely jealous of her, persecuted her
+with inveterate cruelty, and sent the dreadful serpent Python[14] to
+terrify and torment her wherever she went. But Zeus, who had observed with
+the deepest compassion her weary wanderings and agonized fears, resolved to
+create for her some place of refuge, however humble, where she might feel
+herself safe from the venomous attacks of the serpent. He therefore brought
+her to Delos, a floating island in the AEgean Sea, which he made stationary
+by attaching it with chains of adamant to the bottom of the sea. Here she
+gave birth to her twin-children, Apollo and Artemis (Diana), two of the
+most beautiful of the immortals.
+
+According to some versions of the story of Leto, Zeus transformed her into
+a quail, in order that she might thus elude the vigilance of Hera, and she
+is said to have {32} resumed her true form when she arrived at the island
+of Delos.
+
+HERA, being the principal wife of Zeus and queen of heaven, a detailed
+account will be given of her in a special chapter.
+
+In the union of Zeus with most of his immortal wives we shall find that an
+allegorical meaning is conveyed. His marriage with Metis, who is said to
+have surpassed both gods and men in knowledge, represents supreme power
+allied to wisdom and prudence. His union with Themis typifies the bond
+which exists between divine majesty and justice, law, and order. Eurynome,
+as the mother of the Charites or Graces, supplied the refining and
+harmonizing influences of grace and beauty, whilst the marriage of Zeus
+with Mnemosyne typifies the union of genius with memory.
+
+       *       *       *       *       *
+
+In addition to the seven immortal wives of Zeus, he was also allied to a
+number of mortal maidens whom he visited under various disguises, as it was
+supposed that if he revealed himself in his true form as king of heaven the
+splendour of his glory would cause instant destruction to mortals. The
+mortal consorts of Zeus have been such a favourite theme with poets,
+painters, and sculptors, that it is necessary to give some account of their
+individual history. Those best known are Antiope, Leda, Europa, Callisto,
+Alcmene, Semele, Io, and Danae.
+
+ANTIOPE, to whom Zeus appeared under the form of a satyr, was the daughter
+of Nicteus, king of Thebes. To escape the anger of her father she fled to
+Sicyon, where king Epopeus, enraptured with her wonderful beauty, made her
+his wife without asking her father's consent. This so enraged Nicteus that
+he declared war against Epopeus, in order to compel him to restore Antiope.
+At his death, which took place before he could succeed in his purpose,
+Nicteus left his kingdom to his brother Lycus, commanding him, at the same
+time, to carry on the war, and execute his vengeance. Lycus invaded Sicyon,
+defeated and killed Epopeus, and brought back {33} Antiope as a prisoner.
+On the way to Thebes she gave birth to her twin-sons, Amphion and Zethus,
+who, by the orders of Lycus, were at once exposed on Mount Cithaeron, and
+would have perished but for the kindness of a shepherd, who took pity on
+them and preserved their lives. Antiope was, for many years, held captive
+by her uncle Lycus, and compelled to suffer the utmost cruelty at the hands
+of his wife Dirce. But one day her bonds were miraculously loosened, and
+she flew for shelter and protection to the humble dwelling of her sons on
+Mount Cithaeron. During the long period of their mother's captivity the
+babes had grown into sturdy youths, and, as they listened angrily to the
+story of her wrongs, they became all impatience to avenge them. Setting off
+at once to Thebes they succeeded in possessing themselves of the town, and
+after slaying the cruel Lycus they bound Dirce by the hair to the horns of
+a wild bull, which dragged her hither and thither until she expired. Her
+mangled body was cast into the fount near Thebes, which still bears her
+name. Amphion became king of Thebes in his uncle's stead. He was a friend
+of the Muses, and devoted to music and poetry. His brother, Zethus, was
+famous for his skill in archery, and was passionately fond of the chase. It
+is said that when Amphion wished to inclose the town of Thebes with walls
+and towers, he had but to play a sweet melody on the lyre, given to him by
+Hermes, and the huge stones began to move, and obediently fitted themselves
+together.
+
+The punishment of Dirce at the hands of Amphion and Zethus forms the
+subject of the world-renowned marble group in the museum at Naples, known
+by the name of the Farnese Bull.
+
+In sculpture Amphion is always represented with a lyre; Zethus with a club.
+
+LEDA, whose affections Zeus won under the form of a swan, was the daughter
+of Thestius, king of AEtolia. Her twin-sons, Castor and (Polydeuces or)
+Pollux,[15] were {34} renowned for their tender attachment to each other.
+They were also famous for their physical accomplishments, Castor being the
+most expert charioteer of his day, and Pollux the first of pugilists. Their
+names appear both among the hunters of the Calydonian boar-hunt and the
+heroes of the Argonautic expedition. The brothers became attached to the
+daughters of Leucippus, prince of the Messenians, who had been betrothed by
+their father to Idas and Lynceus, sons of Aphareus. Having persuaded
+Leucippus to break his promise, the twins carried off the maidens as their
+brides. Idas and Lynceus, naturally furious at this proceeding, challenged
+the Dioscuri to mortal combat, in which Castor perished by the hand of
+Idas, and Lynceus by that of Pollux. Zeus wished to confer the gift of
+immortality upon Pollux, but he refused to accept it unless allowed to
+share it with Castor. Zeus gave the desired permission, and the faithful
+brothers were both allowed to live, but only on alternate days. The
+Dioscuri received divine honours throughout Greece, and were worshipped
+with special reverence at Sparta.
+
+EUROPA was the beautiful daughter of Agenor, king of Phoenicia. She was one
+day gathering flowers with her companions in a meadow near the sea-shore,
+when Zeus, charmed with her great beauty, and wishing to win her love,
+transformed himself into a beautiful white bull, and trotted quietly up to
+the princess, so as not to alarm her. Surprised at the gentleness of the
+animal, and admiring its beauty, as it lay placidly on the grass, she
+caressed it, crowned it with flowers, and, at last, playfully seated
+herself on its back. Hardly had she done so than the disguised god bounded
+away with his lovely burden, and swam across the sea with her to the island
+of Crete.
+
+Europa was the mother of Minos, Aeacus, and Rhadamanthus. Minos, who became
+king of Crete, was celebrated for his justice and moderation, and after
+death he was created one of the judges of the lower world, which office he
+held in conjunction with his brothers. {35}
+
+CALLISTO, the daughter of Lycaon, king of Arcadia, was a huntress in the
+train of Artemis, devoted to the pleasures of the chase, who had made a vow
+never to marry; but Zeus, under the form of the huntress-goddess, succeeded
+in obtaining her affections. Hera, being extremely jealous of her, changed
+her into a bear, and caused Artemis (who failed to recognize her attendant
+under this form) to hunt her in the chase, and put an end to her existence.
+After her death she was placed by Zeus among the stars as a constellation,
+under the name of Arctos, or the bear.
+
+ALCMENE, the daughter of Electryon, king of Mycenae, was betrothed to her
+cousin Amphytrion; but, during his absence on a perilous undertaking, Zeus
+assumed his form, and obtained her affections. Heracles (whose
+world-renowned exploits will be related among the legends) was the son of
+Alcmene and Zeus.
+
+SEMELE, a beautiful princess, the daughter of Cadmus, king of Phoenicia,
+was greatly beloved by Zeus. Like the unfortunate Callisto, she was hated
+by Hera with jealous malignity, and the haughty queen of heaven determined
+to effect her destruction. Disguising herself, therefore, as Beroe,
+Semele's faithful old nurse, she artfully persuaded her to insist upon Zeus
+visiting her, as he appeared to Hera, in all his power and glory, well
+knowing that this would cause her instant death. Semele, suspecting no
+treachery, followed the advice of her supposed nurse; and the next time
+Zeus came to her, she earnestly entreated him to grant the favour she was
+about to ask. Zeus swore by the Styx (which was to the gods an irrevocable
+oath) to accede to her request whatsoever it might be. Semele, therefore,
+secure of gaining her petition, begged of Zeus to appear to her in all the
+glory of his divine power and majesty. As he had sworn to grant whatever
+she asked of him, he was compelled to comply with her wish; he therefore
+revealed himself as the mighty lord of the universe, accompanied by thunder
+and lightning, and she was instantly consumed in the flames. {36}
+
+IO, daughter of Inachus, king of Argos, was a priestess of Hera. She was
+very beautiful, and Zeus, who was much attached to her, transformed her
+into a white cow, in order to defeat the jealous intrigues of Hera, who,
+however, was not to be deceived. Aware of the stratagem, she contrived to
+obtain the animal from Zeus, and placed her under the watchful care of a
+man called Argus-Panoptes, who fastened her to an olive-tree in the grove
+of Hera. He had a hundred eyes, of which, when asleep, he never closed more
+than two at a time; being thus always on the watch, Hera found him
+extremely useful in keeping guard over Io. Hermes, however, by the command
+of Zeus, succeeded in putting all his eyes to sleep with the sound of his
+magic lyre, and then, taking advantage of his helpless condition, slew him.
+The story goes, that in commemoration of the services which Argus had
+rendered her, Hera placed his eyes on the tail of a peacock, as a lasting
+memorial of her gratitude. Ever fertile in resource, Hera now sent a gadfly
+to worry and torment the unfortunate Io incessantly, and she wandered all
+over the world in hopes of escaping from her tormentor. At length she
+reached Egypt, where she found rest and freedom from the persecutions of
+her enemy. On the banks of the Nile she resumed her original form and gave
+birth to a son called Epaphus, who afterwards became king of Egypt, and
+built the famous city of Memphis.
+
+DANAE.--Zeus appeared to Danae under the form of a shower of gold. (Further
+details concerning her will be found in the legend of Perseus.)
+
+       *       *       *       *       *
+
+The Greeks supposed that the divine ruler of the Universe occasionally
+assumed a human form, and descended from his celestial abode, in order to
+visit mankind and observe their proceedings, his aim being generally either
+to punish the guilty, or to reward the deserving.
+
+On one occasion Zeus, accompanied by Hermes, made a journey through
+Phrygia, seeking hospitality and shelter wherever they went. But nowhere
+did they receive a {37} kindly welcome till they came to the humble cottage
+of an old man and his wife called Philemon and Baucis, who entertained them
+with the greatest kindness, setting before them what frugal fare their
+humble means permitted, and bidding them welcome with unaffected
+cordiality. Observing in the course of their simple repast that the wine
+bowl was miraculously replenished, the aged couple became convinced of the
+divine nature of their guests. The gods now informed them that on account
+of its wickedness their native place was doomed to destruction, and told
+them to climb the neighbouring hill with them, which overlooked the village
+where they dwelt. What was their dismay on beholding at their feet, in
+place of the spot where they had passed so many happy years together,
+nothing but a watery plain, the only house to be seen being their own
+little cottage, which suddenly changed itself into a temple before their
+eyes. Zeus now asked the worthy pair to name any wish they particularly
+desired and it should be granted. They accordingly begged that they might
+serve the gods in the temple below, and end life together.
+
+Their wish was granted, for, after spending the remainder of their lives in
+the worship of the gods, they both died at the same instant, and were
+transformed by Zeus into trees, remaining for ever side by side.
+
+Upon another occasion Zeus, wishing to ascertain for himself the truth of
+the reports concerning the atrocious wickedness of mankind, made a journey
+through Arcadia. Being recognized by the Arcadians as king of heaven, he
+was received by them with becoming respect and veneration; but Lycaon,
+their king, who had rendered himself infamous by the gross impiety of
+himself and his sons, doubted the divinity of Zeus, ridiculed his people
+for being so easily duped, and, according to his custom of killing all
+strangers who ventured to trust his hospitality, resolved to murder him.
+Before executing this wicked design, however, he decided to put Zeus to the
+test, and having killed a boy for the purpose, placed before him a dish
+containing human flesh. But Zeus was {38} not to be deceived. He beheld the
+revolting dish with horror and loathing, and angrily upsetting the table
+upon which it was placed, turned Lycaon into a wolf, and destroyed all his
+fifty sons by lightning, except Nyctimus, who was saved by the intervention
+of Gaea.
+
+JUPITER.
+
+The Roman Jupiter, who is so frequently confounded with the Greek Zeus, is
+identical with him only as being the head of the Olympic gods, and the
+presiding deity over Life, Light, and Aerial Phenomena. Jupiter is lord of
+life in its widest and most comprehensive signification, having absolute
+power over life and death, in which respect he differed from the Greek
+Zeus, who was to a certain extent controlled by the all-potent sway of the
+Moirae or Fates. Zeus, as we have seen, often condescends to visit mankind,
+either as a mortal, or under various disguises, whereas Jupiter always
+remains essentially the supreme god of heaven, and never appears upon
+earth.
+
+The most celebrated temple of Jupiter was that on the Capitoline Hill in
+the city of Rome, where he was worshipped under the names of
+Jupiter-Optimus-Maximus, Capitolinus, and Tarpeius.
+
+The Romans represented him seated on a throne of ivory, holding in his
+right hand a sheaf of thunderbolts, and in his left a sceptre, whilst an
+eagle stands beside his throne.
+
+HERA (JUNO).
+
+Hera, the eldest daughter of Cronus and Rhea, was born at Samos, or,
+according to some accounts, at Argos, and was reared by the sea-divinities
+Oceanus and Tethys, who were models of conjugal fidelity.[16] She was the
+{39} principal wife of Zeus, and, as queen of heaven, participated in the
+honours paid to him, but her dominion only extended over the air (the lower
+aerial regions). Hera appears to be the sublime embodiment of strict
+matronly virtue, and is on that account the protectress of purity and
+married women. Faultless herself in her fidelity as a wife, she is
+essentially the type of the sanctity of the marriage tie, and holds in
+abhorrence any violation of its obligations. So strongly was she imbued
+with this hatred of any immorality, that, finding herself so often called
+upon to punish the failings of both gods and men in this respect, she
+became jealous, harsh, and vindictive. Her exalted position as the wife of
+the supreme deity, combined with her extreme beauty, caused her to become
+exceedingly vain, and she consequently resented with great severity any
+infringement on her rights as queen of heaven, or any apparent slight on
+her personal appearance.
+
+The following story will signally illustrate how ready she was to resent
+any slight offered to her.
+
+At the marriage of the sea-nymph Thetis with a mortal called Peleus, all
+the gods and goddesses were present, except Eris (the goddess of Discord).
+Indignant at not being invited, she determined to cause dissension in the
+assembly, and for this purpose threw into the midst of the guests a golden
+apple with the inscription on it "For the Fairest." Now, as all the
+goddesses were extremely beautiful, each claimed the apple; but at length,
+the rest having relinquished their pretensions, the number of candidates
+was reduced to three, Hera, Athene, and Aphrodite, who agreed to appeal to
+Paris for a settlement of this delicate question, he being noted for the
+wisdom he had displayed in his judgment upon several occasions. Paris was
+the son of Priam, king of Troy, who, ignorant of his noble birth, was at
+this time feeding his flocks on Mount Ida, in Phrygia. Hermes, as messenger
+of the gods, conducted the three rival beauties to the young shepherd, and
+with breathless anxiety they awaited his decision. Each fair candidate
+endeavoured {40} to secure his favour by the most tempting offers. Hera
+promised him extensive dominions; Athene, martial fame and glory; and
+Aphrodite, the loveliest woman in the world. But whether he really
+considered Aphrodite the fairest of the three, or preferred a beautiful
+wife to fame and power, we cannot tell; all we know is that to her he
+awarded the golden apple, and she became ever after universally
+acknowledged as the goddess of beauty. Hera, having fully expected that
+Paris would give her the preference, was so indignant that she never
+forgave him, and not only persecuted him, but all the family of Priam,
+whose dreadful sufferings and misfortunes during the Trojan war were
+attributed to her influence. In fact, she carried her animosity to such an
+extent that it was often the cause of domestic disagreements between
+herself and Zeus, who espoused the cause of the Trojans.
+
+Among the many stories of these frequent quarrels there is one connected
+with Heracles, the favourite son of Zeus, which is as follows:--Hera having
+raised a storm at sea in order to drive him out of his course, Zeus became
+so angry that he hung her in the clouds by a golden chain, and attached
+heavy anvils to her feet. Her son Hephaestus tried to release his mother
+from her humiliating position, for which Zeus threw him out of heaven, and
+his leg was broken by the fall.
+
+Hera, being deeply offended with Zeus, determined to separate herself from
+him for ever, and she accordingly left him and took up her abode in Euboea.
+Surprised and grieved at this unlooked-for desertion, Zeus resolved to
+leave no means untried to win her back again. In this emergency he
+consulted Cithaeron, king of Platea, who was famed for his great wisdom and
+subtlety. Cithaeron advised him to dress up an image in bridal attire and
+place it in a chariot, announcing that this was Platea, his future wife.
+The artifice succeeded. Hera, incensed at the idea of a rival, flew to meet
+the procession in great anger, and seizing the supposed bride, she
+furiously attacked her and dragged off her nuptial attire. Her delight on
+discovering the deception was so great that a {41} reconciliation took
+place, and, committing the image to the flames, with joyful laughter she
+seated herself in its place and returned to Olympus.
+
+Hera was the mother of Ares (Mars), Hephaestus, Hebe, and Eileithyia. Ares
+was the god of War; Hephaestus, of Fire; Hebe, of Youth; and Eileithyia
+presided over the birth of mortals.
+
+Hera dearly loved Greece, and indeed always watched over and protected
+Greek interests, her beloved and favourite cities being Argos, Samos,
+Sparta, and Mycenae.
+
+[Illustration]
+
+Her principal temples were at Argos and Samos. From a remote period she was
+greatly venerated at Olympia, and her temple there, which stood in the
+Altis or sacred grove, was five hundred years older than that of Zeus on
+the same spot. Some interesting excavations which are now going on there
+have brought to light the remains of the ancient edifice, which contains
+among other treasures of antiquity several beautiful statues, the work of
+the famous sculptors of ancient Greece. At first this temple was built of
+wood, then of stone, and the one lately discovered was formed of
+conglomerate of shells.
+
+In the Altis races were run by young maidens in honour of Hera, and the
+fleetest of foot received in token of her victory an olive-wreath and a
+piece of the flesh of the sacrifices. These races, like the Olympic Games,
+were celebrated at intervals of four years, and were called Herae. A
+beautiful robe, woven by sixteen women chosen from the sixteen cities of
+Elis, was always offered to Hera on these {42} occasions, and choral songs
+and sacred dances formed part of the ceremonies.
+
+Hera is usually represented seated on a throne, holding a pomegranate in
+one hand and a sceptre surmounted by a cuckoo in the other. She appears as
+a calm, dignified matron of majestic beauty, robed in a tunic and mantle,
+her forehead is broad and intellectual, her eyes large and fully opened,
+and her arms dazzlingly white and finely moulded.
+
+The finest statue of this divinity was that by Polycletus at Argos.
+
+Her attributes are the diadem, veil, sceptre, and peacock.
+
+The first day of every month a ewe-lamb and sow were sacrificed to Hera.
+The hawk, goose, and more particularly the peacock[17] were sacred to her.
+Flocks of these beautiful birds generally surround her throne and draw her
+chariot, Iris, the Rainbow, being seated behind her.
+
+Her favourite flowers were the dittany, poppy, and lily.
+
+JUNO.
+
+Juno, the Roman divinity supposed to be identical with the Greek Hera,
+differed from her in the most salient points, for whereas Hera invariably
+appears as the haughty, unbending queen of heaven, Juno, on the other hand,
+is revered and beloved as the type of a matron and housewife. She was
+worshipped in Rome under various titles, most of which point to her
+vocation as the protectress of married women. Juno was believed to watch
+over and guard the life of every woman from her birth to her death. The
+principal temples dedicated to her were in Rome, one being erected on the
+Aventine, and the other on the Capitoline Hill. She had also a temple on
+the Arx, in which she was worshipped as Juno Moneta, or the {43} warning
+goddess. Adjacent to this shrine was the public mint.[18] On the 1st of
+March a grand annual festival, called the Matronalia, was celebrated in her
+honour by all the married women of Rome, and this religious institution was
+accompanied with much solemnity.[19]
+
+PALLAS-ATHENE (MINERVA).
+
+Pallas-Athene, goddess of Wisdom and Armed Resistance, was a purely Greek
+divinity; that is to say, no other nation possessed a corresponding
+conception. She was supposed, as already related, to have issued from the
+head of Zeus himself, clad in armour from head to foot. The miraculous
+advent of this maiden goddess is beautifully described by Homer in one of
+his hymns: snow-capped Olympus shook to its foundation; the glad earth
+re-echoed her martial shout; the billowy sea became agitated; and Helios,
+the sun-god, arrested his fiery steeds in their headlong course to welcome
+this wonderful emanation from the godhead. Athene was at once admitted into
+the assembly of the gods, and henceforth took her place as the most
+faithful and sagacious of all her father's counsellors. This brave,
+dauntless maiden, so exactly the essence of all that is noble in the
+character of "the father of gods and men," remained throughout chaste in
+word and deed, and kind at heart, without exhibiting any of those failings
+which somewhat mar the nobler features in the character of Zeus. This
+direct emanation from his own self, justly his favourite child, his better
+and purer counterpart, received from him several important prerogatives.
+She was permitted to hurl the thunderbolts, to prolong the life of man, and
+to bestow the gift of prophecy; in fact Athene was the only divinity whose
+authority was equal to that of Zeus himself, and when he had ceased to
+visit the earth in person {44} she was empowered by him to act as his
+deputy. It was her especial duty to protect the state and all peaceful
+associations of mankind, which she possessed the power of defending when
+occasion required. She encouraged the maintenance of law and order, and
+defended the right on all occasions, for which reason, in the Trojan war
+she espouses the cause of the Greeks and exerts all her influence on their
+behalf. The Areopagus, a court of justice where religious causes and
+murders were tried, was believed to have been instituted by her, and when
+both sides happened to have an equal number of votes she gave the
+casting-vote in favour of the accused. She was the patroness of learning,
+science, and art, more particularly where these contributed directly
+towards the welfare of nations. She presided over all inventions connected
+with agriculture, invented the plough, and taught mankind how to use oxen
+for farming purposes. She also instructed mankind in the use of numbers,
+trumpets, chariots, &c., and presided over the building of the Argo,[20]
+thereby encouraging the useful art of navigation. She also taught the
+Greeks how to build the wooden horse by means of which the destruction of
+Troy was effected.
+
+The safety of cities depended on her care, for which reason her temples
+were generally built on the citadels, and she was supposed to watch over
+the defence of the walls, fortifications, harbours, &c. A divinity who so
+faithfully guarded the best interests of the state, by not only protecting
+it from the attacks of enemies, but also by developing its chief resources
+of wealth and prosperity, was worthily chosen as the presiding deity of the
+state, and in this character as an essentially political goddess she was
+called Athene-Polias.
+
+The fact of Athene having been born clad in armour, which merely signified
+that her virtue and purity were unassailable, has given rise to the
+erroneous supposition that she was the presiding goddess of war; but a
+deeper {45} study of her character in all its bearings proves that, in
+contradistinction to her brother Ares, the god of war, who loved strife for
+its own sake, she only takes up arms to protect the innocent and deserving
+against tyrannical oppression. It is true that in the Iliad we frequently
+see her on the battlefield fighting valiantly, and protecting her favourite
+heroes; but this is always at the command of Zeus, who even supplies her
+with arms for the purpose, as it is supposed that she possessed none of her
+own. A marked feature in the representations of this deity is the aegis,
+that wonderful shield given to her by her father as a further means of
+defence, which, when in danger, she swung so swiftly round and round that
+it kept at a distance all antagonistic influences; hence her name Pallas,
+from _pallo_, I swing. In the centre of this shield, which was covered with
+dragon's scales, bordered with serpents, and which she sometimes wore as a
+breastplate, was the awe-inspiring head of the Medusa, which had the effect
+of turning to stone all beholders.
+
+In addition to the many functions which she exercised in connection with
+the state, Athene presided over the two chief departments of feminine
+industry, spinning and weaving. In the latter art she herself displayed
+unrivalled ability and exquisite taste. She wove her own robe and that of
+Hera, which last she is said to have embroidered very richly; she also gave
+Jason a cloak wrought by herself, when he set forth in quest of the Golden
+Fleece. Being on one occasion challenged to a contest in this
+accomplishment by a mortal maiden named Arachne, whom she had instructed in
+the art of weaving, she accepted the challenge and was completely
+vanquished by her pupil. Angry at her defeat, she struck the unfortunate
+maiden on the forehead with the shuttle which she held in her hand; and
+Arachne, being of a sensitive nature, was so hurt by this indignity that
+she hung herself in despair, and was changed by Athene into a spider. This
+goddess is said to have invented the flute,[21] upon {46} which she played
+with considerable talent, until one day, being laughed at by the assembled
+gods and goddesses for the contortions which her countenance assumed during
+these musical efforts, she hastily ran to a fountain in order to convince
+herself whether she deserved their ridicule. Finding to her intense disgust
+that such was indeed the fact, she threw the flute away, and never raised
+it to her lips again.
+
+[Illustration]
+
+Athene is usually represented fully draped; she has a serious and
+thoughtful aspect, as though replete with earnestness and wisdom; the
+beautiful oval contour of her countenance is adorned by the luxuriance of
+her wealth of hair, which is drawn back from the temples and hangs down in
+careless grace; she looks the embodiment of strength, grandeur, and
+majesty; whilst her broad shoulders and small hips give her a slightly
+masculine appearance.
+
+When represented as the war-goddess she appears clad in armour, with a
+helmet on her head, from which waves a large plume; she carries the aegis on
+her arm, and in her hand a golden staff, which possessed the property of
+endowing her chosen favourites with youth and dignity.
+
+Athene was universally worshipped throughout Greece, but was regarded with
+special veneration by the Athenians, she being the guardian deity of
+Athens. Her most celebrated temple was the Parthenon, which stood on the
+{47} Acropolis at Athens, and contained her world-renowned statue by
+Phidias, which ranks second only to that of Zeus by the same great artist.
+This colossal statue was 39 feet high, and was composed of ivory and gold;
+its majestic beauty formed the chief attraction of the temple. It
+represented her standing erect, bearing her spear and shield; in her hand
+she held an image of Nike, and at her feet there lay a serpent.
+
+The tree sacred to her was the olive, which she herself produced in a
+contest with Poseidon. The olive-tree thus called into existence was
+preserved in the temple of Erectheus, on the Acropolis, and is said to have
+possessed such marvellous vitality, that when the Persians burned it after
+sacking the town it immediately burst forth into new shoots.
+
+The principal festival held in honour of this divinity was the Panathenaea.
+
+The owl, cock, and serpent were the animals sacred to her, and her
+sacrifices were rams, bulls, and cows.
+
+[Illustration]
+
+MINERVA.
+
+The Minerva of the Romans was identified with the Pallas-Athene of the
+Greeks. Like her she presides over learning and all useful arts, and is the
+patroness of the feminine accomplishments of sewing, spinning, weaving, &c.
+Schools were under her especial care, and schoolboys, therefore, had
+holidays during her festivals (the Greater Quinquatria), when they always
+brought a gift to their master, called the Minerval.
+
+It is worthy of notice that the only three divinities {48} worshipped in
+the Capitol were Jupiter, Juno, and Minerva, and in their joint honour the
+Ludi Maximi or great games were held.
+
+THEMIS.
+
+Themis, who has already been alluded to as the wife of Zeus, was the
+daughter of Cronus and Rhea, and personified those divine laws of justice
+and order by means of which the well-being and morality of communities are
+regulated. She presided over the assemblies of the people and the laws of
+hospitality. To her was intrusted the office of convoking the assembly of
+the gods, and she was also mistress of ritual and ceremony. On account of
+her great wisdom Zeus himself frequently sought her counsel and acted upon
+her advice. Themis was a prophetic divinity, and had an oracle near the
+river Cephissus in Boeotia.
+
+She is usually represented as being in the full maturity of womanhood, of
+fair aspect, and wearing a flowing garment, which drapes her noble,
+majestic form; in her right hand she holds the sword of justice, and in her
+left the scales, which indicate the impartiality with which every cause is
+carefully weighed by her, her eyes being bandaged so that the personality
+of the individual should carry no weight with respect to the verdict.
+
+This divinity is sometimes identified with Tyche, sometimes with Ananke.
+
+Themis, like so many other Greek divinities, takes the place of a more
+ancient deity of the same name who was a daughter of Uranus and Gaea. This
+elder Themis inherited from her mother the gift of prophecy, and when she
+became merged into her younger representative she transmitted to her this
+prophetic power.
+
+HESTIA (Vesta).
+
+Hestia was the daughter of Cronus and Rhea. She was the goddess of Fire in
+its first application to the wants of mankind, hence she was essentially
+the presiding deity {49} of the domestic hearth and the guardian spirit of
+man, and it was her pure and benign influence which was supposed to protect
+the sanctity of domestic life.
+
+Now in these early ages the hearth was regarded as the most important and
+most sacred portion of the dwelling, probably because the protection of the
+fire was an important consideration, for if once permitted to become
+extinct, re-ignition was attended with extreme difficulty. In fact, the
+hearth was held so sacred that it constituted the sanctum of the family,
+for which reason it was always erected in the centre of every house. It was
+a few feet in height and was built of stone; the fire was placed on the top
+of it, and served the double purpose of preparing the daily meals, and
+consuming the family sacrifices. Round this domestic hearth or altar were
+gathered the various members of the family, the head of the house occupying
+the place of honour nearest the hearth. Here prayers were said and
+sacrifices offered, and here also every kind and loving feeling was
+fostered, which even extended to the hunted and guilty stranger, who, if he
+once succeeded in touching this sacred altar, was safe from pursuit and
+punishment, and was henceforth placed under the protection of the family.
+Any crime committed within the sacred precincts of the domestic hearth was
+invariably visited by death.
+
+[Illustration]
+
+In Grecian cities there was a common hall, called the Prytaneum, in which
+the members of the government had their meals at the expense of the state,
+and here too was the Hestia, or public hearth, with its fire, by means of
+which those meals were prepared. It was customary for emigrants to take
+with them a portion of this sacred fire, which they jealously guarded and
+brought with them to their new home, where it served as a connecting link
+between the young Greek colony and the mother country. Hestia is generally
+represented standing, and in accordance with the dignity and sanctity of
+her character, always appears fully draped. Her countenance is
+distinguished by a serene gravity of expression. {50}
+
+VESTA.
+
+Vesta occupies a distinguished place among the earlier divinities of the
+Romans. Her temple in Rome, containing as it were the hearthstone of the
+nation, stood close beside the palace of Numa Pompilius.
+
+On her altar burned the never-ceasing fire, which was tended by her
+priestesses, the Vestal Virgins.[22]
+
+The temple of Vesta was circular in form, and contained that sacred and
+highly prized treasure the Palladium of Troy.[23]
+
+The great festival in honour of Vesta, called the Vestalia, was celebrated
+on the 9th of June.
+
+DEMETER (Ceres).
+
+Demeter (from _Ge-meter_, earth-mother) was the daughter of Cronus and
+Rhea.[24] She represented that portion of Gaea (the whole solid earth) which
+we call the earth's crust, and which produces all vegetation. As goddess of
+agriculture, field-fruits, plenty, and productiveness, she was the
+sustainer of material life, and was therefore a divinity of great
+importance. When ancient Gaea lost, with Uranus, her position as a ruling
+divinity, she abdicated her sway in favour of her daughter Rhea, who
+henceforth inherited the powers which her mother had previously possessed,
+receiving in her place the honour and worship of mankind. In a very old
+poem Gaea is accordingly described as retiring to a cavern in the bowels
+{51} of the earth, where she sits in the lap of her daughter, slumbering,
+moaning, and nodding for ever and ever.
+
+It is necessary to keep clearly in view the distinctive difference between
+the three great earth-goddesses Gaea, Rhea, and Demeter. Gaea represents the
+earth as a whole, with its mighty subterranean forces; Rhea is that
+productive power which causes vegetation to spring forth, thus sustaining
+men and animals; Demeter, by presiding over agriculture, directs and
+utilizes Rhea's productive powers. But in later times, when Rhea, like
+other ancient divinities, loses her importance as a ruling deity, Demeter
+assumes all her functions and attributes, and then becomes the goddess of
+the life-producing and life-maintaining earth-crust. We must bear in mind
+the fact that man in his primitive state knew neither how to sow nor how to
+till the ground; when, therefore, he had exhausted the pastures which
+surrounded him he was compelled to seek others which were as yet unreaped;
+thus, roaming constantly from one place to another, settled habitations,
+and consequently civilizing influences, were impossible. Demeter, however,
+by introducing a knowledge of agriculture, put an end, at once and for
+ever, to that nomadic life which was now no longer necessary.
+
+[Illustration]
+
+The favour of Demeter was believed to bring mankind rich harvests and
+fruitful crops, whereas her displeasure caused blight, drought, and famine.
+The island of Sicily was supposed to be under her especial protection, and
+there she was regarded with particular veneration, the Sicilians naturally
+attributing the wonderful fertility of their country to the partiality of
+the goddess.
+
+Demeter is usually represented as a woman of noble {52} bearing and
+majestic appearance, tall, matronly, and dignified, with beautiful golden
+hair, which falls in rippling curls over her stately shoulders, the yellow
+locks being emblematical of the ripened ears of corn. Sometimes she appears
+seated in a chariot drawn by winged dragons, at others she stands erect,
+her figure drawn up to its full height, and always fully draped; she bears
+a sheaf of wheat-ears in one hand and a lighted torch in the other. The
+wheat-ears are not unfrequently replaced by a bunch of poppies, with which
+her brows are also garlanded, though sometimes she merely wears a simple
+riband in her hair.
+
+Demeter, as the wife of Zeus, became the mother of Persephone (Proserpine),
+to whom she was so tenderly attached that her whole life was bound up in
+her, and she knew no happiness except in her society. One day, however,
+whilst Persephone was gathering flowers in a meadow, attended by the
+ocean-nymphs, she saw to her surprise a beautiful narcissus, from the stem
+of which sprang forth a hundred blossoms. Drawing near to examine this
+lovely flower, whose exquisite scent perfumed the air, she stooped down to
+gather it, suspecting no evil, when a yawning abyss opened at her feet, and
+Aides, the grim ruler of the lower world, appeared from its depths, seated
+in his dazzling chariot drawn by four black horses. Regardless of her tears
+and the shrieks of her female attendants, Aides seized the terrified
+maiden, and bore her away to the gloomy realms over which he reigned in
+melancholy grandeur. Helios, the all-seeing sun-god, and Hecate, a
+mysterious and very ancient divinity, alone heard her cries for aid, but
+were powerless to help her. When Demeter became conscious of her loss her
+grief was intense, and she refused to be comforted. She knew not where to
+seek for her child, but feeling that repose and inaction were impossible,
+she set out on her weary search, taking with her two torches which she
+lighted in the flames of Mount Etna to guide her on her way. For nine long
+days and nights she wandered on, inquiring of every one she met for tidings
+of her child. {53} But all was in vain! Neither gods nor men could give her
+the comfort which her soul so hungered for. At last, on the tenth day, the
+disconsolate mother met Hecate, who informed her that she had heard her
+daughter's cries, but knew not who it was that had borne her away. By
+Hecate's advice Demeter consulted Helios, whose all-seeing eye nothing
+escapes, and from him she learnt that it was Zeus himself who had permitted
+Aides to seize Persephone, and transport her to the lower world in order
+that she might become his wife. Indignant with Zeus for having given his
+sanction to the abduction of his daughter, and filled with the bitterest
+sorrow, she abandoned her home in Olympus, and refused all heavenly food.
+Disguising herself as an old woman, she descended upon earth, and commenced
+a weary pilgrimage among mankind. One evening she arrived at a place called
+Eleusis, in Attica, and sat down to rest herself near a well beneath the
+shade of an olive-tree. The youthful daughters of Celeus, the king of the
+country, came with their pails of brass to draw water from this well, and
+seeing that the tired wayfarer appeared faint and dispirited, they spoke
+kindly to her, asking who she was, and whence she came. Demeter replied
+that she had made her escape from pirates, who had captured her, and added
+that she would feel grateful for a home with any worthy family, whom she
+would be willing to serve in a menial capacity. The princesses, on hearing
+this, begged Demeter to have a moment's patience while they returned home
+and consulted their mother, Metaneira. They soon brought the joyful
+intelligence that she was desirous of securing her services as nurse to her
+infant son Demophoon, or Triptolemus. When Demeter arrived at the house a
+radiant light suddenly illumined her, which circumstance so overawed
+Metaneira that she treated the unknown stranger with the greatest respect,
+and hospitably offered her food and drink. But Demeter, still grief-worn
+and dejected, refused her friendly offers, and held herself apart from the
+social board. At length, however, the maid-servant Iambe succeeded, by
+means {54} of playful jests and merriment, in somewhat dispelling the grief
+of the sorrowing mother, causing her at times to smile in spite of herself,
+and even inducing her to partake of a mixture of barley-meal, mint, and
+water, which was prepared according to the directions of the goddess
+herself. Time passed on, and the young child throve amazingly under the
+care of his kind and judicious nurse, who, however, gave him no food, but
+anointed him daily with ambrosia, and every night laid him secretly in the
+fire in order to render him immortal and exempt from old age. But,
+unfortunately, this benevolent design on the part of Demeter was frustrated
+by Metaneira herself, whose curiosity, one night, impelled her to watch the
+proceedings of the mysterious being who nursed her child. When to her
+horror she beheld her son placed in the flames, she shrieked aloud.
+Demeter, incensed at this untimely interruption, instantly withdrew the
+child, and throwing him on the ground, revealed herself in her true
+character. The bent and aged form had vanished, and in its place there
+stood a bright and beauteous being, whose golden locks streamed over her
+shoulders in richest luxuriance, her whole aspect bespeaking dignity and
+majesty. She told the awe-struck Metaneira that she was the goddess
+Demeter, and had intended to make her son immortal, but that her fatal
+curiosity had rendered this impossible, adding, however, that the child,
+having slept in her arms, and been nursed on her lap, should ever command
+the respect and esteem of mankind. She then desired that a temple and altar
+should be erected to her on a neighbouring hill by the people of Eleusis,
+promising that she herself would direct them how to perform the sacred
+rites and ceremonies, which should be observed in her honour. With these
+words she took her departure never to return.
+
+Obedient to her commands, Celeus called together a meeting of his people,
+and built the temple on the spot which the goddess had indicated. It was
+soon completed, and Demeter took up her abode in it, but her heart was
+still sad for the loss of her daughter, and the whole world felt the
+influence of her grief and dejection. This was {55} indeed a terrible year
+for mankind. Demeter no longer smiled on the earth she was wont to bless,
+and though the husbandman sowed the grain, and the groaning oxen ploughed
+the fields, no harvest rewarded their labour. All was barren, dreary
+desolation. The world was threatened with famine, and the gods with the
+loss of their accustomed honours and sacrifices; it became evident,
+therefore, to Zeus himself that some measures must be adopted to appease
+the anger of the goddess. He accordingly despatched Iris and many of the
+other gods and goddesses to implore Demeter to return to Olympus; but all
+their prayers were fruitless. The incensed goddess swore that until her
+daughter was restored to her she would not allow the grain to spring forth
+from the earth. At length Zeus sent Hermes, his faithful messenger, to the
+lower world with a petition to Aides, urgently entreating him to restore
+Persephone to the arms of her disconsolate mother. When he arrived in the
+gloomy realms of Aides, Hermes found him seated on a throne with the
+beautiful Persephone beside him, sorrowfully bewailing her unhappy fate. On
+learning his errand, Aides consented to resign Persephone, who joyfully
+prepared to follow the messenger of the gods to the abode of life and
+light. Before taking leave of her husband, he presented to her a few seeds
+of pomegranate, which in her excitement she thoughtlessly swallowed, and
+this simple act, as the sequel will show, materially affected her whole
+future life. The meeting between mother and child was one of unmixed
+rapture, and for the moment all the past was forgotten. The loving mother's
+happiness would now have been complete had not Aides asserted his rights.
+These were, that if any immortal had tasted food in his realms they were
+bound to remain there for ever. Of course the ruler of the lower world had
+to prove this assertion. This, however, he found no difficulty in doing, as
+Ascalaphus, the son of Acheron and Orphne, was his witness to the fact.[25]
+Zeus, pitying the disappointment of Demeter at finding {56} her hopes thus
+blighted, succeeded in effecting a compromise by inducing his brother Aides
+to allow Persephone to spend six months of the year with the gods above,
+whilst during the other six she was to be the joyless companion of her grim
+lord below. Accompanied by her daughter, the beautiful Persephone, Demeter
+now resumed her long-abandoned dwelling in Olympus; the sympathetic earth
+responded gaily to her bright smiles, the corn at once sprang forth from
+the ground in fullest plenty, the trees, which late were sered and bare,
+now donned their brightest emerald robes, and the flowers, so long
+imprisoned in the hard, dry soil, filled the whole air with their fragrant
+perfume. Thus ends this charming story, which was a favourite theme with
+all the classic authors.
+
+It is very possible that the poets who first created this graceful myth
+merely intended it as an allegory to illustrate the change of seasons; in
+the course of time, however, a literal meaning became attached to this and
+similar poetical fancies, and thus the people of Greece came to regard as
+an article of religious belief what, in the first instance, was nothing
+more than a poetic simile.
+
+In the temple erected to Demeter at Eleusis, the famous Eleusinian
+Mysteries were instituted by the goddess herself. It is exceedingly
+difficult, as in the case of all secret societies, to discover anything
+with certainty concerning these sacred rites. The most plausible
+supposition is that the doctrines taught by the priests to the favoured few
+whom they initiated, were religious truths which were deemed unfit for the
+uninstructed mind of the multitude. For instance, it is supposed that the
+myth of Demeter and Persephone was explained by the teachers of the
+Mysteries to signify the temporary loss which mother earth sustains every
+year when the icy breath of winter robs her of her flowers and fruits and
+grain.
+
+It is believed that in later times a still deeper meaning was conveyed by
+this beautiful myth, viz., the doctrine of the immortality of the soul. The
+grain, which, as it were, remains dead for a time in the dark earth, only
+{57} to rise one day dressed in a newer and lovelier garb, was supposed to
+symbolize the soul, which, after death, frees itself from corruption, to
+live again under a better and purer form.
+
+When Demeter instituted the Eleusinian Mysteries, Celeus and his family
+were the first to be initiated, Celeus himself being appointed high-priest.
+His son Triptolemus and his daughters, who acted as priestesses, assisted
+him in the duties of his sacred office. The Mysteries were celebrated by
+the Athenians every five years, and were, for a long time, their exclusive
+privilege. They took place by torchlight, and were conducted with the
+greatest solemnity.
+
+In order to spread abroad the blessings which agriculture confers, Demeter
+presented Triptolemus with her chariot drawn by winged dragons, and, giving
+him some grains of corn, desired him to journey through the world, teaching
+mankind the arts of agriculture and husbandry.
+
+[Illustration]
+
+Demeter exercised great severity towards those who incurred her
+displeasure. We find examples of this in the stories of Stellio and
+Eresicthon. Stellio was a youth who ridiculed the goddess for the eagerness
+with which she was eating a bowl of porridge, when weary and faint in the
+vain search for her daughter. Resolved that he should never again have an
+opportunity of thus offending, she angrily threw into his face the
+remainder of the food, and changed him into a spotted lizard.
+
+Eresicthon, son of Triopas, had drawn upon himself the anger of Demeter by
+cutting down her sacred groves, for which she punished him with a constant
+and insatiable hunger. He sold all his possessions in order to satisfy his
+cravings, and was forced at last to devour his own limbs. His daughter
+Metra, who was devotedly attached to him, possessed the power of
+transforming herself into a variety of different animals. By this means she
+contrived to support her father, who sold her again and again each time she
+assumed a different form, and thus he dragged on a pitiful existence. {58}
+
+CERES.
+
+The Roman Ceres is actually the Greek Demeter under another name, her
+attributes, worship, festivals, &c., being precisely identical.
+
+The Romans were indebted to Sicily for this divinity, her worship having
+been introduced by the Greek colonists who settled there.
+
+The Cerealia, or festivals in honour of Ceres, commenced on the 12th of
+April, and lasted several days.
+
+APHRODITE (VENUS).
+
+Aphrodite (from _aphros_, sea-foam, and _dite_, issued), the daughter of
+Zeus and a sea-nymph called Dione, was the goddess of Love and Beauty.
+
+Dione, being a sea-nymph, gave birth to her daughter beneath the waves; but
+the child of the heaven-inhabiting Zeus was forced to ascend from the
+ocean-depths and mount to the snow-capped summits of Olympus, in order to
+breathe that ethereal and most refined atmosphere which pertains to the
+celestial gods.
+
+Aphrodite was the mother of Eros (Cupid), the god of Love, also of AEneas,
+the great Trojan hero and the head of that Greek colony which settled in
+Italy, and from which arose the city of Rome. As a mother Aphrodite claims
+our sympathy for the tenderness she exhibits towards her children. Homer
+tells us in his Iliad, how, when AEneas was wounded in battle, she came to
+his assistance, regardless of personal danger, and was herself severely
+wounded in attempting to save his life. {59}
+
+Aphrodite was tenderly attached to a lovely youth, called Adonis, whose
+exquisite beauty has become proverbial. He was a motherless babe, and
+Aphrodite, taking pity on him, placed him in a chest and intrusted him to
+the care of Persephone, who became so fond of the beautiful youth that she
+refused to part with him. Zeus, being appealed to by the rival
+foster-mothers, decided that Adonis should spend four months of every year
+with Persephone, four with Aphrodite, whilst during the remaining four
+months he should be left to his own devices. He became, however, so
+attached to Aphrodite that he voluntarily devoted to her the time at his
+own disposal. Adonis was killed, during the chase, by a wild boar, to the
+great grief of Aphrodite, who bemoaned his loss so persistently that Aides,
+moved with pity, permitted him to pass six months of every year with her,
+whilst the remaining half of the year was spent by him in the lower world.
+
+Aphrodite possessed a magic girdle (the famous _cestus_) which she
+frequently lent to unhappy maidens suffering from the pangs of unrequited
+love, as it was endowed with the power of inspiring affection for the
+wearer, whom it invested with every attribute of grace, beauty, and
+fascination.
+
+Her usual attendants are the Charites or Graces (Euphrosyne, Aglaia, and
+Thalia), who are represented undraped and intertwined in a loving embrace.
+
+In Hesiod's _Theogony_ she is supposed to belong to the more ancient
+divinities, and, whilst those of later date are represented as having
+descended one from another, and all more or less from Zeus, Aphrodite has a
+variously-accounted-for, yet independent origin.
+
+The most poetical version of her birth is that when Uranus was wounded by
+his son Cronus, his blood mingled with the foam of the sea, whereupon the
+bubbling waters at once assumed a rosy tint, and from their depths arose,
+in all the surpassing glory of her loveliness, Aphrodite, goddess of love
+and beauty! Shaking her long, fair tresses, the water-drops rolled down
+into the beautiful {60} sea-shell in which she stood, and became
+transformed into pure glistening pearls. Wafted by the soft and balmy
+breezes, she floated on to Cythera, and was thence transported to the
+island of Cyprus. Lightly she stepped on shore, and under the gentle
+pressure of her delicate foot the dry and rigid sand became transformed
+into a verdant meadow, where every varied shade of colour and every sweet
+odour charmed the senses. The whole island of Cyprus became clothed with
+verdure, and greeted this fairest of all created beings with a glad smile
+of friendly welcome. Here she was received by the Seasons, who decked her
+with garments of immortal fabric, encircling her fair brow with a wreath of
+purest gold, whilst from her ears depended costly rings, and a glittering
+chain embraced her swan-like throat. And now, arrayed in all the panoply of
+her irresistible charms, the nymphs escort her to the dazzling halls of
+Olympus, where she is received with ecstatic enthusiasm by the admiring
+gods and goddesses. The gods all vied with each other in aspiring to the
+honour of her hand, but Hephaestus became the envied possessor of this
+lovely being, who, however, proved as faithless as she was beautiful, and
+caused her husband much unhappiness, owing to the preference she showed at
+various times for some of the other gods and also for mortal men.
+
+[Illustration]
+
+The celebrated Venus of Milo, now in the Louvre, is an exquisite statue of
+this divinity. The head is beautifully formed; the rich waves of hair
+descend on her rather low but broad forehead and are caught up gracefully
+in a small knot at the back of the head; the expression of the face is most
+bewitching, and bespeaks the perfect {61} joyousness of a happy nature
+combined with the dignity of a goddess; the drapery falls in careless folds
+from the waist downwards, and her whole attitude is the embodiment of all
+that is graceful and lovely in womanhood. She is of medium height, and the
+form is perfect in its symmetry and faultless proportions.
+
+Aphrodite is also frequently represented in the act of confining her
+dripping locks in a knot, whilst her attendant nymphs envelop her in a
+gauzy veil.
+
+The animals sacred to her were the

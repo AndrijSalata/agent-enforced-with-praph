@@ -1,0 +1,1649 @@
+{
+  "sources": {
+    "theogony": {
+      "title": "Theogony",
+      "author": "Hesiod",
+      "gutenberg": 348
+    },
+    "iliad": {
+      "title": "Iliad",
+      "author": "Homer",
+      "gutenberg": null
+    },
+    "odyssey": {
+      "title": "Odyssey",
+      "author": "Homer",
+      "gutenberg": null
+    },
+    "berens": {
+      "title": "Myths and Legends of Ancient Greece and Rome",
+      "author": "E. M. Berens",
+      "gutenberg": 22381
+    },
+    "bulfinch": {
+      "title": "The Age of Fable",
+      "author": "Thomas Bulfinch",
+      "gutenberg": 3327
+    },
+    "guerber": {
+      "title": "Myths of Greece and Rome",
+      "author": "H. A. Guerber",
+      "gutenberg": 39250
+    },
+    "ovid": {
+      "title": "Metamorphoses",
+      "author": "Ovid",
+      "gutenberg": 21765
+    },
+    "apollodorus": {
+      "title": "Bibliotheca (The Library)",
+      "author": "Apollodorus",
+      "gutenberg": null
+    }
+  },
+  "nodes": [
+    {
+      "id": "Chaos",
+      "type": "Primordial",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Gaia",
+      "type": "Primordial",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Uranus",
+      "type": "Primordial",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Pontus",
+      "type": "Primordial",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Tartarus",
+      "type": "Primordial",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Nyx",
+      "type": "Primordial",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Erebus",
+      "type": "Primordial",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Cronus",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Rhea",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Oceanus",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Tethys",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Hyperion",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Theia",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Coeus",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Phoebe",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Iapetus",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Themis",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Mnemosyne",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Crius",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Prometheus",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Epimetheus",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Atlas",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Leto",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Metis",
+      "type": "Titan",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Zeus",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Hera",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Poseidon",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Demeter",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Hestia",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Athena",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Apollo",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Artemis",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Ares",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Aphrodite",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Hephaestus",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Hermes",
+      "type": "Olympian",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Hades",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Persephone",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Dionysus",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Eros",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Helios",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Selene",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Eos",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Hebe",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Dione",
+      "type": "God",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Maia",
+      "type": "Nymph",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Semele",
+      "type": "Mortal",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Alcmene",
+      "type": "Mortal",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Danae",
+      "type": "Mortal",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Peleus",
+      "type": "Mortal",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Thetis",
+      "type": "Nymph",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Daphne",
+      "type": "Nymph",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Heracles",
+      "type": "Hero",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Perseus",
+      "type": "Hero",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Achilles",
+      "type": "Hero",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Theseus",
+      "type": "Hero",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Bellerophon",
+      "type": "Hero",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Oedipus",
+      "type": "Hero",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Odysseus",
+      "type": "Hero",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Jason",
+      "type": "Hero",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Typhon",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Echidna",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Medusa",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Hydra",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Cerberus",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Minotaur",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Chimera",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Sphinx",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Pegasus",
+      "type": "Monster",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Mount Olympus",
+      "type": "Place",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Underworld",
+      "type": "Place",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Eleusis",
+      "type": "Place",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Crete",
+      "type": "Place",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Troy",
+      "type": "Place",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Thunderbolt",
+      "type": "Artifact",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Trident",
+      "type": "Artifact",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Aegis",
+      "type": "Artifact",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Winged Sandals",
+      "type": "Artifact",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Caduceus",
+      "type": "Artifact",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Golden Fleece",
+      "type": "Artifact",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Twelve Olympians",
+      "type": "Group",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Titans",
+      "type": "Group",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Primordials",
+      "type": "Group",
+      "pantheon": "greek"
+    },
+    {
+      "id": "Jupiter",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Juno",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Neptune",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Ceres",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Vesta",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Minerva",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Diana",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Mars",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Venus",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Vulcan",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Mercury",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Pluto",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Bacchus",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Proserpina",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Cupid",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Saturn",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Ops",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Terra",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Caelus",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Hercules",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Ulysses",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    },
+    {
+      "id": "Janus",
+      "type": "RomanDeity",
+      "pantheon": "roman"
+    }
+  ],
+  "edges": [
+    {
+      "src": "Chaos",
+      "rel": "parent_of",
+      "dst": "Nyx",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Chaos",
+      "rel": "parent_of",
+      "dst": "Erebus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Uranus",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Pontus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Cronus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Rhea",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Oceanus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Tethys",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Hyperion",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Theia",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Coeus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Phoebe",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Iapetus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Themis",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Mnemosyne",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "parent_of",
+      "dst": "Crius",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Gaia",
+      "rel": "equivalent_to",
+      "dst": "Terra",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Cronus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Rhea",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Oceanus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Tethys",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Hyperion",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Theia",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Coeus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Phoebe",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Iapetus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Themis",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Mnemosyne",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "parent_of",
+      "dst": "Crius",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Uranus",
+      "rel": "equivalent_to",
+      "dst": "Caelus",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Cronus",
+      "rel": "parent_of",
+      "dst": "Zeus",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Cronus",
+      "rel": "parent_of",
+      "dst": "Hera",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Cronus",
+      "rel": "parent_of",
+      "dst": "Poseidon",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Cronus",
+      "rel": "parent_of",
+      "dst": "Demeter",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Cronus",
+      "rel": "parent_of",
+      "dst": "Hestia",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Cronus",
+      "rel": "parent_of",
+      "dst": "Hades",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Cronus",
+      "rel": "equivalent_to",
+      "dst": "Saturn",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Rhea",
+      "rel": "parent_of",
+      "dst": "Zeus",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Rhea",
+      "rel": "parent_of",
+      "dst": "Hera",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Rhea",
+      "rel": "parent_of",
+      "dst": "Poseidon",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Rhea",
+      "rel": "parent_of",
+      "dst": "Demeter",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Rhea",
+      "rel": "parent_of",
+      "dst": "Hestia",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Rhea",
+      "rel": "parent_of",
+      "dst": "Hades",
+      "source": "theogony",
+      "trust": 0.95
+    },
+    {
+      "src": "Rhea",
+      "rel": "equivalent_to",
+      "dst": "Ops",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Hyperion",
+      "rel": "parent_of",
+      "dst": "Helios",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Hyperion",
+      "rel": "parent_of",
+      "dst": "Selene",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Hyperion",
+      "rel": "parent_of",
+      "dst": "Eos",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Theia",
+      "rel": "parent_of",
+      "dst": "Helios",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Coeus",
+      "rel": "parent_of",
+      "dst": "Leto",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Phoebe",
+      "rel": "parent_of",
+      "dst": "Leto",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Iapetus",
+      "rel": "parent_of",
+      "dst": "Prometheus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Iapetus",
+      "rel": "parent_of",
+      "dst": "Epimetheus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Iapetus",
+      "rel": "parent_of",
+      "dst": "Atlas",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Leto",
+      "rel": "parent_of",
+      "dst": "Apollo",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Leto",
+      "rel": "parent_of",
+      "dst": "Artemis",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Metis",
+      "rel": "parent_of",
+      "dst": "Athena",
+      "source": "theogony",
+      "trust": 0.85
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Athena",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Apollo",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Artemis",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Ares",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Hermes",
+      "source": "berens",
+      "trust": 0.85
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Persephone",
+      "source": "berens",
+      "trust": 0.85
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Dionysus",
+      "source": "berens",
+      "trust": 0.85
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Hebe",
+      "source": "berens",
+      "trust": 0.8
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Aphrodite",
+      "source": "iliad",
+      "trust": 0.8
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Heracles",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Zeus",
+      "rel": "parent_of",
+      "dst": "Perseus",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Zeus",
+      "rel": "rules",
+      "dst": "Mount Olympus",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Zeus",
+      "rel": "wields",
+      "dst": "Thunderbolt",
+      "source": "berens",
+      "trust": 0.95
+    },
+    {
+      "src": "Zeus",
+      "rel": "killed",
+      "dst": "Typhon",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Zeus",
+      "rel": "equivalent_to",
+      "dst": "Jupiter",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Hera",
+      "rel": "parent_of",
+      "dst": "Ares",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Hera",
+      "rel": "parent_of",
+      "dst": "Hephaestus",
+      "source": "theogony",
+      "trust": 0.8
+    },
+    {
+      "src": "Hera",
+      "rel": "parent_of",
+      "dst": "Hebe",
+      "source": "berens",
+      "trust": 0.8
+    },
+    {
+      "src": "Hera",
+      "rel": "equivalent_to",
+      "dst": "Juno",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Poseidon",
+      "rel": "rules",
+      "dst": "Pontus",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Poseidon",
+      "rel": "wields",
+      "dst": "Trident",
+      "source": "berens",
+      "trust": 0.95
+    },
+    {
+      "src": "Poseidon",
+      "rel": "equivalent_to",
+      "dst": "Neptune",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Demeter",
+      "rel": "parent_of",
+      "dst": "Persephone",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Demeter",
+      "rel": "equivalent_to",
+      "dst": "Ceres",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Hestia",
+      "rel": "equivalent_to",
+      "dst": "Vesta",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Athena",
+      "rel": "bears",
+      "dst": "Aegis",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Athena",
+      "rel": "equivalent_to",
+      "dst": "Minerva",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Apollo",
+      "rel": "loved",
+      "dst": "Daphne",
+      "source": "ovid",
+      "trust": 0.9
+    },
+    {
+      "src": "Artemis",
+      "rel": "equivalent_to",
+      "dst": "Diana",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Ares",
+      "rel": "equivalent_to",
+      "dst": "Mars",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Aphrodite",
+      "rel": "born_from",
+      "dst": "Uranus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Aphrodite",
+      "rel": "equivalent_to",
+      "dst": "Venus",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Hephaestus",
+      "rel": "equivalent_to",
+      "dst": "Vulcan",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Hermes",
+      "rel": "wields",
+      "dst": "Winged Sandals",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Hermes",
+      "rel": "wields",
+      "dst": "Caduceus",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Hermes",
+      "rel": "equivalent_to",
+      "dst": "Mercury",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Hades",
+      "rel": "rules",
+      "dst": "Underworld",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Hades",
+      "rel": "equivalent_to",
+      "dst": "Pluto",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Persephone",
+      "rel": "equivalent_to",
+      "dst": "Proserpina",
+      "source": "ovid",
+      "trust": 0.9
+    },
+    {
+      "src": "Dionysus",
+      "rel": "equivalent_to",
+      "dst": "Bacchus",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Eros",
+      "rel": "equivalent_to",
+      "dst": "Cupid",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Dione",
+      "rel": "parent_of",
+      "dst": "Aphrodite",
+      "source": "iliad",
+      "trust": 0.8
+    },
+    {
+      "src": "Maia",
+      "rel": "parent_of",
+      "dst": "Hermes",
+      "source": "berens",
+      "trust": 0.85
+    },
+    {
+      "src": "Semele",
+      "rel": "parent_of",
+      "dst": "Dionysus",
+      "source": "berens",
+      "trust": 0.85
+    },
+    {
+      "src": "Alcmene",
+      "rel": "parent_of",
+      "dst": "Heracles",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Danae",
+      "rel": "parent_of",
+      "dst": "Perseus",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Peleus",
+      "rel": "parent_of",
+      "dst": "Achilles",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Thetis",
+      "rel": "parent_of",
+      "dst": "Achilles",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Heracles",
+      "rel": "killed",
+      "dst": "Hydra",
+      "source": "berens",
+      "trust": 0.95
+    },
+    {
+      "src": "Heracles",
+      "rel": "equivalent_to",
+      "dst": "Hercules",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Perseus",
+      "rel": "killed",
+      "dst": "Medusa",
+      "source": "berens",
+      "trust": 0.95
+    },
+    {
+      "src": "Theseus",
+      "rel": "killed",
+      "dst": "Minotaur",
+      "source": "berens",
+      "trust": 0.95
+    },
+    {
+      "src": "Bellerophon",
+      "rel": "killed",
+      "dst": "Chimera",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Oedipus",
+      "rel": "killed",
+      "dst": "Sphinx",
+      "source": "berens",
+      "trust": 0.85
+    },
+    {
+      "src": "Odysseus",
+      "rel": "equivalent_to",
+      "dst": "Ulysses",
+      "source": "bulfinch",
+      "trust": 0.9
+    },
+    {
+      "src": "Typhon",
+      "rel": "parent_of",
+      "dst": "Cerberus",
+      "source": "theogony",
+      "trust": 0.85
+    },
+    {
+      "src": "Typhon",
+      "rel": "parent_of",
+      "dst": "Hydra",
+      "source": "theogony",
+      "trust": 0.85
+    },
+    {
+      "src": "Typhon",
+      "rel": "parent_of",
+      "dst": "Chimera",
+      "source": "theogony",
+      "trust": 0.85
+    },
+    {
+      "src": "Echidna",
+      "rel": "parent_of",
+      "dst": "Cerberus",
+      "source": "theogony",
+      "trust": 0.85
+    },
+    {
+      "src": "Echidna",
+      "rel": "parent_of",
+      "dst": "Hydra",
+      "source": "theogony",
+      "trust": 0.85
+    },
+    {
+      "src": "Echidna",
+      "rel": "parent_of",
+      "dst": "Sphinx",
+      "source": "theogony",
+      "trust": 0.8
+    },
+    {
+      "src": "Cerberus",
+      "rel": "guards",
+      "dst": "Underworld",
+      "source": "berens",
+      "trust": 0.95
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Zeus",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Hera",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Poseidon",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Demeter",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Hestia",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Athena",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Apollo",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Artemis",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Ares",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Aphrodite",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Hephaestus",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Twelve Olympians",
+      "rel": "member_of",
+      "dst": "Hermes",
+      "source": "berens",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Cronus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Rhea",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Oceanus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Tethys",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Hyperion",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Theia",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Coeus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Phoebe",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Iapetus",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Themis",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Mnemosyne",
+      "source": "theogony",
+      "trust": 0.9
+    },
+    {
+      "src": "Titans",
+      "rel": "member_of",
+      "dst": "Crius",
+      "source": "theogony",
+      "trust": 0.9
+    }
+  ],
+  "facts": [
+    {
+      "subject": "Cronus",
+      "predicate": "prophecy",
+      "value": "It was foretold that one of Cronus's own children would overthrow him — which is why he swallowed them.",
+      "source": "theogony",
+      "trust": 0.9,
+      "tier": "restricted"
+    },
+    {
+      "subject": "Zeus",
+      "predicate": "epithet",
+      "value": "cloud-gatherer",
+      "source": "iliad",
+      "trust": 0.9,
+      "tier": "public"
+    },
+    {
+      "subject": "Athena",
+      "predicate": "domain",
+      "value": "wisdom and strategic war",
+      "source": "berens",
+      "trust": 0.9,
+      "tier": "public"
+    },
+    {
+      "subject": "Apollo",
+      "predicate": "domain",
+      "value": "prophecy, music, the sun",
+      "source": "berens",
+      "trust": 0.9,
+      "tier": "public"
+    },
+    {
+      "subject": "Hades",
+      "predicate": "epithet",
+      "value": "the unseen one",
+      "source": "berens",
+      "trust": 0.85,
+      "tier": "public"
+    },
+    {
+      "subject": "Achilles",
+      "predicate": "role",
+      "value": "The greatest warrior of the Achaeans at Troy.",
+      "source": "iliad",
+      "trust": 0.9,
+      "tier": "public"
+    },
+    {
+      "subject": "Achilles",
+      "predicate": "fatal_weakness",
+      "value": "His heel: dipped in the Styx by Thetis, it alone was left unprotected.",
+      "source": "berens",
+      "trust": 0.85,
+      "tier": "secret"
+    },
+    {
+      "subject": "Underworld",
+      "predicate": "hidden_entrance",
+      "value": "A cave at Cape Tainaron in Laconia was said to open onto the descent to Hades.",
+      "source": "guerber",
+      "trust": 0.75,
+      "tier": "secret"
+    },
+    {
+      "subject": "Eleusis",
+      "predicate": "mystery_rite",
+      "value": "The Eleusinian Mysteries reenact Demeter's search for Persephone; initiates are promised a blessed afterlife.",
+      "source": "berens",
+      "trust": 0.8,
+      "tier": "restricted"
+    },
+    {
+      "subject": "Janus",
+      "predicate": "domain",
+      "value": "Roman god of beginnings, gates and doorways; two-faced, looking to past and future. He has no Greek equivalent.",
+      "source": "berens",
+      "trust": 0.85,
+      "tier": "public"
+    }
+  ]
+}

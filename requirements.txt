@@ -1,0 +1,5 @@
+# Core (required) — the whole prototype runs offline with just this.
+networkx>=3.0
+
+# Optional — only needed if you set AGENT_LLM=anthropic to use a real model.
+# anthropic>=0.39.0

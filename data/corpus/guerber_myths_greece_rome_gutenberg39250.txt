@@ -1,0 +1,2371 @@
+https://www.gutenberg.org/cache/epub/39250/pg39250.txt
+→ https://www.gutenberg.org/cache/epub/39250/pg39250.txt
+Content-Type: text/plain; charset=utf-8
+
+The Project Gutenberg eBook of Myths of Greece and Rome
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Myths of Greece and Rome
+
+Author: H. A. Guerber
+
+
+        
+Release date: March 25, 2012 [eBook #39250]
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/39250
+
+Credits: Produced by David Edwards, Sam W. and the Online Distributed
+        Proofreading Team at http://www.pgdp.net (This file was
+        produced from images generously made available by The
+        Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK MYTHS OF GREECE AND ROME ***
+
+
+
+
+Produced by David Edwards, Sam W. and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+
+
+
+            MYTHS OF GREECE AND ROME
+
+       NARRATED WITH SPECIAL REFERENCE TO
+               LITERATURE AND ART
+
+                       BY
+
+                  H. A. GUERBER
+              LECTURER ON MYTHOLOGY
+
+
+                 [Illustration]
+
+
+              AMERICAN BOOK COMPANY
+           NEW YORK CINCINNATI CHICAGO
+
+
+
+
+               Copyright, 1893, by
+              American Book Company.
+
+               Copyright. 1921, by
+                 H. A. Guerber.
+
+                Guerber's Myths.
+                     E.P. 44
+
+
+
+
+                    DEDICATED
+
+               TO MY KIND FRIENDS
+
+          MISS MACKIE AND MISS MASTERS
+
+  IN WHOSE SCHOOLS MY LECTURES WERE FIRST GIVEN
+
+
+                MADE IN U. S. A.
+
+
+
+
+  [Illustration: HOMER.--François Gérard.]
+
+
+
+
+PREFACE.
+
+
+The aim of this book is to present a complete and entertaining account
+of Grecian and Roman mythology in such a manner that the student will
+appreciate its great influence upon literature and art.
+
+These myths, an inexhaustible fund of inspiration for the poets and
+artists of the past, have also inspired many noted modern works. To
+impress this fact forcibly upon the student, appropriate quotations
+from the poetical writings of all ages, from Hesiod's "Works and
+Days," to Tennyson's "Oenone," have been inserted in the text, while
+reproductions of ancient masterpieces and noted examples of modern
+painting and sculpture are plentifully used as illustrations.
+
+The myths are told as graphically and accurately as possible, great
+care being taken, however, to avoid the more repulsive features of
+heathen mythology; and when two or more versions of the same myth
+occur, the preference has invariably been given to the most popular,
+that is to say, to the one which has inspired the greatest works.
+
+Both the Latin and the Greek forms of proper names are given, but the
+Latin names are usually retained throughout the narrative, because
+more frequently used in poetry and art.
+
+The closing chapter includes an analysis of myths by the light of
+philology and comparative mythology, and the philological explanation
+of the stories related in the preceding chapters.
+
+A map, genealogical table, and complete glossary and index adapt this
+little volume for constant use in the library and art gallery, at home
+and abroad.
+
+
+
+
+CONTENTS.
+
+
+                                                                PAGE
+    MAP SHOWING LOCATION OF MYTHS                                  8
+
+    LIST OF ILLUSTRATIONS                                         10
+
+    CHAP. I. The Beginning of All Things                          11
+
+         II. Jupiter                                              39
+
+        III. Juno                                                 51
+
+         IV. Minerva                                              55
+
+          V. Apollo                                               61
+
+         VI. Diana                                                93
+
+        VII. Venus                                               103
+
+       VIII. Mercury                                             131
+
+         IX. Mars                                                138
+
+          X. Vulcan                                              144
+
+         XI. Neptune                                             149
+
+        XII. Pluto                                               159
+
+       XIII. Bacchus                                             171
+
+        XIV. Ceres and Proserpina                                183
+
+         XV. Vesta                                               198
+
+        XVI. Janus                                               205
+
+       XVII. Somnus and Mors                                     208
+
+      XVIII. Æolus                                               213
+
+        XIX. Hercules                                            216
+
+         XX. Perseus                                             240
+
+        XXI. Theseus                                             250
+
+       XXII. Jason                                               263
+
+      XXIII. The Calydonian Hunt                                 275
+
+       XXIV. Oedipus                                             280
+
+        XXV. Bellerophon                                         291
+
+       XXVI. Minor Divinities                                    297
+
+      XXVII. The Trojan War                                      305
+
+     XXVIII. Adventures of Ulysses                               337
+
+       XXIX. Adventures of Æneas                                 360
+
+        XXX. Analysis of Myths                                   378
+
+    GENEALOGICAL TABLE                                           402
+
+    INDEX TO POETICAL QUOTATIONS                                 405
+
+    GLOSSARY AND INDEX                                           407
+
+
+
+
+  [Illustration: Maps.]
+
+
+
+
+LIST OF ILLUSTRATIONS.
+
+
+                                                                PAGE
+    Homer                                                          2
+
+    Amor                                                          14
+
+    Fountain of Cybele (Rhea)                                     19
+
+    Minerva and Prometheus                                        26
+
+    Pandora                                                       30
+
+    Hope                                                          34
+
+    Olympian Zeus                                                 40
+
+    Ganymede and the Eagle                                        42
+
+    The Abduction of Europa                                       46
+
+    Juno                                                          50
+
+    Iris                                                          53
+
+    Minerva                                                       56
+
+    Apollo Belvedere                                              66
+
+    Apollo and Daphne                                             69
+
+    Orpheus and Eurydice                                          78
+
+    Farnese Bull                                                  81
+
+    Aurora                                                        86
+
+    Apollo and the Muses                                          89
+
+    Diana of Versailles                                           92
+
+    Niobe                                                         95
+
+    Venus de Milo                                                102
+
+    Fourth Hour of the Night                                     104
+
+    Sleeping Love                                                109
+
+    Hero and Leander                                             115
+
+    Cupid awakening Psyche                                       125
+
+    Charon and Psyche                                            129
+
+    Flying Mercury                                               133
+
+    Venus de Milo and Mars                                       141
+
+    The Forge of Vulcan                                          146
+
+    Fountain of Neptune                                          150
+
+    Father Nile                                                  157
+
+    The Furies                                                   162
+
+    The Three Fates                                              164
+
+    Bacchus                                                      175
+
+    Marriage of Bacchus and Ariadne                              180
+
+    Abduction of Proserpina                                      185
+
+    Ceres                                                        189
+
+    A Nymph                                                      191
+
+    School of the Vestal Virgins                                 199
+
+    The Vestal Tuccia                                            201
+
+    Genius of Death                                              209
+
+    Hercules an Infant                                           217
+
+    Hercules and Centaur                                         222
+
+    Mounted Amazon going to the Chase                            225
+
+    Hercules at the Feet of Omphale                              231
+
+    Fortuna                                                      233
+
+    Farnese Hercules                                             237
+
+    Perseus                                                      245
+
+    Perseus and Andromeda                                        247
+
+    Dædalus and Icarus                                           254
+
+    Ariadne                                                      258
+
+    Theseus                                                      261
+
+    Jason and the Dragon                                         270
+
+    Medea                                                        272
+
+    Atalanta's Race                                              277
+
+    Oedipus and the Sphinx                                       284
+
+    Antigone and Ismene                                          289
+
+    Chimæra                                                      293
+
+    Vertumnus and Pomona                                         302
+
+    Paris                                                        309
+
+    Abduction of Helen                                           313
+
+    Parting of Hector and Andromache                             322
+
+    Thetis bearing the Armor of Achilles                         327
+
+    Laocoon                                                      334
+
+    Triumph of Galatea                                           340
+
+    Acis and Galatea (Evening)                                   342
+
+    Circe and the Friends of Ulysses                             348
+
+    Siren                                                        351
+
+    Penelope                                                     356
+
+    Æneas at the Court of Dido                                   368
+
+    Cumæan Sibyl                                                 371
+
+
+
+
+MYTHS OF GREECE AND ROME.
+
+
+
+
+CHAPTER I.
+
+THE BEGINNING OF ALL THINGS.
+
+
+Mythology is the science which treats of the early traditions, or
+myths, relating to the religion of the ancients, and includes, besides
+a full account of the origin of their gods, their theory concerning
+the beginning of all things.
+
+[Sidenote: Myths of creation.]
+
+Among all the nations scattered over the face of the earth, the
+Hebrews alone were instructed by God, who gave them not only a full
+account of the creation of the world and of all living creatures, but
+also a code of laws to regulate their conduct. All the questions they
+fain would ask were fully answered, and no room remained for
+conjecture.
+
+It was not so, however, with the other nations. The Greeks and Romans,
+for instance, lacking the definite knowledge which we obtain from the
+Scriptures, and still anxious to know everything, were forced to
+construct, in part, their own theory. As they looked about them for
+some clue to serve as guide, they could not help but observe and
+admire the wonders of nature. The succession of day and night, summer
+and winter, rain and sunshine; the fact that the tallest trees sprang
+from tiny seeds, the greatest rivers from diminutive streams, and the
+most beautiful flowers and delicious fruits from small green
+buds,--all seemed to tell them of a superior Being, who had fashioned
+them to serve a definite purpose.
+
+They soon came to the conclusion that a hand mighty enough to call all
+these wonders into life, could also have created the beautiful Earth
+whereon they dwelt. These thoughts gave rise to others; suppositions
+became certainties; and soon the following myth or fable was evolved,
+to be handed down from generation to generation.
+
+At first, when all things lay in a great confused mass,--
+
+    "Ere earth, and sea, and covering heavens, were known,
+    The face of nature, o'er the world, was one;
+    And men have call'd it Chaos; formless, rude,
+    The mass; dead matter's weight, inert, and crude;
+    Where, in mix'd heap of ill-compounded mold,
+    The jarring seeds of things confusedly roll'd."
+
+                         Ovid (Elton's tr.).
+
+The Earth did not exist. Land, sea, and air were mixed up together; so
+that the earth was not solid, the sea was not fluid, nor the air
+transparent.
+
+    "No sun yet beam'd from yon cerulean height;
+    No orbing moon repair'd her horns of light;
+    No earth, self-poised, on liquid ether hung;
+    No sea its world-enclasping waters flung;
+    Earth was half air, half sea, an embryo heap;
+    Nor earth was fix'd, nor fluid was the deep;
+    Dark was the void of air; no form was traced;
+    Obstructing atoms struggled through the waste;
+    Where cold, and hot, and moist, and dry rebell'd;
+    Heavy the light, and hard the soft repell'd."
+
+                         Ovid (Elton's tr.).
+
+[Sidenote: Chaos and Nyx.]
+
+Over this shapeless mass reigned a careless deity called Chaos, whose
+personal appearance could not be described, as there was no light by
+which he could be seen. He shared his throne with his wife, the dark
+goddess of Night, named Nyx or Nox, whose black robes, and still
+blacker countenance, did not tend to enliven the surrounding gloom.
+
+[Sidenote: Erebus, Æther, and Hemera.]
+
+These two divinities wearied of their power in the course of time, and
+called their son Erebus (Darkness) to their assistance. His first act
+was to dethrone and supplant Chaos; and then, thinking he would be
+happier with a helpmeet, he married his own mother, Nyx. Of course,
+with our present views, this marriage was a heinous sin; but the
+ancients, who at first had no fixed laws, did not consider this union
+unsuitable, and recounted how Erebus and Nyx ruled over the chaotic
+world together, until their two beautiful children, Æther (Light) and
+Hemera (Day), acting in concert, dethroned them, and seized the
+supreme power.
+
+[Sidenote: Creation of Gæa and Uranus.]
+
+Space, illumined for the first time by their radiance, revealed itself
+in all its uncouthness. Æther and Hemera carefully examined the
+confusion, saw its innumerable possibilities, and decided to evolve
+from it a "thing of beauty;" but quite conscious of the magnitude of
+such an undertaking, and feeling that some assistance would be
+desirable, they summoned Eros (Amor or Love), their own child, to
+their aid. By their combined efforts, Pontus (the Sea) and Gæa (Ge,
+Tellus, Terra), as the Earth was first called, were created.
+
+In the beginning the Earth did not present the beautiful appearance
+that it does now. No trees waved their leafy branches on the
+hillsides; no flowers bloomed in the valleys; no grass grew on the
+plains; no birds flew through the air. All was silent, bare, and
+motionless. Eros, the first to perceive these deficiencies, seized his
+life-giving arrows and pierced the cold bosom of the Earth.
+Immediately the brown surface was covered with luxuriant verdure;
+birds of many colors flitted through the foliage of the new-born
+forest trees; animals of all kinds gamboled over the grassy plains;
+and swift-darting fishes swam in the limpid streams. All was now life,
+joy, and motion.
+
+  [Illustration: AMOR.--Martin.]
+
+Gæa, roused from her apathy, admired all that had already been done
+for her embellishment, and, resolving to crown and complete the work
+so well begun, created Uranus (Heaven).
+
+              "Her first-born Earth produc'd,
+    Of like immensity, the starry Heaven:
+    That he might sheltering compass her around
+    On every side."
+
+                       Hesiod (Elton's tr.).
+
+[Sidenote: The egg myth.]
+
+This version of the creation of the world, although but one of the
+many current with the Greeks and Romans, was the one most generally
+adopted; but another, also very popular, stated that the first
+divinities, Erebus and Nyx, produced a gigantic egg, from which Eros,
+the god of love, emerged to create the Earth.
+
+          "In the dreary chaotical closet
+    Of Erebus old, was a privy deposit,
+    By Night the primæval in secrecy laid;
+    A Mystical Egg, that in silence and shade
+    Was brooded and hatched; till time came about:
+    And Love, the delightful, in glory flew out."
+
+                 Aristophanes (Frere's tr.).
+
+[Sidenote: Mount Olympus and the river Oceanus.]
+
+The Earth thus created was supposed by the ancients to be a disk,
+instead of a sphere as science has proved. The Greeks fancied that
+their country occupied a central position, and that Mount Olympus, a
+very high mountain, the mythological abode of their gods, was placed
+in the exact center. Their Earth was divided into two equal parts by
+Pontus (the Sea,--equivalent to our Mediterranean and Black Seas); and
+all around it flowed the great river Oceanus in a "steady, equable
+current," undisturbed by storm, from which the Sea and all the rivers
+were supposed to derive their waters.
+
+[Sidenote: The Hyperboreans.]
+
+The Greeks also imagined that the portion of the Earth directly north
+of their country was inhabited by a fortunate race of men, the
+Hyperboreans, who dwelt in continual bliss, and enjoyed a never-ending
+springtide. Their homes were said to be "inaccessible by land or by
+sea." They were "exempt from disease, old age, and death," and were so
+virtuous that the gods frequently visited them, and even condescended
+to share their feasts and games. A people thus favored could not fail
+to be happy, and many were the songs in praise of their sunny land.
+
+    "I come from a land in the sun-bright deep,
+        Where golden gardens grow;
+    Where the winds of the north, becalm'd in sleep,
+        Their conch shells never blow.
+
+    "So near the track of the stars are we,
+        That oft, on night's pale beams,
+    The distant sounds of their harmony
+        Come to our ears, like dreams.
+
+    "The Moon, too, brings her world so nigh,
+        That when the night-seer looks
+    To that shadowless orb, in a vernal sky,
+        He can number its hills and brooks.
+
+    "To the Sun god all our hearts and lyres
+        By day, by night, belong;
+    And the breath we draw from his living fires
+        We give him back in song."
+
+                                      Moore.
+
+[Sidenote: The Ethiopians and the Isles of the Blest.]
+
+South of Greece, also near the great river Oceanus, dwelt another
+nation, just as happy and virtuous as the Hyperboreans,--the
+Ethiopians. They, too, often enjoyed the company of the gods, who
+shared their innocent pleasures with great delight.
+
+And far away, on the shore of this same marvelous river, according to
+some mythologists, were the beautiful Isles of the Blest, where
+mortals who had led virtuous lives, and had thus found favor in the
+sight of the gods, were transported without tasting of death, and
+where they enjoyed an eternity of bliss. These islands had sun, moon,
+and stars of their own, and were never visited by the cold wintry
+winds that swept down from the north.
+
+    "The Isles of the Blest, they say,
+      The Isles of the Blest,
+    Are peaceful and happy, by night and by day,
+      Far away in the glorious west.
+
+    "They need not the moon in that land of delight,
+      They need not the pale, pale star;
+    The sun is bright, by day and night,
+      Where the souls of the blessed are.
+
+    "They till not the ground, they plow not the wave,
+      They labor not, never! oh, never!
+    Not a tear do they shed, not a sigh do they heave,
+      They are happy, for ever and ever!"
+
+                                     Pindar.
+
+[Sidenote: Uranus and Gæa.]
+
+Chaos, Erebus, and Nyx were deprived of their power by Æther and
+Hemera, who did not long enjoy the possession of the scepter; for
+Uranus and Gæa, more powerful than their progenitors, soon forced them
+to depart, and began to reign in their stead. They had not dwelt long
+on the summit of Mount Olympus, before they found themselves the
+parents of twelve gigantic children, the Titans, whose strength was
+such that their father, Uranus, greatly feared them. To prevent their
+ever making use of it against him, he seized them immediately after
+their birth, hurled them down into a dark abyss called Tartarus, and
+there chained them fast.
+
+[Sidenote: Titans, Cyclopes, and Centimani.]
+
+This chasm was situated far under the earth; and Uranus knew that his
+six sons (Oceanus, Coeus, Crius, Hyperion, Iapetus, and Cronus), as
+well as his six daughters, the Titanides (Ilia, Rhea, Themis, Thetis,
+Mnemosyne, and Phoebe), could not easily escape from its cavernous
+depths. The Titans did not long remain sole occupants of Tartarus, for
+one day the brazen doors were again thrown wide open to admit the
+Cyclopes,--Brontes (Thunder), Steropes (Lightning), and Arges
+(Sheet-lightning),--three later-born children of Uranus and Gæa, who
+helped the Titans to make the darkness hideous with their incessant
+clamor for freedom. In due time their number was increased by the
+three terrible Centimani (Hundred-handed), Cottus, Briareus, and Gyes,
+who were sent thither by Uranus to share their fate.
+
+Greatly dissatisfied with the treatment her children had received at
+their father's hands, Gæa remonstrated, but all in vain. Uranus would
+not grant her request to set the giants free, and, whenever their
+muffled cries reached his ear, he trembled for his own safety. Angry
+beyond all expression, Gæa swore revenge, and descended into Tartarus,
+where she urged the Titans to conspire against their father, and
+attempt to wrest the scepter from his grasp.
+
+[Sidenote: The Titans revolt.]
+
+All listened attentively to the words of sedition; but none were
+courageous enough to carry out her plans, except Cronus, the youngest
+of the Titans, more familiarly known as Saturn or Time, who found
+confinement and chains peculiarly galling, and who hated his father
+for his cruelty. Gæa finally induced him to lay violent hands upon his
+sire, and, after releasing him from his bonds, gave him a scythe, and
+bade him be of good cheer and return victorious.
+
+Thus armed and admonished, Cronus set forth, came upon his father
+unawares, defeated him, thanks to his extraordinary weapon, and, after
+binding him fast, took possession of the vacant throne, intending to
+rule the universe forever. Enraged at this insult, Uranus cursed his
+son, and prophesied that a day would come when he, too, would be
+supplanted by his children, and would suffer just punishment for his
+rebellion.
+
+  [Illustration: FOUNTAIN OF CYBELE (RHEA). (Madrid.)]
+
+[Sidenote: Cronus and Rhea.]
+
+Cronus paid no heed to his father's imprecations, but calmly proceeded
+to release the Titans, his brothers and sisters, who, in their joy and
+gratitude to escape the dismal realm of Tartarus, expressed their
+willingness to be ruled by him. Their satisfaction was complete,
+however, when he chose his own sister Rhea (Cybele, Ops) for his
+consort, and assigned to each of the others some portion of the world
+to govern at will. To Oceanus and Thetis, for example, he gave charge
+over the ocean and all the rivers upon earth; while to Hyperion and
+Phoebe he intrusted the direction of the sun and moon, which the
+ancients supposed were daily driven across the sky in brilliant golden
+chariots.
+
+Peace and security now reigned on and around Mount Olympus; and
+Cronus, with great satisfaction, congratulated himself on the result
+of his enterprise. One fine morning, however, his equanimity was
+disturbed by the announcement that a son was born to him. The memory
+of his father's curse then suddenly returned to his mind. Anxious to
+avert so great a calamity as the loss of his power, he hastened to his
+wife, determined to devour the child, and thus prevent him from
+causing further annoyance. Wholly unsuspicious, Rhea heard him inquire
+for his son. Gladly she placed him in his extended arms; but imagine
+her surprise and horror when she beheld her husband swallow the babe!
+
+[Sidenote: Birth of Jupiter.]
+
+Time passed, and another child was born, but only to meet with the
+same cruel fate. One infant after another disappeared down the
+capacious throat of the voracious Cronus,--a personification of Time,
+who creates only to destroy. In vain the bereaved mother besought the
+life of one little one: the selfish, hard-hearted father would not
+relent. As her prayers seemed unavailing, Rhea finally resolved to
+obtain by stratagem the boon her husband denied; and as soon as her
+youngest son, Jupiter (Jove, Zeus), was born, she concealed him.
+
+Cronus, aware of his birth, soon made his appearance, determined to
+dispose of him in the usual summary manner. For some time Rhea pleaded
+with him, but at last pretended to yield to his commands. Hastily
+wrapping a large stone in swaddling clothes, she handed it to Cronus,
+simulating intense grief. Cronus was evidently not of a very inquiring
+turn of mind, for he swallowed the whole without investigating the
+real contents of the shapeless bundle.
+
+                  "To th' imperial son of Heaven,
+    Whilom the king of gods, a stone she gave
+    Inwrapt in infant swathes; and this with grasp
+    Eager he snatch'd, and in his ravening breast
+    Convey'd away: unhappy! nor once thought
+    That for the stone his child behind remain'd
+    Invincible, secure; who soon, with hands
+    Of strength o'ercoming him, should cast him forth
+    From glory, and himself th' immortals rule."
+
+                       Hesiod (Elton's tr.).
+
+Ignorant of the deception practiced upon him, Cronus then took leave,
+and the overjoyed mother clasped her rescued treasure to her breast.
+It was not sufficient, however, to have saved young Jupiter from
+imminent death: it was also necessary that his father should remain
+unconscious of his existence.
+
+[Sidenote: Jupiter's infancy.]
+
+To insure this, Rhea intrusted her babe to the tender care of the
+Melian nymphs, who bore him off to a cave on Mount Ida. There a goat,
+Amalthea, was procured to act as nurse, and fulfilled her office so
+acceptably that she was eventually placed in the heavens as a
+constellation, a brilliant reward for her kind ministrations. To
+prevent Jupiter's cries being heard in Olympus, the Curetes
+(Corybantes), Rhea's priests, uttered piercing screams, clashed their
+weapons, executed fierce dances, and chanted rude war songs.
+
+The real significance of all this unwonted noise and commotion was not
+at all understood by Cronus, who, in the intervals of his numerous
+affairs, congratulated himself upon the cunning he had shown to
+prevent the accomplishment of his father's curse. But all his anxiety
+and fears were aroused when he suddenly became aware of the fraud
+practiced upon him, and of young Jupiter's continued existence. He
+immediately tried to devise some plan to get rid of him; but, before
+he could put it into execution, he found himself attacked, and, after
+a short but terrible encounter, signally defeated.
+
+[Sidenote: Jupiter's supremacy.]
+
+Jupiter, delighted to have triumphed so quickly, took possession of
+the supreme power, and aided by Rhea's counsels, and by a nauseous
+potion prepared by Metis, a daughter of Oceanus, compelled Cronus to
+produce the unfortunate children he had swallowed; i.e., Neptune,
+Pluto, Vesta, Ceres, and Juno.
+
+Following the example of his predecessor, Jupiter gave his brothers
+and sisters a fair share of his new kingdom. The wisest among the
+Titans--Mnemosyne, Themis, Oceanus, and Hyperion--submitted to the new
+sovereign without murmur, but the others refused their allegiance;
+which refusal, of course, occasioned a deadly conflict.
+
+                  "When gods began with wrath,
+    And war rose up between their starry brows,
+    Some choosing to cast Cronus from his throne
+    That Zeus might king it there, and some in haste
+    With opposite oaths that they would have no Zeus
+    To rule the gods forever."
+
+                             E. B. Browning.
+
+[Sidenote: The giants' war.]
+
+Jupiter, from the top of Mount Olympus, discerned the superior number
+of his foes, and, quite aware of their might, concluded that
+reënforcements to his party would not be superfluous. In haste,
+therefore, he released the Cyclopes from Tartarus, where they had
+languished so long, stipulating that in exchange for their freedom
+they should supply him with thunderbolts,--weapons which only they
+knew how to forge. This new engine caused great terror and dismay in
+the ranks of the enemy, who, nevertheless, soon rallied, and struggled
+valiantly to overthrow the usurper and win back the sovereignty of the
+world.
+
+During ten long years the war raged incessantly, neither party wishing
+to submit to the dominion of the other, but at the end of that time
+the rebellious Titans were obliged to yield. Some of them were hurled
+into Tartarus once more, where they were carefully secured by Neptune,
+Jupiter's brother, while the young conqueror joyfully proclaimed his
+victory.
+
+    "League all your forces then, ye powers above,
+    Join all, and try th' omnipotence of Jove:
+    Let down our golden everlasting chain,
+    Whose strong embrace holds heaven and earth and main:
+    Strive all, of mortal and immortal birth,
+    To drag, by this, the Thunderer down to earth,
+    Ye strive in vain! if I but stretch this hand,
+    I heave the gods, the ocean, and the land;
+    I fix the chain to great Olympus' height,
+    And the vast world hangs trembling in my sight!
+    For such I reign, unbounded and above;
+    And such are men and gods, compar'd to Jove."
+
+                         Homer (Pope's tr.).
+
+The scene of this mighty conflict was supposed to have been in
+Thessaly, where the country bears the imprint of some great natural
+convulsion; for the ancients imagined that the gods, making the most
+of their gigantic strength and stature, hurled huge rocks at each
+other, and piled mountain upon mountain to reach the abode of Jupiter,
+the Thunderer.
+
+    "Mountain on mountain, as the Titans erst,
+    My brethren, scaling the high seat of Jove,
+    Heaved Pelion upon Ossa's shoulders broad
+    In vain emprise."
+
+                                     Lowell.
+
+Saturn, or Cronus, the leader and instigator of the revolt, weary at
+last of bloodshed and strife, withdrew to Italy, or Hesperia, where he
+founded a prosperous kingdom, and reigned in peace for many long
+years.
+
+[Sidenote: Death of Typhoeus.]
+
+Jupiter, having disposed of all the Titans, now fancied he would enjoy
+the power so unlawfully obtained; but Gæa, to punish him for depriving
+her children of their birthright, created a terrible monster, called
+Typhoeus, or Typhon, which she sent to attack him. This Typhoeus was a
+giant, from whose trunk one hundred dragon heads arose; flames shot
+from his eyes, nostrils, and mouths; while he incessantly uttered such
+blood-curdling screams, that the gods, in terror, fled from Mount
+Olympus and sought refuge in Egypt. In mortal fear lest this
+terror-inspiring monster would pursue them, the gods there assumed the
+forms of different animals; and Jupiter became a ram, while Juno, his
+sister and queen, changed herself into a cow.
+
+The king of the gods, however, soon became ashamed of his cowardly
+flight, and resolved to return to Mount Olympus to slay Typhoeus with
+his terrible thunderbolts. A long and fierce struggle ensued, at the
+end of which, Jupiter, again victorious, viewed his fallen foe with
+boundless pride; but his triumph was very short-lived.
+
+[Sidenote: Defeat of Enceladus.]
+
+Enceladus, another redoubtable giant, also created by Gæa, now
+appeared to avenge Typhoeus. He too was signally defeated, and bound
+with adamantine chains in a burning cave under Mount Ætna. In early
+times, before he had become accustomed to his prison, he gave vent to
+his rage by outcries, imprecations, and groans: sometimes he even
+breathed forth fire and flames, in hopes of injuring his conqueror.
+But time, it is said, somewhat cooled his resentment; and now he is
+content with an occasional change of position, which, owing to his
+huge size, causes the earth to tremble over a space of many miles,
+producing what is called an earthquake.
+
+      "'Tis said, that thunder-struck Enceladus,
+    Groveling beneath the incumbent mountain's weight,
+    Lies stretched supine, eternal prey of flames;
+    And, when he heaves against the burning load,
+    Reluctant, to invert his broiling limbs,
+    A sudden earthquake shoots through all the isle,
+    And Ætna thunders dreadful under ground,
+    Then pours out smoke in wreathing curls convolved,
+    And shades the sun's bright orb, and blots out day."
+
+                                    Addison.
+
+[Sidenote: Jupiter divides his realm.]
+
+Jupiter had now conquered all his foes, asserted his right to the
+throne, and could at last reign over the world undisturbed; but he
+knew that it would be no small undertaking to rule well heaven,
+earth, and sea, and resolved to divide the power with his brothers. To
+avoid quarrels and recriminations, he portioned the world out into
+lots, allowing each of his brothers the privilege of drawing his own
+share.
+
+Neptune thus obtained control over the sea and all the rivers, and
+immediately expressed his resolve to wear a symbolic crown, composed
+exclusively of marine shells and aquatic plants, and to abide within
+the bounds of his watery realm.
+
+Pluto, the most taciturn of the brothers, received for his portion the
+scepter of Tartarus and all the Lower World, where no beam of sunlight
+was ever allowed to find its way; while Jupiter reserved for himself
+the general supervision of his brothers' estates, and the direct
+management of Heaven and Earth.
+
+Peace now reigned throughout all the world. Not a murmur was heard,
+except from the Titans, who at length, seeing that further opposition
+would be useless, grew reconciled to their fate.
+
+In the days of their prosperity, the Titans had intermarried. Cronus
+had taken Rhea "for better or for worse;" and Iapetus had seen, loved,
+and wedded the fair Clymene, one of the ocean nymphs, or Oceanides,
+daughters of Oceanus. The latter pair became the proud parents of four
+gigantic sons,--Atlas, Menetius, Prometheus (Forethought), and
+Epimetheus (Afterthought),--who were destined to play prominent parts
+in Grecian mythology.
+
+[Sidenote: Story of Prometheus.]
+
+At the time of the creation, after covering the new-born Earth with
+luxuriant vegetation, and peopling it with living creatures of all
+kinds, Eros perceived that it would be necessary to endow them with
+instincts which would enable them to preserve and enjoy the life they
+had received. He therefore called the youngest two sons of Iapetus to
+his aid, and bade them make a judicious distribution of gifts to all
+living creatures, and create and endow a superior being, called Man,
+to rule over all the others.
+
+  [Illustration: MINERVA AND PROMETHEUS.--Thorwaldsen. (Copenhagen.)]
+
+Prometheus' and Epimetheus' first care was, very naturally, to provide
+for the beings already created. These they endowed with such reckless
+generosity, that all their favors were soon dispensed, and none
+remained for the endowment of man. Although they had not the remotest
+idea how to overcome this difficulty, they proceeded to fashion man
+from clay.
+
+    "Prometheus first transmuted
+    Atoms culled for human clay."
+
+                                     Horace.
+
+They first molded an image similar in form to the gods; bade Eros
+breathe into its nostrils the spirit of life, and Minerva (Pallas)
+endow it with a soul; whereupon man lived, and moved, and viewed his
+new domain.
+
+Justly proud of his handiwork, Prometheus observed man, and longed to
+bestow upon him some great power, unshared by any other creature of
+mortal birth, which would raise him far above all other living beings,
+and bring him nearer to the perfection of the immortal gods. Fire
+alone, in his estimation, could effect this; but fire was the special
+possession and prerogative of the gods, and Prometheus knew they would
+never willingly share it with man, and that, should any one obtain it
+by stealth, they would never forgive the thief. Long he pondered the
+matter, and finally determined to obtain fire, or die in the attempt.
+
+One dark night, therefore, he set out for Olympus, entered unperceived
+into the gods' abode, seized a lighted brand, hid it in his bosom, and
+departed unseen, exulting in the success of his enterprise. Arrived
+upon earth once more, he consigned the stolen treasure to the care of
+man, who immediately adapted it to various purposes, and eloquently
+expressed his gratitude to the benevolent deity who had risked his own
+life to obtain it for him.
+
+    "Of Prometheus, how undaunted
+      On Olympus' shining bastions
+    His audacious foot he planted,
+    Myths are told and songs are chanted,
+      Full of promptings and suggestions.
+
+    "Beautiful is the tradition
+      Of that flight through heavenly portals,
+    The old classic superstition
+    Of the theft and the transmission
+      Of the fire of the Immortals."
+
+                                 Longfellow.
+
+From his lofty throne on the topmost peak of Mount Olympus Jupiter
+beheld an unusual light down upon earth. Anxious to ascertain its
+exact nature, he watched it closely, and before long discovered the
+larceny. His anger then burst forth, terrible to behold; and the gods
+all quailed when they heard him solemnly vow he would punish the
+unhappy Prometheus without mercy. To seize the offender in his mighty
+grasp, bear him off to the Caucasian Mountains, and bind him fast to a
+great rock, was but a moment's work. There a voracious vulture was
+summoned to feast upon his liver, the tearing of which from his side
+by the bird's cruel beak and talons caused the sufferer intense
+anguish. All day long the vulture gorged himself; but during the cool
+night, while the bird slept, Prometheus' suffering abated, and the
+liver grew again, thus prolonging the torture, which bade fair to have
+no end.
+
+Disheartened by the prospect of long years of unremitting pain,
+Prometheus at times could not refrain from pitiful complaints; but
+generation after generation of men lived on earth, and died, blessing
+him for the gift he had obtained for them at such a terrible cost.
+After many centuries of woe, Hercules, son of Jupiter and Alcmene,
+found Prometheus, killed the vulture, broke the adamantine chains, and
+liberated the long-suffering god.
+
+[Sidenote: Story of Epimetheus and Pandora.]
+
+The first mortals lived on earth in a state of perfect innocence and
+bliss. The air was pure and balmy; the sun shone brightly all the
+year; the earth brought forth delicious fruit in abundance; and
+beautiful, fragrant flowers bloomed everywhere. Man was content.
+Extreme cold, hunger, sickness, and death were unknown. Jupiter, who
+justly ascribed a good part of this beatific condition to the gift
+conferred by Prometheus, was greatly displeased, and tried to devise
+some means to punish mankind for the acceptance of the heavenly fire.
+
+With this purpose in view, he assembled the gods on Mount Olympus,
+where, in solemn council, they decided to create woman; and, as soon
+as she had been artfully fashioned, each one endowed her with some
+special charm, to make her more attractive.
+
+                  "The crippled artist-god,
+    Illustrious, molded from the yielding clay
+    A bashful virgin's image, as advis'd
+    Saturnian Jove.
+
+              *   *   *   *   *
+
+      "But now when the fair mischief, seeming-good,
+    His hand had perfected, he led her forth
+    Exulting in her grac'd attire, the gift
+    Of Pallas, in the midst of gods and men.
+    On men and gods in that same moment seiz'd
+    The ravishment of wonder, when they saw
+    The deep deceit, th' inextricable snare."
+
+                       Hesiod (Elton's tr.).
+
+Their united efforts were crowned with the utmost success. Nothing was
+lacking, except a name for the peerless creature; and the gods, after
+due consideration, decreed she should be called Pandora. They then
+bade Mercury take her to Prometheus as a gift from heaven; but he,
+knowing only too well that nothing good would come to him from the
+gods, refused to accept her, and cautioned his brother Epimetheus to
+follow his example. Unfortunately Epimetheus was of a confiding
+disposition, and when he beheld the maiden he exclaimed, "Surely so
+beautiful and gentle a being can bring no evil!" and accepted her most
+joyfully.
+
+The first days of their union were spent in blissful wanderings, hand
+in hand, under the cool forest shade; in weaving garlands of fragrant
+flowers; and in refreshing themselves with the luscious fruit, which
+hung so temptingly within reach.
+
+  [Illustration: PANDORA.--Sichel.]
+
+One lovely evening, while dancing on the green, they saw Mercury,
+Jupiter's messenger, coming towards them. His step was slow and weary,
+his garments dusty and travel-stained, and he seemed almost to stagger
+beneath the weight of a huge box which rested upon his shoulders.
+Pandora immediately ceased dancing, to speculate with feminine
+curiosity upon the contents of the chest. She nudged Epimetheus, and
+in a whisper begged him to ask Mercury what brought him thither.
+Epimetheus complied with her request; but Mercury evaded the question,
+asked permission to deposit his burden in their dwelling for
+safekeeping, professing himself too weary to convey it to its
+destination that day, and promised to call for it shortly. The
+permission was promptly granted. Mercury, with a sigh of relief,
+placed the box in one corner, and then departed, refusing all
+hospitable offers of rest and refreshment.
+
+He had scarcely crossed the threshold, when Pandora expressed a strong
+desire to have a peep at the contents of the mysterious box; but
+Epimetheus, surprised and shocked, told her that her curiosity was
+unseemly, and then, to dispel the frown and pout seen for the first
+time on the fair face of his beloved, he entreated her to come out
+into the fresh air and join in the merry games of their companions.
+For the first time, also, Pandora refused to comply with his request.
+Dismayed, and very much discouraged, Epimetheus sauntered out alone,
+thinking she would soon join him, and perhaps by some caress atone for
+her present willfulness.
+
+Left alone with the mysterious casket, Pandora became more and more
+inquisitive. Stealthily she drew near, and examined it with great
+interest, for it was curiously wrought of dark wood, and surmounted by
+a delicately carved head, of such fine workmanship that it seemed to
+smile and encourage her. Around the box a glittering golden cord was
+wound, and fastened on top in an intricate knot. Pandora, who prided
+herself specially on her deft fingers, felt sure she could unfasten
+it, and, reasoning that it would not be indiscreet to untie it if she
+did not raise the lid, she set to work. Long she strove, but all in
+vain. Ever and anon the laughing voices of Epimetheus and his
+companions, playing in the luxuriant shade, were wafted in on the
+summer breeze. Repeatedly she heard them call, and beseech her to join
+them; yet she persisted in her attempt. She was just on the point of
+giving it up in despair, when suddenly the refractory knot yielded to
+her fumbling fingers, and the cord, unrolling, dropped on the floor.
+
+Pandora had repeatedly fancied that sounds like whispers issued from
+the box. The noise now seemed to increase, and she breathlessly
+applied her ear to the lid to ascertain whether it really proceeded
+from within. Imagine, therefore, her surprise when she distinctly
+heard these words, uttered in the most pitiful accents: "Pandora, dear
+Pandora, have pity upon us! Free us from this gloomy prison! Open,
+open, we beseech you!"
+
+Pandora's heart beat so fast and loud, that it seemed for a moment to
+drown all other sounds. Should she open the box? Just then a familiar
+step outside made her start guiltily. Epimetheus was coming, and she
+knew he would urge her again to come out, and would prevent the
+gratification of her curiosity. Precipitately, therefore, she raised
+the lid to have one little peep before he came in.
+
+Now, Jupiter had malignantly crammed into this box all the diseases,
+sorrows, vices, and crimes that afflict poor humanity; and the box was
+no sooner opened, than all these ills flew out, in the guise of horrid
+little brown-winged creatures, closely resembling moths. These little
+insects fluttered about, alighting, some upon Epimetheus, who had just
+entered, and some upon Pandora, pricking and stinging them most
+unmercifully. Then they flew out through the open door and windows,
+and fastened upon the merrymakers without, whose shouts of joy were
+soon changed into wails of pain and anguish.
+
+Epimetheus and Pandora had never before experienced the faintest
+sensation of pain or anger; but, as soon as these winged evil spirits
+had stung them, they began to weep, and, alas! quarreled for the first
+time in their lives. Epimetheus reproached his wife in bitterest terms
+for her thoughtless action; but in the very midst of his vituperation
+he suddenly heard a sweet little voice entreat for freedom. The sound
+proceeded from the unfortunate box, whose cover Pandora had dropped
+again, in the first moment of her surprise and pain. "Open, open, and
+I will heal your wounds! Please let me out!" it pleaded.
+
+The tearful couple viewed each other inquiringly, and listened again.
+Once more they heard the same pitiful accents; and Epimetheus bade his
+wife open the box and set the speaker free, adding very amiably, that
+she had already done so much harm by her ill-fated curiosity, that it
+would be difficult to add materially to its evil consequences, and
+that, perchance, the box contained some good spirit, whose
+ministrations might prove beneficial.
+
+It was well for Pandora that she opened the box a second time, for the
+gods, with a sudden impulse of compassion, had concealed among the
+evil spirits one kindly creature, Hope, whose mission was to heal the
+wounds inflicted by her fellow-prisoners.
+
+    "Hope sole remain'd within, nor took her flight,
+    Beneath the vessel's verge conceal'd from light."
+
+                       Hesiod (Elton's tr.).
+
+Lightly fluttering hither and thither on her snowy pinions, Hope
+touched the punctured places on Pandora's and Epimetheus' creamy skin,
+and relieved their suffering, then quickly flew out of the open
+window, to perform the same gentle office for the other victims, and
+cheer their downcast spirits.
+
+Thus, according to the ancients, evil entered into the world, bringing
+untold misery; but Hope followed closely in its footsteps, to aid
+struggling humanity, and point to a happier future.
+
+    "Hope rules a land forever green:
+    All powers that serve the bright-eyed Queen
+        Are confident and gay;
+    Clouds at her bidding disappear;
+    Points she to aught?--the bliss draws near,
+        And Fancy smooths the way."
+
+                                 Wordsworth.
+
+  [Illustration: HOPE.--Thorwaldsen.]
+
+During many centuries, therefore, Hope continued to be revered,
+although the other divinities had ceased to be worshiped.
+
+According to another version, Pandora was sent down to man, bearing a
+vase in which the evil spirits were imprisoned, and on the way, seized
+by a fit of curiosity, raised the cover, and allowed them all to
+escape.
+
+[Sidenote: The Four Ages.]
+
+Little by little the world was peopled; and the first years of man's
+existence upon earth were, as we have seen, years of unalloyed
+happiness. There was no occasion for labor, for the earth brought
+forth spontaneously all that was necessary for man's subsistence.
+"Innocence, virtue, and truth prevailed; neither were there any laws
+to restrict men, nor judges to punish." This time of bliss has justly
+borne the title of Golden Age, and the people in Italy then throve
+under the wise rule of good old Saturn, or Cronus.
+
+Unfortunately, nothing in this world is lasting; and the Golden Age
+was followed by another, not quite so prosperous, hence called the
+Silver Age, when the year was first divided into seasons, and men were
+obliged to toil for their daily bread.
+
+    "Succeeding times a silver age behold,
+    Excelling brass, but more excell'd by gold.
+    Then summer, autumn, winter, did appear,
+    And spring was but a season of the year;
+    The sun his annual course obliquely made,
+    Good days contracted, and enlarg'd the bad.
+    The air with sultry heats began to glow,
+    The wings of winds were clogg'd with ice and snow;
+    And shivering mortals into houses driven,
+    Sought shelter from the inclemency of heaven.
+    Those houses, then, were caves or homely sheds,
+    With twining osiers fenc'd, and moss their beds.
+    Then plows, for seed, the fruitful furrows broke,
+    And oxen labor'd first beneath the yoke."
+
+                        Ovid (Dryden's tr.).
+
+Yet, in spite of these few hardships, the people were happy, far
+happier than their descendants during the Age of Brass, which
+speedily followed, when strife became customary, and differences were
+settled by blows.
+
+But by far the worst of all was the Iron Age, when men's passions knew
+no bounds, and they even dared refuse all homage to the immortal gods.
+War was waged incessantly; the earth was saturated with blood; the
+rights of hospitality were openly violated; and murder, rape, and
+theft were committed on all sides.
+
+[Sidenote: The Deluge.]
+
+Jupiter had kept a close watch over men's actions during all these
+years; and this evil conduct aroused his wrath to such a point, that
+he vowed he would annihilate the human race. But the modes of
+destruction were manifold, and, as he could not decide which would
+eventually prove most efficacious, he summoned the gods to deliberate
+and aid him by their counsels. The first suggestion offered, was to
+destroy the world by fire, kindled by Jupiter's much-dreaded
+thunderbolts; and the king of gods was about to put it into instant
+execution, when his arm was stayed by the objection that the rising
+flames might set fire to his own abode, and reduce its magnificence to
+unsightly ashes. He therefore rejected the plan as impracticable, and
+bade the gods devise other means of destruction.
+
+After much delay and discussion, the immortals agreed to wash mankind
+off the face of the earth by a mighty deluge. The winds were
+instructed to gather together the rain clouds over the earth. Neptune
+let loose the waves of the sea, bidding them rise, overflow, and
+deluge the land. No sooner had the gods spoken, than the elements
+obeyed: the winds blew; the rain fell in torrents; lakes, seas,
+rivers, and oceans broke their bonds; and terrified mortals,
+forgetting their petty quarrels in a common impulse to flee from the
+death which threatened them, climbed the highest mountains, clung to
+uprooted trees, and even took refuge in the light skiffs they had
+constructed in happier days. Their efforts were all in vain, however;
+for the waters rose higher and higher, overtook them one after another
+in their ineffectual efforts to escape, closed over the homes where
+they might have been so happy, and drowned their last despairing
+cries in their seething depths.
+
+    "Now hills and vales no more distinction know,
+    And level'd nature lies oppress'd below;
+    The most of mortals perish in the flood."
+
+                        Ovid (Dryden's tr.).
+
+[Sidenote: Story of Deucalion and Pyrrha.]
+
+The rain continued to fall, until, after many days, the waves covered
+all the surface of the earth except the summit of Mount Parnassus, the
+highest peak in Greece. On this mountain, surrounded by the
+ever-rising flood, stood the son of Prometheus, Deucalion, with his
+faithful wife Pyrrha, a daughter of Epimetheus and Pandora. From
+thence they, the sole survivors, viewed the universal desolation with
+tear-dimmed eyes.
+
+In spite of the general depravity, the lives of this couple had always
+been pure and virtuous; and when Jupiter saw them there alone, and
+remembered their piety, he decided not to include them in the general
+destruction, but to save their lives. He therefore bade the winds
+return to their cave, and the rain to cease. Neptune, in accordance
+with his decree, blew a resounding blast upon his conch shell to
+recall the wandering waves, which immediately returned within their
+usual bounds.
+
+    "At length the world was all restor'd to view,
+    But desolate, and of a sickly hue;
+    Nature beheld herself, and stood aghast,
+    A dismal desert and a silent waste."
+
+                        Ovid (Dryden's tr.).
+
+Deucalion and Pyrrha followed the receding waves step by step down the
+steep mountain side, wondering how they should repeople the desolate
+earth. As they talked, they came to the shrine of Delphi, which alone
+had been able to resist the force of the waves. There they entered to
+consult the wishes of the gods. Their surprise and horror were
+unbounded, however, when a voice exclaimed, "Depart from hence with
+veiled heads, and cast your mother's bones behind you!" To obey such
+a command seemed sacrilegious in the extreme; for the dead had always
+been held in deep veneration by the Greeks, and the desecration of a
+grave was considered a heinous crime, and punished accordingly. But,
+they reasoned, the gods' oracles can seldom be accepted in a literal
+sense; and Deucalion, after due thought, explained to Pyrrha what he
+conceived to be the meaning of this mysterious command.
+
+"The Earth," said he, "is the mother of all, and the stones may be
+considered her bones." Husband and wife speedily decided to act upon
+this premise, and continued their descent, casting stones behind them.
+All those thrown by Deucalion were immediately changed into men, while
+those cast by Pyrrha became women.
+
+Thus the earth was peopled for the second time with a blameless race
+of men, sent to replace the wicked beings slain by Jupiter. Deucalion
+and Pyrrha shortly after became the happy parents of a son named
+Hellen, who gave his name to all the Hellenic or Greek race; while his
+sons Æolus and Dorus, and grandsons Ion and Achæus, became the
+ancestors of the Æolian, Dorian, Ionian, and Achaian nations.
+
+Other mythologists, in treating of the deluvian myths, state that
+Deucalion and Pyrrha took refuge in an ark, which, after sailing about
+for many days, was stranded on the top of Mount Parnassus. This
+version was far less popular with the Greeks, although it betrays
+still more plainly the common source whence all these myths are
+derived.
+
+    "Who does not see in drown Deucalion's name,
+    When Earth her men and Sea had lost her shore,
+                Old Noah!"
+
+                                   Fletcher.
+
+
+
+
+CHAPTER II.
+
+JUPITER.
+
+
+[Sidenote: Jupiter's titles.]
+
+Jupiter, Jove, or Zeus, king of the gods, supreme ruler of the
+universe, the special deity of mankind, the personification of the sky
+and of all the phenomena of the air, and the guardian of political
+order and peace, was the most prominent of all the Olympian
+divinities: the others were obliged to submit to his will, and
+trembled at his all-powerful nod.
+
+    "He, whose all-conscious eyes the world behold,
+    The eternal Thunderer sat, enthroned in gold.
+    High heaven the footstool of his feet he makes,
+    And wide beneath him all Olympus shakes."
+
+    "He spoke, and awful bends his sable brows,
+    Shakes his ambrosial curls, and gives the nod,
+    The stamp of fate and sanction of the god:
+    High heaven with trembling the dread signal took,
+    And all Olympus to the center shook."
+
+                         Homer (Pope's tr.).
+
+The Fates and Destiny alone dared oppose Jupiter's sovereign will, and
+they continued to issue their irrevocable decrees, even after he
+supplanted his father and began to rule over all.
+
+In common with all other Greek and Roman divinities, Jupiter, though
+immortal, was subject to pleasure, pain, grief, and anger, and a prey
+to all the passions which rule the hearts of men.
+
+  [Illustration: OLYMPIAN ZEUS.--Flaxman.]
+
+It was he who presided at the councils held on the top of "many-peaked
+Olympus," and summoned the gods whenever he wished to discuss with
+them any matter of importance, or to indulge in a sumptuous repast,
+when they ate the celestial ambrosia and quaffed the fragrant nectar.
+
+He is generally represented as a fine majestic figure, with long
+curling hair and beard, clad in flowing drapery, his redoubtable
+thunderbolts or scepter in one hand, and a statue of Victory in the
+other. The world is his footstool; and the eagle, emblem of strength
+and power, is generally seen close beside him.
+
+[Sidenote: Jupiter's attendants.]
+
+Jupiter had his own special attendants, such as Victoria, or Nice, the
+goddess of victory, who was ever ready to obey his slightest behest,
+and it is said her master loved her so dearly, that he generally held
+an image of her in his hand.
+
+The hundred-tongued goddess of fame, Fama, trumpet in hand,
+proclaimed, at his bidding, anything he wished, never questioning
+whether it were true or false.
+
+    "Fame than who never plague that runs
+        Its way more swiftly wins:
+    Her very motion lends her power:
+    She flies and waxes every hour.
+    At first she shrinks, and cowers for dread:
+        Ere long she soars on high:
+    Upon the ground she plants her tread,
+        Her forehead in the sky."
+
+                   Virgil (Conington's tr.).
+
+Close by Jupiter's side was sometimes seen Fortuna, goddess of
+fortune, poised on a constantly revolving wheel, whereon she journeyed
+throughout the world, scattering with careless hands her numerous
+gifts, and lavishing with indifference her choicest smiles; while
+Hebe, or Juventas, the goddess of youth, was ever ready at his wish to
+pour out the nectar, in which the gods were wont to pledge each other.
+
+              "Hebe, honored of them all,
+    Ministered nectar, and from cups of gold
+    They pledged each other."
+
+                       Homer (Bryant's tr.).
+
+  [Illustration: GANYMEDE AND THE EAGLE. (National Museum, Naples.)]
+
+But this fair goddess awkwardly tripped and fell on a solemn
+occasion, and was forced to resign her office. To replace her, the
+father of the gods was obliged to go in quest of another cup-bearer.
+
+To facilitate his search, he assumed the form of an eagle, and winged
+his flight over the earth. He had not flown far, before he beheld a
+youth of marvelous beauty, alone on a neighboring hill. To swoop down,
+catch him up in his mighty talons, and bear him safely off to Olympus,
+was but a moment's work; and there the kidnapped youth Ganymede, the
+son of a king of Troy, was carefully instructed in the duties he was
+called upon to perform in the future.
+
+    "And godlike Ganymede, most beautiful
+    Of men; the gods beheld and caught him up
+    To heaven, so beautiful was he, to pour
+    The wine to Jove, and ever dwell with them."
+
+                       Homer (Bryant's tr.).
+
+[Sidenote: Story of Philemon and Baucis.]
+
+Solicitous for the welfare of mankind, Jupiter often visited the
+earth, taking great care to assume some disguise which would enable
+him to ascertain all he wished without any risk of detection. One day
+he and Mercury, his special messenger and favorite among the gods,
+took the forms of needy, belated travelers, and entered the lowly hut
+of a worthy old couple, Philemon and Baucis.
+
+Eager to offer their best to the strangers, these poor people decided
+to kill their sole remaining goose; but their efforts to secure it
+were vain, and finally the persecuted fowl took refuge between
+Jupiter's knees. Touched with their zeal, yet anxious to prevent the
+death of the confiding goose, Jupiter revealed himself to his faithful
+worshipers, and in gratitude for their intended sacrifice bade them
+ask any boon, promising by the great river Styx--the most binding and
+solemn oath a god could utter--to grant their request.
+
+Contrary to the custom current in similar cases, Philemon and Baucis
+made a modest and judicious choice, and proffered a timid request that
+they might serve the gods as long as life and strength endured, and
+finally die together. This most reasonable wish was immediately
+granted; and Jupiter, moreover, changed their humble abode into a
+superb temple, where they could offer daily sacrifices on his altars.
+
+    "Their little shed, scarce large enough for two,
+    Seems, from the ground increased, in height and bulk to grow.
+    A stately temple shoots within the skies,
+    The crotches of their cot in columns rise;
+    The pavement polish'd marble they behold,
+    The gates with sculpture grac'd, the spires and tiles of gold."
+
+                        Ovid (Dryden's tr.).
+
+After many years of faithful service, when age had made them long for
+death, Philemon and Baucis were transformed into majestic oaks, which
+stood for many a century in front of the temple, monuments of the love
+and faith which had bound the pair through life.
+
+Although married to Juno, Jupiter often indulged in love affairs with
+other goddesses, and even with mortal maidens. The ancients themselves
+did not practice polygamy, but their gods were supposed to be able to
+indulge all their passions with impunity. As the personification of
+the sky, Jupiter, therefore, consorted at times with Juno (the
+Atmosphere), with Dione (Moisture), with Themis (Justice), etc.,
+without incurring any reproach; for these marriages, in their
+estimation, were all symbolical.
+
+But Juno being of a jealous disposition, Jupiter was forced to conduct
+his courtships with great secrecy and circumspection, and therefore
+generally adopted the precaution of a disguise. To win Europa, the
+fair daughter of Agenor, for instance, he became a bull.
+
+                      "The gods themselves,
+    Humbling their deities to love, have taken
+    The shapes of beasts upon them. Jupiter
+    Became a bull, and bellow'd."
+
+                                Shakespeare.
+
+[Sidenote: Jupiter kidnaps Europa.]
+
+One day Europa was playing in her father's meadows with her three
+brothers, Cadmus, Phoenix, and Cilix, when she suddenly saw a white
+bull coming towards her; not with fiery eyes and lowered horns, but
+gently, as if to express a mute request to be petted. The maiden,
+delighted, stroked the beast, and decked him with bright garlands of
+meadow-blossoms. Then, seeing him kneel, as if to invite her to mount,
+she lightly sprang upon his broad back, calling to her companions to
+follow her example; but, before they could do as she wished, the bull
+had risen to his feet, and galloped off towards the sea with his fair
+burden on his back.
+
+Instead of turning when he saw the foam-crested waves, he plunged into
+the midst of them, and in a few minutes disappeared from view, so
+rapidly did he swim away. To reassure the frightened girl, the bull
+now spoke in gentle accents, bidding her dismiss all fear, for he was
+the great Jupiter in disguise.
+
+    "Take courage, gentle maid! nor fear the tide:
+    I, though near-seen a bull, am heavenly Jove:
+    I change my shape at will."
+
+                      Moschus (Elton's tr.).
+
+Pleased with the novelty of her situation, and flattered by the god's
+evident admiration, Europa ceased to struggle, wound her arms more
+closely around the bull's neck to prevent the waves from washing her
+off her perilous seat, and allowed herself to be carried away.
+
+Jupiter finally deposited his fair burden upon the shores of a new
+land, to which he gallantly gave her name, Europe. He then resumed his
+wonted form, explained at length his reasons for so unceremoniously
+kidnapping her, and finally won her consent to their union. Their
+three sons were Minos, Rhadamanthus, and Sarpedon. The two former were
+subsequently appointed judges in the Infernal Regions, while the third
+found an early but glorious death during the Trojan war.
+
+  [Illustration: THE ABDUCTION OF EUROPA.--Albani. (Uffizi Palace,
+      Florence.)]
+
+[Sidenote: Search for Europa.]
+
+All unconscious of their sister's fate, the young princes had
+returned in haste to their father's palace to announce her sudden
+involuntary departure. Agenor, whose favorite she had always been,
+rent his garments for grief, and bade his sons go forth and seek her,
+and not to return till they had found her. Accompanied by their
+mother, Telephassa, they immediately set out on their journey,
+inquiring of all they met if they had seen their sister. Search and
+inquiry proved equally fruitless.
+
+At last, weary of this hopeless quest, Phoenix refused his further
+aid, and allowed his sorrowing relatives to continue without him,
+remaining in a land which from him was called Phoenicia. Cilix, too,
+soon followed his example, and settled in a fertile country which they
+had reached, hence called Cilicia; and finally Telephassa, worn out
+with grief and fatigue, lay down to die, charging her oldest son to go
+on alone.
+
+Cadmus wandered on till he came to Delphi, where he consulted the
+oracle; but, to his great dismay, the only reply he received was,
+"Follow the cow, and settle where she rests."
+
+In deep perplexity he left the temple, and, from force of habit,
+journeyed on, patiently questioning all he met. Soon he perceived a
+cow leisurely walking in front of him, and, mindful of the oracle, he
+ceased his search and followed her. Urged by curiosity, many
+adventurers joined him on the way, and, when the cow at last lay down
+in the land since called Boeotia, they all promised to aid Cadmus,
+their chosen leader, to found their future capital, which was to be
+called Thebes.
+
+[Sidenote: Founding of Thebes.]
+
+Parched with thirst after their long walk, the men then hastened to a
+neighboring spring, but, to Cadmus' surprise, time passed and still
+they did not return. Armed with his trusty sword, he finally went down
+to the spring to discover the cause of their delay, and found that
+they had all been devoured by a huge dragon, which lived in the
+hollow. The prince raised his sword to avenge their death, and dealt
+the dragon such a deadly blow upon the head, that he put an immediate
+end to its existence.
+
+While Cadmus stood there contemplating his lifeless foe, a voice bade
+him extract the dragon's teeth, and sow them in the ground already
+broken for his future city. No human being was within sight: so Cadmus
+knew the order proceeded from the immortal gods, and immediately
+prepared to obey it. The dragon's teeth were no sooner planted, than a
+crop of giants sprang from the soil, full grown, and armed to the
+teeth. They were about to fall upon Cadmus, when the same voice bade
+him cast a stone in the midst of their close-drawn phalanx. Cadmus,
+seeing the giants were almost upon him, and that no time was to be
+lost, quickly threw a stone. The effect produced was almost
+instantaneous; for the giants, each fancying it had been thrown by his
+neighbor, began fighting among themselves. In a few minutes the number
+of giants was reduced to five, who sheathed their bloodstained
+weapons, and humbly tendered their services to Cadmus. With their aid,
+the foundations of the city were laid; but their labor was not very
+arduous, as the gods caused some of the public buildings to rise up
+out of the ground, all complete, and ready for use.
+
+To reward Cadmus for his loving and painstaking search for Europa,
+Jupiter gave him the hand of the fair princess Harmonia, a daughter of
+Mars and Venus, in marriage. Cadmus, the founder of Thebes, is
+supposed to have invented the alphabet, and introduced its use into
+Greece. Although his career was very prosperous at first, he finally
+incurred the wrath of the gods by forgetting, on a solemn occasion, to
+offer them a suitable sacrifice; and, in anger at his dereliction,
+they changed him and Harmonia into huge serpents.
+
+[Sidenote: Worship of Jupiter.]
+
+Jupiter was, of course, very widely and generally worshiped by the
+ancients; and his principal temples--the Capitol at Rome, and the
+shrine of Jupiter Ammon in Libya--have been world-renowned. He also
+had a noted temple at Dodona, where an oak tree gave forth mysterious
+prophecies, which were supposed to have been inspired by the king of
+gods; this long lost shrine has recently been discovered.
+
+    "Oh, where, Dodona! is thine aged grove,
+    Prophetic fount, and oracle divine?
+    What valley echoed the response of Jove?
+    What trace remaineth of the Thunderer's shrine?
+    All, all forgotten!"
+
+                                      Byron.
+
+A magnificent temple at Olympia, on the Peloponnesus, was also
+dedicated to Jupiter; and here every fifth year the people of Greece
+were wont to assemble to celebrate games, in honor of Jupiter's great
+victory over the Titans. These festivals were known as the Olympian
+Games; and the Greeks generally reckoned time by olympiads, that is to
+say, by the space of time between the celebrations. Within the temple
+at Olympia stood a wonderful statue of gold and ivory, the work of
+Phidias. Its proportions and beauty were such, that it was counted one
+of the Seven Wonders of the ancient world. It is said, too, that the
+artist, having completed this masterpiece, longed for some sign of
+approval from heaven, and fervently prayed for a token that the god
+accepted his labor. Jupiter, in answer to this prayer, sent a vivid
+flash of lightning, which played about the colossal image,
+illuminating it, but leaving it quite unharmed.
+
+The Greeks were indebted to Phidias for many of their most exquisite
+statues of the gods; but none of the others equaled this figure of
+Jupiter in size, dignity of attitude, or elaborate finish.
+
+        "Wise Phidias, thus his skill to prove,
+    Through many a god advanc'd to Jove,
+    And taught the polish'd rocks to shine
+    With airs and lineaments divine;
+    Till Greece, amaz'd, and half afraid,
+    Th' assembled deities survey'd."
+
+                                    Addison.
+
+  [Illustration: JUNO. (Vatican, Rome.)]
+
+
+
+
+CHAPTER III.
+
+JUNO.
+
+
+[Sidenote: Juno's marriage.]
+
+Juno (Hera, Here), queen of heaven, and goddess of the atmosphere and
+of marriage, was the daughter of Cronus and Rhea, and consequently the
+sister of Jupiter; but, as soon as the latter had dethroned his
+parents and seized the scepter, he began to look about him for a
+suitable helpmate. Juno won his affections by her great beauty; and he
+immediately began his courtship, which he carried on in the guise of a
+cuckoo, to infuse a little romance into it. He evidently found favor
+in her sight, and won her consent to share his throne; for shortly
+afterward their wedding was celebrated with great pomp on Mount
+Olympus. It was on this solemn occasion that the immortal conclave of
+the gods declared that Juno should be henceforth honored as goddess of
+marriage.
+
+                      "Juno, who presides
+    Supreme o'er bridegrooms and o'er brides."
+
+                   Virgil (Conington's tr.).
+
+But although in the beginning this union seemed very happy, there soon
+arose subjects for contention; for unfortunately Jupiter was inclined
+to be faithless, and Juno jealous, and, like the element she
+personified, exceedingly variable in her moods. On such occasions she
+gave way to her violent temper, and bitterly reproached her husband,
+who, impatient of her censure, punished her severely, and, instead of
+reforming, merely continued his numerous intrigues with renewed zest.
+
+[Sidenote: Story of Callisto and Arcas.]
+
+On one occasion he fell deeply in love with a maiden named Callisto,
+gentle, fair, and slender; but, in spite of all the precautions which
+he took when visiting her, Juno discovered the object of his
+affections. Night and day she thought and planned, until she devised a
+species of revenge which seemed adequate. The graceful girl was
+suddenly bereft of speech, changed into a rough, ungainly bear, and
+driven out into the solitudes of the great forests, which were from
+that time forth to be her home. Jupiter vainly sought his missing
+ladylove, and it was only long afterward that he discovered her and
+her little bear son Arcas. In pity for all they had suffered, he
+transferred them both to the sky, where they are still known as the
+constellations of the Great and Little Bear.
+
+[Sidenote: Juno's attendant.]
+
+Juno, like her husband, had also her special attendant, Iris (the
+Rainbow), whom she frequently employed as messenger,--a task which
+this deity accomplished with as much celerity as Mercury. Her flight
+through the air was so rapid, that she was seldom seen; and no one
+would have known she had passed, had it not been for the brilliant
+trail her many-colored robe left behind her in the sky.
+
+    "Like fiery clouds, that flush with ruddy glare,
+    Or Iris, gliding through the purple air;
+    When loosely girt her dazzling mantle flows,
+    And 'gainst the sun in arching colors glows."
+
+                      Flaccus (Elton's tr.).
+
+Juno is the mother of Mars, Hebe, and Vulcan, and is always described
+and represented as a beautiful, majestic woman, clad in flowing robes,
+with a diadem and scepter. The peacock and cuckoo were both sacred to
+her, and are therefore often seen at her side.
+
+  [Illustration: IRIS.--Tito Conti.]
+
+[Sidenote: Worship of Juno.]
+
+Her principal places of worship were at Mycenæ, Sparta, Argos, Rome,
+and Heræum. She had also numerous other sanctuaries scattered
+throughout the ancient world, and was worshiped in the same temples as
+Jupiter. Many fine statues of this goddess were found in Greece and
+Italy, some of which are still extant, and serve to show the
+ancients' exalted conception of the Queen of Heaven.
+
+[Sidenote: Story of Cleobis and Biton.]
+
+Juno's festivals, the Matronalia, in Rome, were always celebrated with
+great pomp. Less important feasts were held in each city where a
+temple was dedicated to her. On one of these occasions an old
+priestess was very anxious to go to the temple at Argos, where she had
+ministered to the goddess for many years, and which she had left only
+to be married. The way was long and dusty: so the aged woman, who
+could no longer walk such a distance, bade her sons, Cleobis and
+Biton, harness her white heifers to her car. The youths hastened to do
+her bidding; but, although they searched diligently, the heifers could
+not be found. Rather than disappoint their aged mother, who had set
+her heart upon attending the services, these kind-hearted sons
+harnessed themselves to the cart, and drew her through the city to the
+temple gates, amid the acclamations of all the people, who admired
+this trait of filial devotion.
+
+The mother was so touched by her sons' affection, that, as she knelt
+before the altar, she fervently prayed Juno to bestow upon them the
+greatest boon in her power. At the conclusion of the services the
+ex-priestess went into the portico, where her sons had thrown
+themselves to rest after their unwonted exertions; but instead of
+finding them merely asleep, as she expected, she found them dead. The
+Queen of Heaven had transported them while asleep to the Elysian
+Fields, the place of endless bliss, where such as they enjoyed eternal
+life.
+
+
+
+
+CHAPTER IV.
+
+MINERVA.
+
+
+[Sidenote: Birth of Minerva.]
+
+Although immortal, the gods were not exempt from physical pain. One
+day Jupiter suffered intensely from a sudden headache, and, in hopes
+that some mode of alleviation would be devised, he summoned all the
+gods to Olympus. Their united efforts were vain, however; and even the
+remedies suggested by Apollo, god of medicine, proved inefficacious.
+Unwilling, or perchance unable, to endure the racking pain any longer,
+Jupiter bade one of his sons, Vulcan, cleave his head open with an ax.
+With cheerful alacrity the dutiful god obeyed; and no sooner was the
+operation performed, than Minerva (Pallas, Athene) sprang out of her
+father's head, full-grown, clad in glittering armor, with poised
+spear, and chanting a triumphant song of victory.
+
+                        "From his awful head
+    Whom Jove brought forth, in warlike armor drest,
+    Golden, all radiant."
+
+                                    Shelley.
+
+The assembled gods recoiled in fear before this unexpected apparition,
+while at the same time a mighty commotion over land and sea proclaimed
+the advent of a great divinity.
+
+The goddess, who had thus joined the inhabitants of Olympus, was
+destined to preside over peace, defensive war, and needlework, to be
+the incarnation of wisdom, and to put to flight the obscure deity
+called Dullness, who until then had ruled the world.
+
+  [Illustration: MINERVA. (National Museum, Naples.)]
+
+    "Ere Pallas issu'd from the Thund'rer's head,
+    Dullness o'er all possess'd her ancient right,
+    Daughter of Chaos and eternal Night."
+
+                                       Pope.
+
+Minerva, having forced her unattractive predecessor to beat an
+ignominious retreat, quickly seized the scepter, and immediately began
+to rule in her stead.
+
+[Sidenote: Naming of Athens.]
+
+Not long after her birth, Cecrops, a Phoenician, came to Greece, where
+he founded a beautiful city in the province since called Attica. All
+the gods watched his undertaking with great interest; and finally,
+seeing the town promised to become a thriving place, each wished the
+privilege of naming it. A general council was held, and after some
+deliberation most of the gods withdrew their claims. Soon none but
+Minerva and Neptune were left to contend for the coveted honor.
+
+To settle the quarrel without evincing any partiality, Jupiter
+announced that the city would be intrusted to the protection of the
+deity who would create the most useful object for the use of man.
+Raising his trident, Neptune struck the ground, from which a noble
+horse sprang forth, amid the exclamations of wonder and admiration of
+all the spectators. His qualities were duly explained by his proud
+creator, and all thought it quite impossible for Minerva to surpass
+him. Loudly they laughed, and scornfully too, when she, in her turn,
+produced an olive tree; but when she had told them the manifold uses
+to which wood, fruit, foliage, twigs, etc., could be applied, and
+explained that the olive was a sign of peace and prosperity, and
+therefore far more desirable than the horse, the emblem of war and
+wretchedness, they could but acknowledge her gift the most
+serviceable, and award her the prize.
+
+To commemorate this victory over her rival, Minerva gave her own name
+of Athene to the city, whose inhabitants, from that time forth, were
+taught to honor her as their tutelary goddess.
+
+Ever at Jupiter's side, Minerva often aided him by her wise counsels,
+and in times of war borrowed his terrible shield, the Ægis, which she
+flung over her shoulder when she sallied forth to give her support to
+those whose cause was just.
+
+                  "Her shoulder bore
+    The dreadful Ægis with its shaggy brim
+    Bordered with Terror. There was Strife, and there
+    Was Fortitude, and there was fierce Pursuit,
+    And there the Gorgon's head, a ghastly sight,
+    Deformed and dreadful, and a sign of woe."
+
+                       Homer (Bryant's tr.).
+
+The din of battle had no terrors for this doughty goddess, and on
+every occasion she was wont to plunge into the thickest of the fray
+with the utmost valor.
+
+[Sidenote: Story of Arachne.]
+
+These virile tastes were, however, fully counterbalanced by some
+exclusively feminine, for Minerva was as deft with her needle as with
+her sword. In Greece there lived in those olden times a maiden by the
+name of Arachne. Pretty, young, and winsome, she would have been loved
+by all had it not been for her inordinate pride, not in her personal
+advantages, but in her skill as a needlewoman.
+
+Arachne, in her conceit, fancied that no one could equal the work done
+by her deft fingers, so she boasted far and wide that she would have
+no fear to match her skill with Minerva's. She made this remark so
+loudly and so frequently, that the goddess was finally annoyed, and
+left her seat in high Olympus to come down upon earth and punish the
+maiden. In the guise of an old crone, she entered Arachne's house,
+seated herself, and began a conversation. In a few minutes the maiden
+had resumed her usual strain, and renewed her rash boast. Minerva
+gently advised her to be more modest, lest she should incur the wrath
+of the gods by her presumptuous words; but Arachne was so blinded by
+her conceit, that she scorned the well-meant warning, saucily tossed
+her head, and declared she wished the goddess would hear her, and
+propose a contest, in which she would surely be able to prove the
+truth of her assertions. This insolent speech so incensed Minerva,
+that she cast aside her disguise and accepted the challenge.
+
+Both set up their looms, and began to weave exquisite designs in
+tapestry: Minerva choosing as her subject her contest with Neptune;
+and Arachne, the kidnapping of Europa. In silence the fair weavers
+worked, and their webs grew apace under their practiced fingers. The
+assembled gods, the horse, the olive tree, seemed to live and move
+under Minerva's flashing shuttle.
+
+    "Emongst these leaves she made a Butterflie,
+    With excellent device and wondrous slight,
+    Fluttring among the Olives wantonly,
+    That seem'd to live, so like it was in sight:
+    The velvet nap which on his wings doth lie,
+    The silken downe with which his backe is dight,
+    His broad outstretched hornes, his hayrie thies,
+    His glorious colours, and his glistering eies."
+
+                                    Spenser.
+
+Arachne, in the mean while, was intent upon her swimming bull, against
+whose broad breast the waves splashed, and upon a half-laughing,
+half-frightened girl, who clung to the bull's horns, while the wind
+played with her flowing tresses and garments.
+
+              "Sweet Europa's mantle blew unclasp'd,
+      From off her shoulder backward borne:
+    From one hand droop'd a crocus: one hand grasp'd
+      The mild bull's golden horn."
+
+                                   Tennyson.
+
+The finishing touches all given, each turned to view her rival's work,
+and at the very first glance Arachne was forced to acknowledge her
+failure. To be thus outstripped, after all her proud boasts, was
+humiliating indeed. Bitterly did Arachne now repent of her folly; and
+in her despair she bound a rope about her neck, and hung herself.
+Minerva saw her discomfited rival was about to escape: so she quickly
+changed her dangling body into a spider, and condemned her to weave
+and spin without ceasing,--a warning to all conceited mortals.
+
+[Sidenote: Worship of Minerva.]
+
+Minerva, the goddess of wisdom, was widely worshiped. Temples and
+altars without number were dedicated to her service, the most
+celebrated of all being the Parthenon at Athens. Naught but the ruins
+of this mighty pile now exist; but they suffice to testify to the
+beauty of the edifice, which served, in turn, as temple, church,
+mosque, and finally as powder magazine.
+
+    "Fair Parthenon! yet still must Fancy weep
+    For thee, thou work of nobler spirits flown.
+    Bright, as of old, the sunbeams o'er thee sleep
+    In all their beauty still--and thine is gone!
+    Empires have sunk since thou wert first revered.
+    And varying rites have sanctified thy shrine.
+    The dust is round thee of the race that rear'd
+    Thy walls; and thou--their fate must soon be thine!"
+
+                                     Hemans.
+
+Statues of Minerva--a beautiful, majestic woman, fully clothed and
+armed--were very numerous. The most celebrated of all, by the renowned
+Greek sculptor Phidias, measured full forty feet in height. Festivals
+were celebrated in honor of Minerva wherever her worship was
+held,--some, the Greek Panathenæa, for instance, only every four
+years; others, such as the Minervalia and Quinquatria, every year. At
+these festivals the Palladium, a statue of the goddess, said to have
+fallen from heaven, was carried in procession through the city, where
+the people hailed its appearance with joyful cries and songs of
+praise.
+
+
+
+
+CHAPTER V.
+
+APOLLO.
+
+
+The most glorious and beautiful among all the gods was Apollo
+(Phoebus, Sol, Helios, Cynthius, Pytheus), god of the sun, of
+medicine, music, poetry, and all fine arts.
+
+    "Bright-hair'd Apollo!--thou who ever art
+    A blessing to the world--whose mighty heart
+    Forever pours out love, and light, and life;
+    Thou, at whose glance, all things of earth are rife
+    With happiness; to whom, in early spring,
+    Bright flowers raise up their heads, where'er they cling
+    On the steep mountain side, or in the vale
+    Are nestled calmly. Thou at whom the pale
+    And weary earth looks up, when winter flees,
+    With patient gaze: thou for whom wind-stripped trees
+    Put on fresh leaves, and drink deep of the light
+    That glitters in thine eye: thou in whose bright
+    And hottest rays the eagle fills his eye
+    With quenchless fire, and far, far up on high
+    Screams out his joy to thee, by all the names
+    That thou dost bear--whether thy godhead claims
+    Phoebus or Sol, or golden-hair'd Apollo,
+    Cynthian or Pythian, if thou dost follow
+    The fleeing night, oh, hear
+    Our hymn to thee, and willingly draw near!"
+
+                                       Pike.
+
+Apollo was the son of Jupiter and Latona, or Leto, the goddess of dark
+nights. Juno's jealousy had been aroused by Jupiter's preference for
+her rival. To avenge herself, she banished Latona to earth, and
+declared that if any one, mortal or immortal, showed her any pity or
+gave her any assistance, he would incur her lasting resentment.
+
+After long, painful wanderings on earth, poor Latona, weary and
+parched with thirst, drew near a small pool by the wayside to refresh
+herself; but, urged by Juno, some reapers bade her pass on, and then,
+seeing she paid no heed to their commands, they sprang into the
+shallow waters, and stirred up the mud at the bottom until it was
+quite unpalatable. With tear-dimmed eyes, Latona prayed these cruel
+men might never leave the spot whereon they now stood; and Jupiter, in
+answer to her prayer, immediately transformed them into huge green
+frogs, which creatures have since then showed great preference for
+muddy pools.
+
+Driven on once more by Juno's unrelenting hatred, Latona finally came
+to the seashore, where she stretched out imploring hands to Neptune,
+who sent a dolphin to bear her in safety to the floating island of
+Delos, raised in her behalf from the depths of the sea. The rocking
+motion, however, proving disagreeable to the goddess, Neptune chained
+the island fast in the Ægean Sea; and there in that delightful
+climate, justly praised by poets, were born to Jupiter and Latona twin
+children, Apollo and Diana, the divinities of the sun and moon.
+
+[Sidenote: Story of Coronis.]
+
+Apollo, having attained manhood, could not avoid the usual lot of the
+gods, as well as of mortal men,--the pangs of love. They were first
+inspired by Coronis, a fair maiden, who kindled within his breast an
+ardent flame. The sun god wooed the girl warmly and persistently, and
+at length had the deep satisfaction of seeing his affections returned.
+His bliss, however, proved but fleeting; for Coronis, reasoning, that,
+if one lover were so delightful, two would be doubly so, secretly
+encouraged another suitor.
+
+    "Flirted with another lover
+      (So at least the story goes)
+    And was wont to meet him slyly,
+      Underneath the blushing rose."
+
+                                       Saxe.
+
+Although so cleverly managed, these trysts could not escape the
+bright eyes of Apollo's favorite bird, the snowy raven,--for such was
+his hue in those early times,--so _he_ flew off in haste to his master
+to report the discovery he had made. Desperate with love and jealousy,
+Apollo did not hesitate, but, seizing his bow and deadly arrows, shot
+Coronis through the heart.
+
+The deed was no sooner accomplished, than all his love returned with
+tenfold power; and, hastening to Coronis' side, he vainly tried all
+his remedies (he was god of medicine) to recall her to life.
+
+            "The god of Physic
+      Had no antidote; alack!
+    He who took her off so deftly
+      Couldn't bring the maiden back!"
+
+                                       Saxe.
+
+Bending over the lifeless body of his beloved one, he bewailed his
+fatal haste, and cursed the bird which had brought him the unwelcome
+tidings of her faithlessness.
+
+    "Then he turned upon the Raven,
+      'Wanton babbler! see thy fate!
+    Messenger of mine no longer,
+      Go to Hades with thy prate!
+
+    "'Weary Pluto with thy tattle!
+      Hither, monster, come not back;
+    And--to match thy disposition--
+      Henceforth be thy plumage black!'"
+
+                                       Saxe.
+
+[Sidenote: Æsculapius.]
+
+The only reminder of this unfortunate episode was a young son of
+Apollo and Coronis, Æsculapius (Asklepios), who was carefully
+instructed by Apollo in the healing art. The disciple's talent was so
+great, that he soon rivaled his master, and even, it is said, recalled
+the dead to life. Of course, these miracles did not long remain
+concealed from Jupiter's all-seeing eye; and he, fearing lest the
+people would forget him and worship their physician, seized one of
+his thunderbolts, hurled it at the clever youth, and thus brought to
+an untimely end his brilliant medical career.
+
+    "Then Jove, incensed that man should rise
+    From darkness to the upper skies,
+    The leech that wrought such healing hurled
+    With lightning down to Pluto's world."
+
+                   Virgil (Conington's tr.).
+
+Æsculapius' race was not entirely extinct, however, for he left two
+sons--Machaon and Podalirius, who inherited his medical skill--and a
+daughter, Hygeia, who watched over the health of man.
+
+[Sidenote: Admetus and Alcestis.]
+
+Maddened with grief at the unexpected loss of his son, Apollo would
+fain have wreaked his vengeance upon the Cyclopes, the authors of the
+fatal thunderbolt; but ere he could execute his purpose, Jupiter
+interfered, and, to punish him, banished him to earth, where he
+entered the service of Admetus, King of Thessaly. One consolation
+alone now remained to the exiled god,--his music. His dulcet tones
+soon won the admiration of his companions, and even that of the king,
+who listened to his songs with pleasure, and to reward him gave him
+the position of head shepherd.
+
+    "Then King Admetus, one who had
+      Pure taste by right divine,
+    Decreed his singing not too bad
+    To hear between the cups of wine:
+
+    "And so, well pleased with being soothed
+      Into a sweet half sleep
+    Three times his kingly beard he smoothed
+    And made him viceroy o'er his sheep."
+
+                                     Lowell.
+
+Time passed. Apollo, touched by his master's kindness, wished to
+bestow some favor in his turn, and asked the gods to grant Admetus
+eternal life. His request was complied with, but only on condition,
+that, when the time came which had previously been appointed for the
+good king's death, some one should be found willing to die in his
+stead. This divine decree was reported to Alcestis, Admetus' beautiful
+young wife, who in a passion of self-sacrifice offered herself as
+substitute, and cheerfully gave her life for her husband. But
+immortality was too dearly bought at such a price; and Admetus mourned
+until Hercules, pitying his grief, descended into Hades, and brought
+her back from the tomb.
+
+                "Did not Hercules by force
+    Wrest from the guardian Monster of the tomb
+    Alcestis, a reanimated Corse,
+    Given back to dwell on earth in vernal bloom?"
+
+                                 Wordsworth.
+
+[Sidenote: The walls of Troy.]
+
+Apollo, after endowing Admetus with immortality, left his service, and
+went to assist Neptune, who had also been banished to earth, to build
+the walls of Troy. Scorning to perform any menial tasks, the God of
+Music seated himself near by, and played such inspiring tunes that the
+stones waltzed into place of their own accord.
+
+[Sidenote: Apollo slays Python.]
+
+Then, his term of exile being ended, he returned to heaven, and there
+resumed his wonted duties. From his exalted position he often cast
+loving glances down upon men, whose life he had shared for a short
+time, whose every privation he had endured; and, in answer to their
+prayers, he graciously extended his protection over them, and
+delivered them from misfortunes too numerous to mention. Among other
+deeds done for men was the slaying of the monster serpent Python, born
+from the slime and stagnant waters which remained upon the surface of
+the earth after the Deluge. None had dared approach the monster; but
+Apollo fearlessly drew near, and slew him with his golden shafts. The
+victory over the terrible Python won for Apollo the surname of Pytheus
+(the Slayer), by which appellation he was frequently invoked.
+
+  [Illustration: APOLLO BELVEDERE. (Vatican, Rome.)]
+
+This annihilation of Python is, of course, nothing but an allegory,
+illustrating the sun's power to dry up marshes and stagnant pools,
+thus preventing the lurking fiend malaria from making further inroads.
+
+Apollo has always been a favorite subject for painters and sculptors.
+The most beautiful statue of him is the Apollo Belvedere, which
+represents him at the moment of his conquest of the Python.
+
+[Sidenote: Apollo and Hyacinthus.]
+
+Although successful in war, Apollo was very unfortunate indeed in
+friendship. One day he came down to earth to enjoy the society of a
+youth of mortal birth, named Hyacinthus. To pass the time agreeably,
+the friends began a game of quoits, but had not played long, before
+Zephyrus, god of the south wind, passing by, saw them thus occupied.
+Jealous of Apollo, for he too loved Hyacinthus, Zephyrus blew Apollo's
+quoit aside so violently that it struck his playmate, and felled him
+to the ground. Vainly Apollo strove to check the stream of blood which
+flowed from the ghastly wound. Hyacinthus was already beyond aid, and
+in a few seconds breathed his last in his friend's arms. To keep some
+reminder of the departed, Apollo changed the fallen blood drops into
+clusters of flowers, ever since called, from the youth's name,
+hyacinths; while Zephyrus, perceiving too late the fatal effect of his
+jealousy, hovered inconsolable over the sad spot, and tenderly
+caressed the dainty flowers which had sprung from his friend's
+lifeblood.
+
+                  "Zephyr penitent,
+    Who now, ere Phoebus mounts the firmament,
+    Fondles the flower."
+
+                                      Keats.
+
+[Sidenote: Apollo and Cyparissus.]
+
+To divert his mind from the mournful fate of Hyacinthus, Apollo sought
+the company of Cyparissus, a clever young hunter; but this friendship
+was also doomed to a sad end, for Cyparissus, having accidentally
+killed Apollo's pet stag, grieved so sorely over this mischance, that
+he pined away, and finally died. Apollo then changed his lifeless clay
+into a cypress tree, which he declared should henceforth be used to
+shade the graves of those who had been greatly beloved through life.
+
+[Sidenote: Apollo and Daphne.]
+
+Some time after this episode, Apollo encountered in the forest a
+beautiful nymph by the name of Daphne, the daughter of the river god
+Peneus. Love at first sight was the immediate consequence on Apollo's
+part, and he longed to speak to the maid and win her affections. He
+first tried to approach her gently, so as not to frighten her; but,
+before he could reach her side, she fled, and he, forgetful of all
+else, pursued her flying footsteps. As he ran, he called aloud to
+Daphne, entreating her to pause were it only for a moment, and
+promising to do her no harm.
+
+    "Abate, fair fugitive, abate thy speed,
+    Dismiss thy fears, and turn thy beauteous head;
+    With kind regard a panting lover view;
+    Less swiftly fly, less swiftly I'll pursue:
+    Pathless, alas! and rugged is the ground,
+    Some stone may hurt thee, or some thorn may wound.
+
+    "You fly, alas! not knowing whom you fly;
+    No ill-bred swain, nor rustic clown, am I."
+
+                                      Prior.
+
+The terrified girl paid no heed to promises or entreaties, but sped on
+until her strength began to fail, and she perceived, that,
+notwithstanding her utmost efforts, her pursuer was gaining upon her.
+Panting and trembling, she swerved aside, and rushed down to the edge
+of her father's stream, calling out loudly for his protection. No
+sooner had she reached the water's edge, than her feet seemed rooted
+to the ground. A rough bark rapidly inclosed her quivering limbs,
+while her trembling hands were filled with leaves. Her father had
+granted her prayer by changing her into a laurel tree.
+
+  [Illustration: APOLLO AND DAPHNE.--Bernini. (Villa Borghese, Rome.)]
+
+Apollo, coming up just then with outstretched arms, clasped nothing
+but a rugged tree trunk. At first he could not realize that the fair
+maiden had vanished from his sight forever; but, when the truth
+dawned upon him, he declared that from henceforth the laurel would be
+considered his favorite tree, and that prizes awarded to poets,
+musicians, etc., should consist of a wreath of its glossy foliage.
+
+                "I espouse thee for my tree:
+    Be thou the prize of honor and renown;
+    The deathless poet, and the poem, crown;
+    Thou shalt the Roman festivals adorn,
+    And, after poets, be by victors worn."
+
+                        Ovid (Dryden's tr.).
+
+This story of Apollo and Daphne was an illustration of the effect
+produced by the sun (Apollo) upon the dew (Daphne). The sun is
+captivated by its beauty, and longs to view it more closely; the dew,
+afraid of its ardent lover, flies, and, when its fiery breath touches
+it, vanishes, leaving nothing but verdure in the selfsame spot where
+but a moment before it sparkled in all its purity.
+
+[Sidenote: Cephalus and Procris.]
+
+The ancients had many analogous stories, allegories of the sun and
+dew, amongst others the oft-quoted tale of Cephalus and Procris.
+Cephalus was a hunter, who fell in love with and married one of
+Diana's nymphs, Procris. She brought him as dowry a hunting dog,
+Lelaps, and a javelin warranted never to miss its mark. The newly
+married pair were perfectly happy; but their content was viewed with
+great displeasure by Eos (Aurora), goddess of dawn, who had previously
+tried, but without success, to win Cephalus' affections, and who now
+resolved to put an end to the bliss she envied.
+
+All day long Cephalus hunted in the forest, and, when the evening
+shadows began to fall, joined his loving wife in their cozy dwelling.
+Her marriage gifts proved invaluable, as Lelaps was swift of foot, and
+tireless in the chase. One day, to test his powers, the gods from
+Olympus watched him course a fox, a special creation of theirs; and so
+well were both animals matched in speed and endurance, that the chase
+bade fair to end only with the death of one or both of the
+participants. The gods, in their admiration for the fine run,
+declared the animals deserved to be remembered forever, and changed
+them into statues, which retained all the spirited action of the
+living creatures.
+
+In the warm season, when the sun became oppressive, Cephalus was wont
+to rest during the noon hour in some shady spot, and as he flung
+himself down upon the short grass he often called for a breeze,
+bidding it cool his heated brow.
+
+    "A hunter once in that grove reclin'd,
+      To shun the noon's bright eye,
+    And oft he woo'd the wandering wind,
+      To cool his brow with its sigh.
+    While mute lay ev'n the wild bee's hum,
+      Nor breath could stir the aspen's hair,
+    His song was still, 'Sweet air, oh come!'
+      While Echo answer'd, 'Come, sweet air!'"
+
+                                      Moore.
+
+Eos heard of this habit, and was fully aware that he merely addressed
+the passing wind; nevertheless she sought Procris, and informed her
+that her husband was faithless, and paid court to a fair maid, who
+daily met him at noonday in the forest solitudes. Procris, blinded by
+sudden jealousy, gave credit to the false story, and immediately
+resolved to follow her husband.
+
+The morning had well-nigh passed, and the sun was darting its
+perpendicular rays upon the earth, when Cephalus came to his usual
+resort, near which Procris was concealed.
+
+"Sweet air, oh come!" the hunter cried; and Procris, cut to the heart
+by what she considered an infallible proof of his infidelity, sank
+fainting to the ground. The rustle caused by her swoon attracted
+Cephalus' attention. Under the mistaken impression that some wild
+beast was lurking there, ready to pounce upon him, he cast his
+unerring javelin into the very midst of the thicket, and pierced the
+faithful bosom of his wife. Her dying moan brought him with one bound
+to her side; ere she breathed her last, an explanation was given and
+received; and Procris died with the blissful conviction that her
+husband had not deserved her unjust suspicions, and that his heart
+was all her own.
+
+There are, of course, many other versions of these selfsame myths; but
+one and all are intended to illustrate the same natural phenomena, and
+are subject to the same interpretation.
+
+Apollo's principal duty was to drive the sun chariot. Day after day he
+rode across the azure sky, nor paused on his way till he reached the
+golden boat awaiting him at the end of his long day's journey, to bear
+him in safety back to his eastern palace.
+
+    "Helios all day long his allotted labor pursues;
+      No rest to his passionate heart and his panting horses given,
+    From the moment when roseate-fingered Eos kindles the dews
+      And spurns the salt sea-floors, ascending silvery the heaven,
+    Until from the hand of Eos Hesperos, trembling, receives
+      His fragrant lamp, and faint in the twilight hangs it up."
+
+                              Owen Meredith.
+
+[Sidenote: Clytie.]
+
+A fair young maiden, named Clytie, watched Apollo's daily journey with
+strange persistency; and from the moment when he left his palace in
+the morning until he came to the far western sea in the evening, she
+followed his course with loving eyes, thought of the golden-haired
+god, and longed for his love. But, in spite of all this fervor, she
+never won favor in Apollo's eyes, and languished until the gods, in
+pity, changed her into a sunflower.
+
+Even in this altered guise, Clytie could not forget the object of her
+love; and now, a fit emblem of constancy, she still follows with
+upturned face the glowing orb in its daily journey across the sky.
+
+    "No, the heart that has truly lov'd never forgets,
+      But as truly loves on to the close;
+    As the sunflower turns on her god when he sets
+      The same look which she turn'd when he rose."
+
+                                      Moore.
+
+[Sidenote: Apollo and Marsyas.]
+
+A young shepherd, lying in the cool grass one summer afternoon, became
+aware of a distant sound of music, so sweet, so thrilling, that he
+fairly held his breath to listen. These weird, delightful tones were
+produced by Minerva, who, seated by the banks of a small stream, was
+trying her skill on the flute. As she bent over the limpid waters, she
+suddenly beheld her puffed cheeks and distorted features, and
+impetuously threw the instrument into the water, vowing never to touch
+it again.
+
+    "Hence, ye banes of beauty, hence!
+    What? shall I my charms disgrace
+    By making such an odious face?"
+
+                               Melanippides.
+
+The sudden break in the entrancing music caused the youth, Marsyas, to
+start from his abstraction and look about him. He then perceived the
+rejected flute sailing gently down the stream past his feet. To seize
+the instrument and convey it to his lips was the work of an instant;
+and no sooner had he breathed into it, than the magic strain was
+renewed. No recollection of his pastoral duties could avail to tear
+Marsyas away from his new-found treasure; and so rapidly did his skill
+increase, that he became insufferably conceited, and boasted he could
+rival Apollo, whom he actually challenged to a musical contest.
+
+Intending to punish him for his presumption, Apollo accepted the
+challenge, and selected the nine Muses--patronesses of poetry and
+music--as umpires. Marsyas was first called upon to exhibit his
+proficiency, and charmed all by his melodious strains.
+
+    "So sweet that alone the south wind knew,
+    By summer hid in green reeds' jointed cells
+    To wait imprisoned for the south wind's spells,
+    From out his reedy flute the player drew,
+    And as the music clearer, louder grew,
+    Wild creatures from their winter nooks and dells,
+    Sweet furry things with eyes like starry wells,
+    Crept wanderingly out; they thought the south wind blew.
+    With instant joyous trust, they flocked around
+    His feet who such a sudden summer made,
+    His eyes, more kind than men's, enthralled and bound
+    Them there."
+
+                                       H. H.
+
+The Muses best
